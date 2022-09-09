@@ -1,0 +1,8 @@
+{"word":"FinTech","color":"rgb(72,47,222)"}
+{"word":"Financial","color":"rgb(229,218,127)"}
+{"word":"Technology","color":"rgb(149,150,149)"}
+{"word":"Regtech","color":"rgb(28,118,137)"}
+{"word":"Regulatory","color":"rgb(105,146,69)"}
+{"word":"Suptech","color":"rgb(124,183,187)"}
+{"word":"Supervisory","color":"rgb(4,198,155)"}
+{"word":"BigTech","color":"rgb(130,10,79)"}
