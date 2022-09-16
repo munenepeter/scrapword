@@ -1,4 +1,8 @@
-<?php include "base.php"; ?>
+<?php include "base.php";
+
+?>
+
+
 <div class="space-y-4 p-4 mt-6 ">
     <p class="mt-2 mx-auto">
         Searching for the following Keywords: <br><br>
@@ -44,23 +48,32 @@
             return "<p class='font-normal text-gray-700'>$text</p>";
         }
 
-        // $html = file_get_contents($_GET['url']);
+        $html = file_get_contents($_GET['url']);
 
+        $parser = new \Smalot\PdfParser\Parser();
 
-        // $text = wp_strip_all_tags($html);
-
-
-        // foreach ($s_keyWords as $keyWord) {
-        //     $keyWord = json_decode($keyWord);
-        //     echo highlightWords($text, $keyWord);
-        // }
-
-
+        if (str_contains($_GET['url'], ".pdf")) {
+            $text = $parser->parseContent($html);
+        } else {
+            $text = wp_strip_all_tags($html);
+        }
 
 
 
 
-        // die;
+        foreach ($s_keyWords as $keyWord) {
+            $keyWord = json_decode($keyWord);
+            $text =  highlightWords($text, $keyWord);
+        }
+
+
+        echo $text;
+
+
+
+
+
+        die;
         require 'vendor/autoload.php';
 
 

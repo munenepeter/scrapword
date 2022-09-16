@@ -1,5 +1,6 @@
 {
     "require": {
-        "spekulatius/phpscraper": "^0.5.4"
+        "spekulatius/phpscraper": "^0.5.4",
+        "smalot/pdfparser": "^2.2"
     }
 }
