@@ -44,7 +44,7 @@
             return trim($string);
         }
         function highlightWords($text, $word) {
-            $text = preg_replace('#' . preg_quote($word->word) . '#i', '<span name="keywords_found" class="underline rounded font-semibold text-white" style="background-color:' . $word->color . ';">\\0</span>', $text);
+            $text = preg_replace(' # ' . preg_quote($word->word) . ' #i ', '<span name="keywords_found" class="underline rounded font-semibold text-white" style="background-color:' . $word->color . ';">\\0</span>', $text);
             return "<p class='font-normal text-gray-700'>$text</p>";
         }
 
