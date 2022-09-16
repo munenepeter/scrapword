@@ -1,8 +1,28 @@
 {"word":"FinTech","color":"rgb(72,47,222)"}
-{"word":"Financial","color":"rgb(229,218,127)"}
-{"word":"Technology","color":"rgb(149,150,149)"}
+{"word":"Financial Technology","color":"rgb(229,218,127)"}
 {"word":"Regtech","color":"rgb(28,118,137)"}
-{"word":"Regulatory","color":"rgb(105,146,69)"}
+{"word":"Regulatory Technology","color":"rgb(105,146,69)"}
 {"word":"Suptech","color":"rgb(124,183,187)"}
-{"word":"Supervisory","color":"rgb(4,198,155)"}
+{"word":"Supervisory Technology","color":"rgb(4,198,155)"}
 {"word":"BigTech","color":"rgb(130,10,79)"}
+{"word":"CBDC","color":"rgb(200,158,142)"}
+{"word":"crypto assets","color":"rgb(211,146,9)"}
+{"word":"crypto currency","color":"rgb(71,2,29)"}
+{"word":"stablecoin","color":"rgb(210,135,141)"}
+{"word":"Cyber resilience","color":"rgb(0,80,42)"}
+{"word":"third party risk management","color":"rgb(144,93,199)"}
+{"word":"Ben Ownership","color":"rgb(137,71,112)"}
+{"word":"Ben Ownership","color":"rgb(14,38,11)"}
+{"word":"technology hazard","color":"rgb(158,29,31)"}
+{"word":"NCB innovation","color":"rgb(98,184,43)"}
+{"word":"SupTech policy research","color":"rgb(121,205,91)"}
+{"word":"quantum","color":"rgb(209,82,73)"}
+{"word":"travel rule","color":"rgb(232,200,12)"}
+{"word":"UK cyber strategy","color":"rgb(80,49,59)"}
+{"word":"ISO20022","color":"rgb(154,0,83)"}
+{"word":"CRR 430C","color":"rgb(209,104,14)"}
+{"word":"SEC Reg S-P","color":"rgb(124,180,33)"}
+{"word":"Digital Regulatory Reporting","color":"rgb(20,75,5)"}
+{"word":"market abuse","color":"rgb(112,95,226)"}
+{"word":"API","color":"rgb(156,78,50)"}
+{"word":"AI","color":"rgb(10,47,18)"}

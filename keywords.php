@@ -10,17 +10,19 @@
         <form action="" method="post">
             <div class="mb-6">
                 <label for="base-input" class="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Add one Keyword at a time</label>
-                <input type="text" name="keyword" id="base-input" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 ">
+                <input type="text" name="keyword" id="base-input" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 " required>
             </div>
             <button name="submit" type="submit" class="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center ">Add Keyword</button>
         </form>
     </div>
 
     <div class="p-6  bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-        <h1 class="mb-2 text-2xl font-bold tracking-tight flex space-x-2">
+        <h1 class="mb-2 text-2xl font-bold tracking-tight">
+            <?php $st_keywords = []; ?>
             <?php foreach ($s_keyWords as $keyWord) : ?>
                 <?php $keyWord = json_decode($keyWord); ?>
-                <span style="background-color:<?= $keyWord->color; ?>;" class="rounded-md p-1 font-semibold"><?= $keyWord->word; ?></span>
+                <?php array_push($st_keywords, $keyWord->word); ?>
+                <button style="background-color:<?= $keyWord->color; ?>;" type="button" class="text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"><?= $keyWord->word; ?></button>
             <?php endforeach; ?>
         </h1>
     </div>
@@ -51,6 +53,10 @@ if (isset($_POST['submit'])) {
         'color' => getRandColor()
     ]) . PHP_EOL;
 
+    if (in_array($keyword, $st_keywords)) {
+        echo "Keyword is already present!";
+        exit;
+    }
     foreach ($s_keyWords as $s_keyWord) {
         if ($keywords === $s_keyWord) {
             $message = urlencode("Keyword is already present!");
@@ -58,7 +64,6 @@ if (isset($_POST['submit'])) {
         }
     }
     if (file_put_contents("keywords.txt", $keywords, FILE_APPEND | LOCK_EX)) {
-        $message = urlencode("New was added!");
-        header("Location:keywords.php?message=$message");
+        echo "New was added!";
     }
 }
