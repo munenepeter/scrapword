@@ -29,6 +29,38 @@
             header("Location:index.php?error=$error");
         }
 
+        function wp_strip_all_tags($string, $remove_breaks = false) {
+            $string = preg_replace('@<(script|style)[^>]*?>.*?</\\1>@si', '', $string);
+            $string = strip_tags($string);
+
+            if ($remove_breaks) {
+                $string = preg_replace('/[\r\n\t ]+/', ' ', $string);
+            }
+
+            return trim($string);
+        }
+        function highlightWords($text, $word) {
+            $text = preg_replace('#' . preg_quote($word->word) . ' #i ', '<span name="keywords_found" class="underline rounded font-semibold" style="background-color:' . $word->color . ';">\\0</span>', $text);
+            return "<p class='font-normal text-gray-700'>$text</p>";
+        }
+
+        // $html = file_get_contents($_GET['url']);
+
+
+        // $text = wp_strip_all_tags($html);
+
+
+        // foreach ($s_keyWords as $keyWord) {
+        //     $keyWord = json_decode($keyWord);
+        //     echo highlightWords($text, $keyWord);
+        // }
+
+
+
+
+
+
+        // die;
         require 'vendor/autoload.php';
 
 
@@ -39,10 +71,6 @@
             $web->go($_GET['url']);
         } catch (\Exception $e) {
             echo "<h1 class='mb-2 text-2xl font-bold tracking-tight text-red-500'>" . $e->getMessage() . "</h1> ";
-        }
-        function highlightWords($text, $word) {
-            $text = preg_replace('#' . preg_quote($word->word) . ' #i ', '<span name="keywords_found" class="underline rounded font-semibold" style="background-color:' . $word->color . ';">\\0</span>', $text);
-            return "<p class='font-normal text-gray-700'>$text</p>";
         }
     ?>
 
@@ -75,7 +103,7 @@
     let unique = [...new Set(keywords_found)];
 
     if (unique.length > 0) {
-        document.getElementById('keywords_found').innerText = " Found the following keywords  "+ unique.toString();
+        document.getElementById('keywords_found').innerText = " Found the following keywords  " + unique.toString();
     } else {
         document.getElementById('keywords_found').innerText = "Oops, no Keywords were found!"
     }
