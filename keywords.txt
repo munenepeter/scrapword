@@ -26,3 +26,8 @@
 {"word":"API","color":"rgb(156,78,50)"}
 {"word":"AI","color":"rgb(10,47,18)"}
 {"word":"data corruption","color":"rgb(168,141,219)"}
+{"word":"reporting","color":"rgb(94,226,90)"}
+{"word":"Market rules","color":"rgb(247,161,35)"}
+{"word":"AML","color":"rgb(72,49,61)"}
+{"word":"transparency","color":"rgb(98,205,246)"}
+{"word":"digital policies","color":"rgb(78,142,241)"}
