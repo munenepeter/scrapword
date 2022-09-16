@@ -21,7 +21,7 @@
             <?php $st_keywords = []; ?>
             <?php foreach ($s_keyWords as $keyWord) : ?>
                 <?php $keyWord = json_decode($keyWord); ?>
-                <?php array_push($st_keywords, $keyWord->word); ?>
+                <?php array_push($st_keywords, strtolower($keyWord->word)); ?>
                 <button style="background-color:<?= $keyWord->color; ?>;" type="button" class="text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"><?= $keyWord->word; ?></button>
             <?php endforeach; ?>
         </h1>
@@ -53,7 +53,7 @@ if (isset($_POST['submit'])) {
         'color' => getRandColor()
     ]) . PHP_EOL;
 
-    if (in_array($keyword, $st_keywords)) {
+    if (in_array(strtolower($keyword), $st_keywords)) {
         echo "Keyword is already present!";
         exit;
     }

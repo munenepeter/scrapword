@@ -12,7 +12,6 @@
 {"word":"Cyber resilience","color":"rgb(0,80,42)"}
 {"word":"third party risk management","color":"rgb(144,93,199)"}
 {"word":"Ben Ownership","color":"rgb(137,71,112)"}
-{"word":"Ben Ownership","color":"rgb(14,38,11)"}
 {"word":"technology hazard","color":"rgb(158,29,31)"}
 {"word":"NCB innovation","color":"rgb(98,184,43)"}
 {"word":"SupTech policy research","color":"rgb(121,205,91)"}
@@ -26,3 +25,4 @@
 {"word":"market abuse","color":"rgb(112,95,226)"}
 {"word":"API","color":"rgb(156,78,50)"}
 {"word":"AI","color":"rgb(10,47,18)"}
+{"word":"data corruption","color":"rgb(168,141,219)"}
