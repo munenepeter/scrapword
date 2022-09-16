@@ -28,11 +28,13 @@
     </div>
     <?php
     if (isset($_GET['submit'])) {
+        
         if (empty($_GET['url'])) {
             $error = urlencode("No URL was provided!!");
             header("Location:index.php?error=$error");
         }
         require 'vendor/autoload.php';
+
         function wp_strip_all_tags($string, $remove_breaks = false) {
             $string = preg_replace('@<(script|style)[^>]*?>.*?</\\1>@si', '', $string);
             $string = strip_tags($string);
