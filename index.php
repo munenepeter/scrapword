@@ -103,7 +103,7 @@
     let unique = [...new Set(keywords_found)];
 
     if (unique.length > 0) {
-        document.getElementById('keywords_found').innerText = " Found the following keywords  " + unique.toString();
+        document.getElementById('keywords_found').innerText = "Found the following keywords:  " + unique.toString();
     } else {
         document.getElementById('keywords_found').innerText = "Oops, no Keywords were found!"
     }
