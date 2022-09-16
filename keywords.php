@@ -57,12 +57,7 @@ if (isset($_POST['submit'])) {
         echo "Keyword is already present!";
         exit;
     }
-    foreach ($s_keyWords as $s_keyWord) {
-        if ($keywords === $s_keyWord) {
-            $message = urlencode("Keyword is already present!");
-            header("Location:keywords.php?message=$message");
-        }
-    }
+
     if (file_put_contents("keywords.txt", $keywords, FILE_APPEND | LOCK_EX)) {
         echo "New was added!";
     }
