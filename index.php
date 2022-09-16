@@ -48,7 +48,7 @@
 
         <div>
             <p class="text-lg"><?= "This page contains " . count($web->paragraphs) . " paragraphs."; ?></p>
-            <p class="mb-2"> Found the following keywords <span id="keywords_found" class="text-red-500 hover:underline font-semibold italic"></span></p>
+            <p class="mb-2"><span id="keywords_found" class="text-red-500 hover:underline font-semibold italic"></span></p>
 
             <div class="border m-4 p-2 rounded-md">
                 <?php foreach ($web->paragraphs as $paragraph) : ?>
@@ -73,6 +73,10 @@
         keywords_found.push(data.innerHTML.toLowerCase());
     });
     let unique = [...new Set(keywords_found)];
-    // console.log(unique);
-    document.getElementById('keywords_found').innerText = unique.toString();
+
+    if (unique.length > 0) {
+        document.getElementById('keywords_found').innerText = " Found the following keywords  "+ unique.toString();
+    } else {
+        document.getElementById('keywords_found').innerText = "Oops, no Keywords were found!"
+    }
 </script>
