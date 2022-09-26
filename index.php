@@ -82,7 +82,7 @@
 <script>
     let keywords_found = [];
     document.getElementsByName('keywords_found').forEach(data => {
-        keywords_found.push(data.innerHTML.toLowerCase());
+        keywords_found.push(data.innerText.toLowerCase());
     });
     let unique = [...new Set(keywords_found)];
 
