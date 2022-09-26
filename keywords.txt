@@ -1,1405 +1,1250 @@
-{"word":"reg reporting","color":"rgb(231,39,48)"}
-{"word":"CBDC","color":"rgb(131,75,192)"}
-{"word":"crypto assets","color":"rgb(203,88,122)"}
-{"word":"crypto currency","color":"rgb(116,70,35)"}
-{"word":"DLT","color":"rgb(235,119,111)"}
-{"word":"stablecoin","color":"rgb(222,126,171)"}
-{"word":"reporting","color":"rgb(239,219,181)"}
-{"word":"Market rules","color":"rgb(55,77,104)"}
-{"word":"NCB innovation","color":"rgb(74,65,13)"}
-{"word":"AML","color":"rgb(4,14,184)"}
-{"word":"marketing","color":"rgb(136,81,239)"}
-{"word":"transparency","color":"rgb(60,181,143)"}
-{"word":"Digital policies","color":"rgb(179,181,203)"}
-{"word":"central databases","color":"rgb(170,196,247)"}
-{"word":"reporting protocols","color":"rgb(214,7,229)"}
-{"word":"standards","color":"rgb(47,45,77)"}
-{"word":"AI Hub","color":"rgb(26,42,184)"}
-{"word":"AML","color":"rgb(148,233,112)"}
-{"word":"con. tape","color":"rgb(115,181,47)"}
-{"word":"CRR 430C","color":"rgb(216,187,76)"}
-{"word":"ESG","color":"rgb(141,43,15)"}
-{"word":"ISO20022","color":"rgb(220,34,149)"}
-{"word":"market data","color":"rgb(44,139,158)"}
-{"word":"privacy","color":"rgb(0,39,90)"}
-{"word":"fines","color":"rgb(120,181,11)"}
-{"word":"Technology attack; technology hazard: outages","color":"rgb(201,84,255)"}
-{"word":"data corruption","color":"rgb(130,150,75)"}
-{"word":"NIST cyber","color":"rgb(90,94,73)"}
-{"word":"DORA\/ EU-SCICF","color":"rgb(107,223,101)"}
-{"word":"EU NIS2","color":"rgb(119,32,252)"}
-{"word":"SEC Reg S-P","color":"rgb(141,13,215)"}
-{"word":"UK cyber strategy","color":"rgb(154,78,105)"}
-{"word":"Business continuity","color":"rgb(60,21,254)"}
-{"word":"concentration risk","color":"rgb(78,203,9)"}
-{"word":"outsourcing","color":"rgb(248,149,22)"}
-{"word":"OpRisk","color":"rgb(40,244,205)"}
-{"word":"third party risk","color":"rgb(180,85,65)"}
-{"word":"Cyber resilience","color":"rgb(182,116,134)"}
-{"word":"DORA","color":"rgb(26,46,229)"}
-{"word":"DLT standards","color":"rgb(176,32,246)"}
-{"word":"FED guidance","color":"rgb(176,217,103)"}
-{"word":"HKMA guides","color":"rgb(100,116,156)"}
-{"word":"UK OpRes","color":"rgb(31,21,40)"}
-{"word":"FinTech","color":"rgb(64,115,107)"}
-{"word":"RegTech","color":"rgb(86,157,168)"}
-{"word":"SupTech policy research","color":"rgb(108,136,130)"}
-{"word":"Digital Regulatory Reporting","color":"rgb(207,46,243)"}
-{"word":"education","color":"rgb(147,205,98)"}
-{"word":"governance","color":"rgb(15,188,223)"}
-{"word":"innovation","color":"rgb(54,99,1)"}
-{"word":"training","color":"rgb(100,102,198)"}
-{"word":"AML","color":"rgb(177,27,74)"}
-{"word":"market abuse","color":"rgb(225,213,165)"}
-{"word":"penalties","color":"rgb(100,11,24)"}
-{"word":"sanctions","color":"rgb(37,53,30)"}
-{"word":"tax crime","color":"rgb(88,0,14)"}
-{"word":"travel rule","color":"rgb(97,47,26)"}
-{"word":"ALMA (EU)","color":"rgb(242,153,75)"}
-{"word":"Ben Ownership","color":"rgb(131,255,95)"}
-{"word":"Company registries","color":"rgb(9,252,93)"}
-{"word":"Econ Crime Plan (UK)","color":"rgb(217,111,36)"}
-{"word":"MLR","color":"rgb(191,168,205)"}
-{"word":"SARsControls","color":"rgb(228,78,143)"}
-{"word":"risk","color":"rgb(50,72,178)"}
-{"word":"standards","color":"rgb(98,142,65)"}
-{"word":"technology policy","color":"rgb(203,204,188)"}
-{"word":"third party risk managementAI","color":"rgb(28,85,48)"}
-{"word":"API","color":"rgb(247,141,151)"}
-{"word":"Cloud data","color":"rgb(102,163,216)"}
-{"word":"Cyber","color":"rgb(88,61,193)"}
-{"word":"DLT","color":"rgb(142,41,224)"}
-{"word":"ESG data","color":"rgb(153,104,2)"}
-{"word":"privacy","color":"rgb(34,111,229)"}
-{"word":"quantum","color":"rgb(221,42,20)"}
-{"word":"reg reporting","color":"rgb(187,165,17)"}
-{"word":"Energy Taxation Directive (ETD)","color":"rgb(56,230,235)"}
-{"word":"ETD","color":"rgb(73,61,231)"}
-{"word":"Energy Taxation","color":"rgb(8,93,21)"}
-{"word":"Energy Taxation Directive","color":"rgb(27,91,85)"}
-{"word":"Fundamentally Understanding the Usability and Realistic Evolution of Artificial Intelligence Act of 2020","color":"rgb(64,112,13)"}
-{"word":"FUTURE of Artificial Intelligence Act of 2020","color":"rgb(152,120,188)"}
-{"word":"Electronic Transactions Act (ETA)","color":"rgb(218,56,151)"}
-{"word":"Electronic Transactions Act","color":"rgb(68,155,11)"}
-{"word":"UK Emission Trading Scheme (UK ETS)","color":"rgb(187,189,121)"}
-{"word":"UK ETS","color":"rgb(49,50,97)"}
-{"word":"UK Emission Trading Scheme","color":"rgb(22,195,188)"}
-{"word":"Global Anti-Corruption Sanctions Regulations 2021","color":"rgb(120,41,131)"}
-{"word":"IAC - Individual Accountability and Conduct","color":"rgb(199,82,220)"}
-{"word":"IAC","color":"rgb(7,242,0)"}
-{"word":"Individual Accountability and Conduct","color":"rgb(105,247,135)"}
-{"word":"Artificial Intelligence Act","color":"rgb(31,236,141)"}
-{"word":"Corporate Sustainability Reporting Directive - CSRD","color":"rgb(156,122,176)"}
-{"word":"CSRD","color":"rgb(50,119,48)"}
-{"word":"Corporate Sustainability Reporting Directive","color":"rgb(83,11,250)"}
-{"word":"Capital Requirements Directive VI (CRD VI)","color":"rgb(53,26,231)"}
-{"word":"CRD VI","color":"rgb(204,223,182)"}
-{"word":"CRD 6","color":"rgb(164,61,205)"}
-{"word":"Capital Requirements Regulation III (CRR III)","color":"rgb(192,150,143)"}
-{"word":"CRR III","color":"rgb(98,69,142)"}
-{"word":"CRR3","color":"rgb(154,113,97)"}
-{"word":"SI 2021\/392","color":"rgb(123,116,19)"}
-{"word":"The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021","color":"rgb(210,192,170)"}
-{"word":"Union Law No 10","color":"rgb(173,33,90)"}
-{"word":"Union Law No. (10)","color":"rgb(202,189,83)"}
-{"word":"Union Law No. (10) Of 1980 Concerning The Central Bank The Monetary System And Organisation Of Banking","color":"rgb(142,134,200)"}
-{"word":"Data Privacy Act of 2012","color":"rgb(248,0,207)"}
-{"word":"Bank of England Act 1998","color":"rgb(86,150,143)"}
-{"word":"Bank of England Act","color":"rgb(248,148,60)"}
-{"word":"Senior Executive Accountability Regime","color":"rgb(205,187,64)"}
-{"word":"Senior Executive Accountability Regime (SEAR)","color":"rgb(200,206,241)"}
-{"word":"SEAR","color":"rgb(186,237,92)"}
-{"word":"Payment Systems Act B.E. 2560 (2017)","color":"rgb(248,225,21)"}
-{"word":"MFF","color":"rgb(91,84,112)"}
-{"word":"Multiannual Financial Framework (MFF)","color":"rgb(92,215,89)"}
-{"word":"Treasury Laws Amendment (Banking Executive Accountability and Related Measures) Act 2018","color":"rgb(245,58,121)"}
-{"word":"TLTRO-III","color":"rgb(219,107,230)"}
-{"word":"Manager in charge","color":"rgb(85,219,153)"}
-{"word":"(MIC)","color":"rgb(184,87,79)"}
-{"word":"Manager-In-Charge","color":"rgb(92,148,245)"}
-{"word":"(\"MIC\")","color":"rgb(98,202,128)"}
-{"word":"MIC regime","color":"rgb(94,221,168)"}
-{"word":"AML\/CFT Act","color":"rgb(149,97,0)"}
-{"word":"ASIC Corporations Derivative Transaction Reporting","color":"rgb(161,21,104)"}
-{"word":"ASIC Derivative Transaction Rules","color":"rgb(5,219,76)"}
-{"word":"Derivative Transaction Rules 2013","color":"rgb(156,40,169)"}
-{"word":"ASIC Act","color":"rgb(122,114,210)"}
-{"word":"CA 2001","color":"rgb(64,37,130)"}
-{"word":"Corporations Act","color":"rgb(255,224,21)"}
-{"word":"NCCP Act","color":"rgb(173,114,146)"}
-{"word":"National Credit Act","color":"rgb(169,14,79)"}
-{"word":"No. 134 2009","color":"rgb(233,80,108)"}
-{"word":"Reserve Bank Act","color":"rgb(102,26,26)"}
-{"word":"Reserve Bank Act 1959","color":"rgb(237,62,110)"}
-{"word":"FM-GwG","color":"rgb(176,238,113)"}
-{"word":"Finanzmarkt-Geldw\u00e4schegesetz","color":"rgb(114,154,175)"}
-{"word":"Capital Market Act 2019","color":"rgb(24,171,58)"}
-{"word":"KMG 2019","color":"rgb(195,172,51)"}
-{"word":"Action Plan for Financing Sustainable Growth","color":"rgb(63,118,27)"}
-{"word":"Action Plan \u2018Financing Sustainable Growth","color":"rgb(145,217,203)"}
-{"word":"Action Plan \u2018Financing Sustainable Growth\u2019","color":"rgb(82,36,220)"}
-{"word":"Action Plan: Financing Sustainable Growth","color":"rgb(134,217,16)"}
-{"word":"COM\/2018\/097","color":"rgb(136,53,142)"}
-{"word":"2013\/34","color":"rgb(55,114,164)"}
-{"word":"2013\/34\/EU","color":"rgb(153,49,199)"}
-{"word":"Directive 2013\/34","color":"rgb(166,111,246)"}
-{"word":"Directive 2013\/34\/EU","color":"rgb(237,80,35)"}
-{"word":"2011\/16","color":"rgb(199,206,42)"}
-{"word":"2011\/16\/EU","color":"rgb(69,13,40)"}
-{"word":"Council Directive 2011\/16","color":"rgb(241,253,124)"}
-{"word":"Council Directive 2011\/16\/EU","color":"rgb(129,151,254)"}
-{"word":"2011\/61\/EU","color":"rgb(77,151,115)"}
-{"word":"AIFM Directive","color":"rgb(242,61,64)"}
-{"word":"AIFMD","color":"rgb(12,11,108)"}
-{"word":"Alternative Investment Fund Managers Directive","color":"rgb(245,23,181)"}
-{"word":"Alternative Investment Fund Managers Directive 2011","color":"rgb(68,48,182)"}
-{"word":"Directive 2011\/61\/EU","color":"rgb(127,201,192)"}
-{"word":"2015\/849","color":"rgb(249,232,92)"}
-{"word":"AMLD 4","color":"rgb(126,188,136)"}
-{"word":"AMLD IV","color":"rgb(213,223,192)"}
-{"word":"AMLD4","color":"rgb(63,61,200)"}
-{"word":"AMLDIV","color":"rgb(59,176,241)"}
-{"word":"Anti-Money Laundering Directive","color":"rgb(248,230,180)"}
-{"word":"Anti-Money Laundering Directive 4","color":"rgb(206,53,185)"}
-{"word":"Anti-Money Laundering Directive IV","color":"rgb(151,81,175)"}
-{"word":"Anti-Money Laundering Directive4","color":"rgb(95,23,106)"}
-{"word":"Anti-Money Laundering DirectiveIV","color":"rgb(112,144,219)"}
-{"word":"Directive (EU) 2015\/849","color":"rgb(96,71,186)"}
-{"word":"Fourth Money Laundering Directive","color":"rgb(176,157,150)"}
-{"word":"MLD4","color":"rgb(233,184,4)"}
-{"word":"MLDIV","color":"rgb(239,243,201)"}
-{"word":"AMLD V","color":"rgb(137,96,7)"}
-{"word":"AMLD5","color":"rgb(55,103,247)"}
-{"word":"AMLDV","color":"rgb(254,42,92)"}
-{"word":"Anti-Money Laundering Directive 5","color":"rgb(178,215,199)"}
-{"word":"Anti-Money Laundering Directive V","color":"rgb(244,193,213)"}
-{"word":"Anti-Money Laundering Directive5","color":"rgb(57,178,103)"}
-{"word":"Anti-Money Laundering DirectiveV","color":"rgb(10,67,46)"}
-{"word":"Directive (EU) 2018\/843","color":"rgb(170,89,148)"}
-{"word":"Fifth Money Laundering Directive","color":"rgb(251,140,33)"}
-{"word":"MLD 5","color":"rgb(140,236,33)"}
-{"word":"MLD V","color":"rgb(195,182,185)"}
-{"word":"MLD5","color":"rgb(249,23,57)"}
-{"word":"MLDV","color":"rgb(254,1,8)"}
-{"word":"2014\/59\/EU","color":"rgb(84,20,128)"}
-{"word":"BRRD","color":"rgb(148,218,175)"}
-{"word":"Bank Recovery and Resolution Directive","color":"rgb(96,115,248)"}
-{"word":"Directive 2014\/59\/EU","color":"rgb(100,206,234)"}
-{"word":"2019\/879","color":"rgb(158,205,181)"}
-{"word":"BRRD 2","color":"rgb(181,76,226)"}
-{"word":"BRRD II","color":"rgb(151,235,139)"}
-{"word":"BRRD2","color":"rgb(250,38,245)"}
-{"word":"BRRDII","color":"rgb(195,32,141)"}
-{"word":"Bank Recovery and Resolution Directive 2","color":"rgb(184,100,4)"}
-{"word":"Bank Recovery and Resolution Directive II","color":"rgb(200,48,42)"}
-{"word":"Bank Recovery and Resolution Directive2","color":"rgb(192,15,213)"}
-{"word":"Bank Recovery and Resolution DirectiveII","color":"rgb(154,89,43)"}
-{"word":"Directive (EU) 2019\/879","color":"rgb(134,130,203)"}
-{"word":"2016\/1011\/EU","color":"rgb(159,129,215)"}
-{"word":"BMR","color":"rgb(110,165,84)"}
-{"word":"Benchmark Regulation","color":"rgb(146,168,246)"}
-{"word":"Benchmarks Regulation","color":"rgb(98,86,115)"}
-{"word":"Regulation (EU) 2016\/1011","color":"rgb(198,100,99)"}
-{"word":"Regulation 2016\/1011\/EU","color":"rgb(214,78,0)"}
-{"word":"CMU","color":"rgb(90,80,86)"}
-{"word":"Capital Markets Union","color":"rgb(189,229,72)"}
-{"word":"2013\/36\/EU","color":"rgb(243,10,69)"}
-{"word":"CRD 4","color":"rgb(238,214,120)"}
-{"word":"CRD IV","color":"rgb(14,146,214)"}
-{"word":"CRD4","color":"rgb(37,205,76)"}
-{"word":"CRDIV","color":"rgb(128,17,233)"}
-{"word":"Capital Requirements Directive 2013\/36\/EU","color":"rgb(186,216,135)"}
-{"word":"Capital Requirements Directive 4","color":"rgb(140,211,21)"}
-{"word":"Capital Requirements Directive IV","color":"rgb(6,238,150)"}
-{"word":"Capital Requirements Directive4","color":"rgb(40,94,178)"}
-{"word":"Capital Requirements DirectiveIV","color":"rgb(172,68,108)"}
-{"word":"Directive 2013\/36\/EU","color":"rgb(31,178,132)"}
-{"word":"2019\/878","color":"rgb(116,136,94)"}
-{"word":"CRD 5","color":"rgb(82,51,128)"}
-{"word":"CRD V","color":"rgb(105,228,0)"}
-{"word":"CRD5","color":"rgb(225,44,123)"}
-{"word":"CRDV","color":"rgb(173,132,187)"}
-{"word":"Capital Requirements Directive 5","color":"rgb(232,204,153)"}
-{"word":"Capital Requirements Directive V","color":"rgb(251,0,58)"}
-{"word":"Capital Requirements Directive5","color":"rgb(227,156,171)"}
-{"word":"Capital Requirements DirectiveV","color":"rgb(6,71,173)"}
-{"word":"Directive (EU) 2019\/878","color":"rgb(86,16,196)"}
-{"word":"575\/2013","color":"rgb(255,233,1)"}
-{"word":"CRR","color":"rgb(115,142,91)"}
-{"word":"Capital Requirements Regulation","color":"rgb(10,199,80)"}
-{"word":"Capital Requirements Regulation 2013","color":"rgb(65,206,48)"}
-{"word":"Regulation (EU) No 575\/2013","color":"rgb(176,2,34)"}
-{"word":"2019\/876","color":"rgb(201,0,125)"}
-{"word":"CRR 2","color":"rgb(44,172,217)"}
-{"word":"CRR II","color":"rgb(9,219,251)"}
-{"word":"CRR2","color":"rgb(96,114,33)"}
-{"word":"CRRII","color":"rgb(248,89,53)"}
-{"word":"Capital Requirements Regulation 2","color":"rgb(144,244,227)"}
-{"word":"Capital Requirements Regulation II","color":"rgb(218,30,131)"}
-{"word":"Capital Requirements Regulation2","color":"rgb(132,78,157)"}
-{"word":"Capital Requirements RegulationII","color":"rgb(221,151,89)"}
-{"word":"EU Regulation 2019\/876","color":"rgb(96,28,17)"}
-{"word":"Revised Capital Requirements Regulation","color":"rgb(214,170,62)"}
-{"word":"2016\/0365 (COD)","color":"rgb(143,119,139)"}
-{"word":"COM\/2016\/0856","color":"rgb(27,34,67)"}
-{"word":"Central Counterparty Recovery and Resolution","color":"rgb(102,249,83)"}
-{"word":"909\/2014","color":"rgb(117,84,139)"}
-{"word":"CSDR","color":"rgb(152,99,188)"}
-{"word":"Central Securities Depositories Regulation","color":"rgb(132,158,76)"}
-{"word":"Regulation (EU) No 909\/2014","color":"rgb(212,34,26)"}
-{"word":"(EU) 2016\/2258","color":"rgb(199,213,15)"}
-{"word":"2016\/2258","color":"rgb(22,205,127)"}
-{"word":"DIRECTIVE 2016\/2258","color":"rgb(9,103,190)"}
-{"word":"CRA Regulation","color":"rgb(195,134,183)"}
-{"word":"CRAR","color":"rgb(32,46,19)"}
-{"word":"Credit Rating Agencies Regulation","color":"rgb(139,170,130)"}
-{"word":"Regulation (EU) No 462\/2013","color":"rgb(212,84,247)"}
-{"word":"Directive (EU) 2019\/1160","color":"rgb(81,238,69)"}
-{"word":"Regulation (EU) 2019\/1156","color":"rgb(227,161,115)"}
-{"word":"(2019\/518)","color":"rgb(227,28,53)"}
-{"word":"(924\/2009)","color":"rgb(89,157,61)"}
-{"word":"CBPR","color":"rgb(198,67,188)"}
-{"word":"Cross Border Payment Regulation","color":"rgb(55,22,230)"}
-{"word":"Cross-Border Payment Regulation","color":"rgb(120,102,49)"}
-{"word":"2017\/0225(COD)","color":"rgb(251,92,18)"}
-{"word":"Cybersecurity Act","color":"rgb(254,109,216)"}
-{"word":"Data Act","color":"rgb(165,31,61)"}
-{"word":"2014\/49\/EU","color":"rgb(111,225,244)"}
-{"word":"DGSD","color":"rgb(76,207,205)"}
-{"word":"Deposit Guarantee Schemes Directive","color":"rgb(64,214,254)"}
-{"word":"2020\/0266(COD)","color":"rgb(61,141,156)"}
-{"word":"COM(2020) 595 final","color":"rgb(213,86,196)"}
-{"word":"DORA","color":"rgb(250,55,153)"}
-{"word":"Digital Operational Resilience","color":"rgb(132,88,10)"}
-{"word":"Digital Operational Resilience Act","color":"rgb(190,230,126)"}
-{"word":"2002\/65\/EC","color":"rgb(89,32,47)"}
-{"word":"Directive 2002\/65\/EC","color":"rgb(123,216,69)"}
-{"word":"Directive 2009\/110\/EC","color":"rgb(3,226,62)"}
-{"word":"EMD","color":"rgb(16,151,228)"}
-{"word":"Electronic Money Directive","color":"rgb(188,254,46)"}
-{"word":"Directive 2009\/110\/EC","color":"rgb(215,238,37)"}
-{"word":"E-Money Directive II","color":"rgb(70,64,174)"}
-{"word":"E-Money Directive2","color":"rgb(152,194,105)"}
-{"word":"E-Money DirectiveII","color":"rgb(75,149,2)"}
-{"word":"EMD 2","color":"rgb(48,59,166)"}
-{"word":"EMD II","color":"rgb(182,208,231)"}
-{"word":"EMD2","color":"rgb(129,184,140)"}
-{"word":"EMDII","color":"rgb(85,16,230)"}
-{"word":"Electronic Money Directive 2","color":"rgb(159,190,163)"}
-{"word":"Regulation (EU) No 1093\/2010","color":"rgb(163,136,10)"}
-{"word":"Guidelines for complaints handling for the securities and banking sectors","color":"rgb(201,39,15)"}
-{"word":"Agreement on the European Economic Area","color":"rgb(198,20,78)"}
-{"word":"Regulation (EU) No 1094\/2010","color":"rgb(67,142,9)"}
-{"word":"910\/2014","color":"rgb(255,177,30)"}
-{"word":"Electronic Identification and Trust Services","color":"rgb(115,30,156)"}
-{"word":"Electronic Identification and Trust Services Regulation","color":"rgb(38,191,109)"}
-{"word":"Regulation (EU) No 910\/2014","color":"rgb(134,31,9)"}
-{"word":"eIDAS","color":"rgb(245,178,28)"}
-{"word":"(2003\/96\/EC)","color":"rgb(221,30,60)"}
-{"word":"ETD","color":"rgb(244,46,24)"}
-{"word":"Energy Taxation","color":"rgb(50,168,215)"}
-{"word":"Energy Taxation Directive","color":"rgb(40,189,225)"}
-{"word":"EEAG","color":"rgb(15,45,233)"}
-{"word":"Environmental and Energy State Aid Guidelines","color":"rgb(144,37,4)"}
-{"word":"Directive 2002\/58\/EC","color":"rgb(181,171,129)"}
-{"word":"Directive 2002\/58\/EC","color":"rgb(169,188,153)"}
-{"word":"Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002\/58\/EC (Regulation on Privacy and Electronic Communications)","color":"rgb(24,128,221)"}
-{"word":"Regulation (EU) No 1095\/2010","color":"rgb(118,95,102)"}
-{"word":"Regulation (EU) No 1095\/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority) amending Decision No 716\/2009\/EC and repealing Commission Decision 2009\/77\/EC","color":"rgb(157,67,23)"}
-{"word":"(Directive (EU) 2017\/2399)","color":"rgb(79,117,3)"}
-{"word":"2016\/1011","color":"rgb(170,223,217)"}
-{"word":"Regulation (EU) 2016\/1011","color":"rgb(78,78,154)"}
-{"word":"2019\/796","color":"rgb(46,206,107)"}
-{"word":"Council Regulation (EU) 2019\/796","color":"rgb(148,55,15)"}
-{"word":"Directive 2003\/87\/EC","color":"rgb(182,31,165)"}
-{"word":"ETS","color":"rgb(34,192,215)"}
-{"word":"EU ETS","color":"rgb(115,34,158)"}
-{"word":"EU Emissions Trading System","color":"rgb(151,177,145)"}
-{"word":"Emissions Trading System","color":"rgb(4,59,80)"}
-{"word":"European Emissions Trading System","color":"rgb(172,139,242)"}
-{"word":"European Union  Emissions Trading System","color":"rgb(122,36,255)"}
-{"word":"EU GBS","color":"rgb(94,1,12)"}
-{"word":"EU Green Bond Standard","color":"rgb(78,73,137)"}
-{"word":"European Green Bond Standard","color":"rgb(107,92,133)"}
-{"word":"European Union Green Bond Standard","color":"rgb(174,178,206)"}
-{"word":"GBS","color":"rgb(43,138,190)"}
-{"word":"Green Bond Standard","color":"rgb(7,100,208)"}
-{"word":"ECL","color":"rgb(24,199,66)"}
-{"word":"Regulation (EU) 2018\/1999","color":"rgb(222,93,58)"}
-{"word":"Regulation (EU) 2015\/760","color":"rgb(183,0,65)"}
-{"word":"Regulation (EU) 2015\/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds","color":"rgb(193,116,216)"}
-{"word":"648\/2012","color":"rgb(176,177,208)"}
-{"word":"EMIR","color":"rgb(48,127,245)"}
-{"word":"European Market Infrastructure Regulation","color":"rgb(66,202,125)"}
-{"word":"Regulation (EU) No 648\/2012","color":"rgb(186,124,22)"}
-{"word":"1095\/2010","color":"rgb(214,204,190)"}
-{"word":"ESMA","color":"rgb(139,249,185)"}
-{"word":"ESMA Regulation","color":"rgb(70,84,109)"}
-{"word":"European Securities and Markets Authority Regulation","color":"rgb(57,148,146)"}
-{"word":"Regulation (EU) No 1095\/2010","color":"rgb(231,184,227)"}
-{"word":"Regulation (EU) No 346\/2013","color":"rgb(190,92,154)"}
-{"word":"Regulation (EU) No 346\/2013 of the European Parliament and of the Council of 17 April 2013 on European social entrepreneurship funds Text with EEA relevance","color":"rgb(130,52,218)"}
-{"word":"ESRB","color":"rgb(42,109,243)"}
-{"word":"ESRB Regulation","color":"rgb(48,233,220)"}
-{"word":"ESRBR","color":"rgb(71,148,252)"}
-{"word":"European Systemic Risk Board Regulation","color":"rgb(216,49,197)"}
-{"word":"Regulation (EU) No 1092\/2010","color":"rgb(212,196,71)"}
-{"word":"Regulation (EU) No 1092\/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board","color":"rgb(128,74,202)"}
-{"word":"ENISA","color":"rgb(180,151,198)"}
-{"word":"European Union Agency for Network and Information Security","color":"rgb(173,244,220)"}
-{"word":"EU Financial Sanctions","color":"rgb(133,89,98)"}
-{"word":"Regulation (EU) No 345\/2013","color":"rgb(152,59,236)"}
-{"word":"Regulation (EU) No 345\/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance","color":"rgb(72,228,78)"}
-{"word":"Directive 2002\/47\/EC","color":"rgb(200,183,202)"}
-{"word":"Directive 2002\/47\/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements","color":"rgb(115,119,210)"}
-{"word":"FICOD","color":"rgb(247,24,73)"}
-{"word":"Financial Conglomerates Directive","color":"rgb(110,204,16)"}
-{"word":"Directive (EU) 2015\/849","color":"rgb(215,137,167)"}
-{"word":"Directive (EU) 2015\/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing amending Regulation (EU) No 648\/2012 of the European Parliament and of the Council and repealing Directive 2005\/60\/EC of the European Parliament and of the Council and Commission Directive 2006\/70\/EC","color":"rgb(167,249,34)"}
-{"word":"2016\/679","color":"rgb(15,66,171)"}
-{"word":"GDPR","color":"rgb(18,124,138)"}
-{"word":"General Data Protection Regulation","color":"rgb(48,100,156)"}
-{"word":"Regulation (EU) 2016\/679","color":"rgb(56,174,41)"}
-{"word":"Directive (EU) 2016\/97","color":"rgb(6,200,156)"}
-{"word":"Directive (EU) 2016\/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast)","color":"rgb(217,151,41)"}
-{"word":"IDD","color":"rgb(183,182,219)"}
-{"word":"Insurance Distribution Directive","color":"rgb(3,122,96)"}
-{"word":"2015\/751","color":"rgb(246,236,94)"}
-{"word":"Regulation (EU) 2015\/751","color":"rgb(132,161,231)"}
-{"word":"Directive (EU) 2016\/680","color":"rgb(111,67,62)"}
-{"word":"MICA","color":"rgb(230,237,178)"}
-{"word":"MICA","color":"rgb(130,227,79)"}
-{"word":"Markets in Crypto Assets","color":"rgb(160,55,49)"}
-{"word":"Markets in Crypto-Assets","color":"rgb(72,151,190)"}
-{"word":"Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on Markets in Crypto-assets and amending Directive (EU) 2019\/1937","color":"rgb(92,176,176)"}
-{"word":"Regulation on Markets in Crypto Assets (MiCA)","color":"rgb(199,10,31)"}
-{"word":"2004\/39\/EC","color":"rgb(214,221,190)"}
-{"word":"Directive 2004\/39\/EC","color":"rgb(167,106,60)"}
-{"word":"MIFID","color":"rgb(115,211,246)"}
-{"word":"Markets in Financial Instruments Directive","color":"rgb(130,147,0)"}
-{"word":"Directive 2005\/60\/EC","color":"rgb(119,203,88)"}
-{"word":"Directive 2005\/60\/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing","color":"rgb(150,161,183)"}
-{"word":"2017\/1131","color":"rgb(69,21,226)"}
-{"word":"MMF","color":"rgb(211,169,18)"}
-{"word":"MMFR","color":"rgb(140,103,203)"}
-{"word":"Money Market Funds (MMFs) Regulation","color":"rgb(67,56,56)"}
-{"word":"Money Market Funds Regulation","color":"rgb(104,178,253)"}
-{"word":"Regulation (EU) 2017\/1131","color":"rgb(139,221,89)"}
-{"word":"Directive 2014\/17\/EU","color":"rgb(109,64,6)"}
-{"word":"MCD","color":"rgb(195,156,123)"}
-{"word":"Mortgage Credit Directive","color":"rgb(234,78,245)"}
-{"word":"Directive (EU) 2016\/1148","color":"rgb(58,221,99)"}
-{"word":"EU 2016\/1148","color":"rgb(17,136,244)"}
-{"word":"NIS","color":"rgb(73,190,121)"}
-{"word":"NIS Directive","color":"rgb(179,71,70)"}
-{"word":"NISD","color":"rgb(237,16,28)"}
-{"word":"Network and Information Security Directive","color":"rgb(101,164,149)"}
-{"word":"Security of Networks and Information Systems Directive","color":"rgb(63,226,69)"}
-{"word":"Directive 2014\/95\/EU","color":"rgb(2,200,153)"}
-{"word":"Directive 2014\/95\/EU of the European Parliament and of the Council of 22 October 2014 amending Directive 2013\/34\/EU as regards disclosure of non-financial and diversity information by certain large undertakings and groups Text with EEA relevance","color":"rgb(155,0,229)"}
-{"word":"NFRD","color":"rgb(81,228,155)"}
-{"word":"Non Financial Reporting Directive","color":"rgb(147,218,188)"}
-{"word":"Non-Financial Reporting Directive","color":"rgb(129,84,185)"}
-{"word":"(EU) No 795\/2014","color":"rgb(206,18,25)"}
-{"word":"Oversight Requirements for SIPs","color":"rgb(173,19,47)"}
-{"word":"Regulation of the European Central Bank (EU) No 795\/2014","color":"rgb(208,10,24)"}
-{"word":"Regulation of the European Central Bank (EU) No 795\/2014 of 3 July 2014 on oversight requirements for systemically important payment systems (ECB\/2014\/28)","color":"rgb(14,14,86)"}
-{"word":"1286\/2014","color":"rgb(116,163,92)"}
-{"word":"PRIIPs","color":"rgb(45,90,36)"}
-{"word":"Packaged Retail and Insurance based Investment Products","color":"rgb(38,78,8)"}
-{"word":"Packaged Retail and Insurance-based Investment Products","color":"rgb(92,108,88)"}
-{"word":"Regulation (EU) No 1286\/2014","color":"rgb(4,144,201)"}
-{"word":"PRIIPs","color":"rgb(5,15,80)"}
-{"word":"2007\/64\/EC","color":"rgb(240,223,101)"}
-{"word":"Directive 2007\/64\/EC","color":"rgb(56,43,167)"}
-{"word":"PSD","color":"rgb(59,243,252)"}
-{"word":"PSD1","color":"rgb(180,208,64)"}
-{"word":"Payment Services Directive","color":"rgb(239,93,186)"}
-{"word":"2015\/2366","color":"rgb(140,122,182)"}
-{"word":"Directive (EU) 2015\/2366","color":"rgb(198,17,240)"}
-{"word":"PSD II","color":"rgb(246,117,127)"}
-{"word":"PSD2","color":"rgb(240,156,116)"}
-{"word":"PSDII","color":"rgb(91,183,162)"}
-{"word":"Payment Services Directive 2","color":"rgb(3,25,18)"}
-{"word":"Payment Services Directive II","color":"rgb(104,92,68)"}
-{"word":"Payment Services Directive2","color":"rgb(193,52,139)"}
-{"word":"Payment Services DirectiveII","color":"rgb(54,93,50)"}
-{"word":"COM(2020)594 final 2020\/0267 (COD) 24.09.2020","color":"rgb(15,79,154)"}
-{"word":"COM(2018)135 final 2018\/0063A (COD) 2018\/0063B (COD) 14.03.2018","color":"rgb(60,24,222)"}
-{"word":"PR","color":"rgb(83,144,80)"}
-{"word":"Prospectus Regulation","color":"rgb(242,30,34)"}
-{"word":"Regulation (EU) 2017\/1129","color":"rgb(63,6,195)"}
-{"word":"Regulation (EU) No 833\/2014","color":"rgb(50,97,240)"}
-{"word":"ECB\/2016\/13","color":"rgb(28,86,132)"}
-{"word":"Regulation (EU) 2016\/867","color":"rgb(164,23,158)"}
-{"word":"Regulation (EU) 2016\/867 of the European Central Bank of 18 May 2016 on the collection of granular credit and credit risk data (ECB\/2016\/13)","color":"rgb(74,2,227)"}
-{"word":"1227\/2011","color":"rgb(87,157,20)"}
-{"word":"REMIT","color":"rgb(22,57,152)"}
-{"word":"Regulation (EU) No 1227\/2011","color":"rgb(220,3,117)"}
-{"word":"Regulation on Wholesale Energy Market Integrity and Transparency","color":"rgb(158,212,159)"}
-{"word":"ECB\/2015\/13","color":"rgb(63,181,212)"}
-{"word":"Regulation (EU) 2015\/534","color":"rgb(42,201,76)"}
-{"word":"Regulation (EU) 2015\/534 of the European Central Bank of 17 March 2015 on reporting of supervisory financial information (ECB\/2015\/13)","color":"rgb(2,197,115)"}
-{"word":"2015\/2365","color":"rgb(6,22,106)"}
-{"word":"Regulation (EU) 2015\/2365","color":"rgb(23,94,76)"}
-{"word":"SFTR","color":"rgb(125,251,58)"}
-{"word":"Securities Financing Transactions Regulation","color":"rgb(230,197,27)"}
-{"word":"2017\/2024","color":"rgb(139,236,196)"}
-{"word":"Regulation 2017\/2024","color":"rgb(176,136,142)"}
-{"word":"Directive 98\/26\/EC","color":"rgb(121,161,89)"}
-{"word":"SFD","color":"rgb(108,56,96)"}
-{"word":"Settlement Finality Directive","color":"rgb(201,111,39)"}
-{"word":"Directive 2007\/36\/EC","color":"rgb(130,19,195)"}
-{"word":"Directive 2007\/36\/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies","color":"rgb(145,22,54)"}
-{"word":"Directive (EU) 2017\/828","color":"rgb(167,64,215)"}
-{"word":"Directive (EU) 2017\/828 of the European Parliament and of the Council of 17 May 2017 amending Directive 2007\/36\/EC as regards the encouragement of long-term shareholder engagement","color":"rgb(148,71,226)"}
-{"word":"SRD","color":"rgb(224,28,163)"}
-{"word":"236\/2012","color":"rgb(242,33,187)"}
-{"word":"Regulation (EU) No 236\/2012","color":"rgb(226,76,60)"}
-{"word":"SSR","color":"rgb(147,151,116)"}
-{"word":"Short Selling Regulation","color":"rgb(14,203,24)"}
-{"word":"SEPA","color":"rgb(89,132,88)"}
-{"word":"Single Euro Payments Area","color":"rgb(203,253,15)"}
-{"word":"806\/2014","color":"rgb(49,20,104)"}
-{"word":"Regulation No 806\/2014","color":"rgb(254,250,167)"}
-{"word":"SRM","color":"rgb(79,240,103)"}
-{"word":"SRMR","color":"rgb(226,38,149)"}
-{"word":"Single Resolution Mechanism","color":"rgb(18,114,178)"}
-{"word":"Single Resolution Mechanism Regulation","color":"rgb(17,51,4)"}
-{"word":"2019\/877","color":"rgb(146,134,252)"}
-{"word":"Regulation (EU) 2019\/877","color":"rgb(195,30,27)"}
-{"word":"SRM 2","color":"rgb(77,185,106)"}
-{"word":"SRM II","color":"rgb(189,233,53)"}
-{"word":"SRM2","color":"rgb(155,204,219)"}
-{"word":"SRMR 2","color":"rgb(46,226,122)"}
-{"word":"SRMR II","color":"rgb(41,220,145)"}
-{"word":"SRMR2","color":"rgb(241,168,239)"}
-{"word":"Single Resolution Mechanism 2","color":"rgb(211,234,107)"}
-{"word":"Single Resolution Mechanism II","color":"rgb(226,16,112)"}
-{"word":"Single Resolution Mechanism2","color":"rgb(70,14,99)"}
-{"word":"Single Resolution MechanismII","color":"rgb(178,194,230)"}
-{"word":"1024\/2013","color":"rgb(42,69,22)"}
-{"word":"Regulation (EU) No 1024\/2013","color":"rgb(5,161,167)"}
-{"word":"SSM","color":"rgb(195,238,66)"}
-{"word":"Single Supervisory Mechanism","color":"rgb(87,40,197)"}
-{"word":"2009\/138\/EC","color":"rgb(34,133,142)"}
-{"word":"Directive 2009\/138\/EC","color":"rgb(15,104,80)"}
-{"word":"Omnibus II Directive","color":"rgb(93,202,93)"}
-{"word":"Solvency II","color":"rgb(33,179,236)"}
-{"word":"ECB\/2014\/41","color":"rgb(231,47,169)"}
-{"word":"Regulation (EU) No 1163\/2014","color":"rgb(37,252,211)"}
-{"word":"Regulation (EU) No 1163\/2014 of the European Central Bank of 22 October 2014 on supervisory fees (ECB\/2014\/41)","color":"rgb(177,8,128)"}
-{"word":"EBA\/GL\/2020\/11","color":"rgb(20,3,150)"}
-{"word":"SREP","color":"rgb(110,56,35)"}
-{"word":"Supervisory Review and Evaluation Process","color":"rgb(75,247,29)"}
-{"word":"Regulation (EU) 2019\/2088","color":"rgb(143,99,155)"}
-{"word":"Regulation (EU) 2019\/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability\u2010related disclosures in the financial services sector","color":"rgb(251,253,181)"}
-{"word":"SFDR","color":"rgb(97,175,63)"}
-{"word":"Sustainable Finance Disclosure Regulation","color":"rgb(62,36,42)"}
-{"word":"2014\/533\/EU","color":"rgb(126,53,192)"}
-{"word":"2014\/533\/EU: Decision of the European Central Bank of 13 August 2014 on the identification of TARGET2 as a systemically important payment system pursuant to Regulation (EU) No 795\/2014 on oversight requirements for systemically important payment systems (ECB\/2014\/35)","color":"rgb(221,55,183)"}
-{"word":"ECB\/2014\/35","color":"rgb(219,100,166)"}
-{"word":"TLTRO II","color":"rgb(38,49,74)"}
-{"word":"TLTRO III","color":"rgb(46,255,117)"}
-{"word":"ESG","color":"rgb(82,209,219)"}
-{"word":"Taxonomy Regulation","color":"rgb(37,46,77)"}
-{"word":"Directive 2004\/109\/EC","color":"rgb(18,242,5)"}
-{"word":"TD","color":"rgb(86,176,173)"}
-{"word":"Transparency Directive","color":"rgb(221,35,222)"}
-{"word":"Transparency Regulation","color":"rgb(217,18,216)"}
-{"word":"TEU","color":"rgb(129,2,84)"}
-{"word":"TFEU","color":"rgb(98,81,254)"}
-{"word":"Treaty of Rome","color":"rgb(69,175,94)"}
-{"word":"UCITS","color":"rgb(220,177,116)"}
-{"word":"Undertakings for Collective Investment In Transferable Securities","color":"rgb(55,149,246)"}
-{"word":"Directive 2001\/24\/EC","color":"rgb(63,223,213)"}
-{"word":"Directive 2001\/24\/EC of the European Parliament and of the Council of 4 April 2001 on the reorganisation and winding up of credit institutions","color":"rgb(185,183,33)"}
-{"word":"Winding Up Directive","color":"rgb(8,139,20)"}
-{"word":"Regulation (EU) 2015\/847","color":"rgb(154,77,10)"}
-{"word":"Regulation (EU) 2015\/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781\/2006","color":"rgb(78,105,207)"}
-{"word":"WTR","color":"rgb(148,207,179)"}
-{"word":"AMLO","color":"rgb(114,165,164)"}
-{"word":"Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance","color":"rgb(108,193,34)"}
-{"word":"Cap. 628B","color":"rgb(140,35,115)"}
-{"word":"LAC Rules","color":"rgb(35,127,196)"}
-{"word":"BLAR","color":"rgb(113,153,41)"}
-{"word":"Banking Liquidity Amendment Rules","color":"rgb(243,189,181)"}
-{"word":"Banking Liquidity Amendment Rules 2019","color":"rgb(222,76,125)"}
-{"word":"BO","color":"rgb(108,182,177)"}
-{"word":"SFO","color":"rgb(179,156,119)"}
-{"word":"2000 Definitions","color":"rgb(96,176,214)"}
-{"word":"2006 Definitions","color":"rgb(83,28,216)"}
-{"word":"BCBS \/ IOSCO Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(133,48,45)"}
-{"word":"BCBS\/IOSCO Framework for Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(144,185,208)"}
-{"word":"Framework for Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(92,16,123)"}
-{"word":"The Basel Committee on Banking Supervision Board of the International Organization of Securities Commissions Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(58,12,87)"}
-{"word":"BCBS 239","color":"rgb(224,246,80)"}
-{"word":"Principles for effective risk data aggregation and risk reporting","color":"rgb(217,205,28)"}
-{"word":"CRS","color":"rgb(94,76,225)"}
-{"word":"FATF International Standards on Combating Money Laundering and the financing of Terrorism & Proliferation","color":"rgb(121,12,6)"}
-{"word":"G20 2019 Fukoka","color":"rgb(37,82,166)"}
-{"word":"G20 Communique June 2019","color":"rgb(126,111,251)"}
-{"word":"G20 Communique September 2009","color":"rgb(80,74,131)"}
-{"word":"IBOR Transition","color":"rgb(197,229,152)"}
-{"word":"Transition from IBOR","color":"rgb(85,36,17)"}
-{"word":"Transition from LIBOR","color":"rgb(17,234,9)"}
-{"word":"IFRS","color":"rgb(102,66,61)"}
-{"word":"Objectives and Principles of Securities","color":"rgb(36,16,220)"}
-{"word":"Principles   for   Financial Benchmarks","color":"rgb(228,91,249)"}
-{"word":"IOSCO Principles on Client Identification and Beneficial Ownership for the Securities Industry","color":"rgb(49,230,242)"}
-{"word":"Principles on Client Identification and Beneficial Ownership for the Securities","color":"rgb(87,68,222)"}
-{"word":"Financial Crime Compliance Principles for Securities Custody and Settlement","color":"rgb(226,78,120)"}
-{"word":"Financial Crime Compliance Principles forSecurities Custody and Settlement","color":"rgb(94,239,116)"}
-{"word":"PFMI","color":"rgb(224,21,76)"}
-{"word":"EMR","color":"rgb(0,11,40)"}
-{"word":"EMR 2011","color":"rgb(185,155,217)"}
-{"word":"EMRs","color":"rgb(30,10,89)"}
-{"word":"Use and Protection of Credit Information Act","color":"rgb(231,130,7)"}
-{"word":"Wijzigingswet financi\u00eble markten 2019","color":"rgb(255,219,36)"}
-{"word":"WFT","color":"rgb(49,238,143)"}
-{"word":"Wet op het financieel toezicht","color":"rgb(76,179,221)"}
-{"word":"WWFT","color":"rgb(93,44,70)"}
-{"word":"The AML\/CFT Amendment Act 2017","color":"rgb(33,192,19)"}
-{"word":"MORB","color":"rgb(99,4,175)"}
-{"word":"MORNBFI","color":"rgb(223,183,202)"}
-{"word":"MAS Act","color":"rgb(121,20,95)"}
-{"word":"G.N. No. S 235\/2013","color":"rgb(136,183,66)"}
-{"word":"Monetary Authority of Singapore (Control and Resolution of Financial Institutions) Regulations 2013","color":"rgb(231,242,64)"}
-{"word":"SFA","color":"rgb(229,99,124)"}
-{"word":"AMLA","color":"rgb(64,192,196)"}
-{"word":"CAO","color":"rgb(103,20,42)"}
-{"word":"FMIA","color":"rgb(214,67,216)"}
-{"word":"Finanzmarktinfrastrukturgesetz","color":"rgb(5,60,250)"}
-{"word":"FinfraG","color":"rgb(213,182,127)"}
-{"word":"AMLO-FINMA","color":"rgb(108,28,38)"}
-{"word":"FINMA Regulation","color":"rgb(72,154,67)"}
-{"word":"Anti-Terrorism Crime and Security Act","color":"rgb(146,89,217)"}
-{"word":"Bank of England and Financial Services Act","color":"rgb(93,189,173)"}
-{"word":"Banking Act","color":"rgb(236,250,188)"}
-{"word":"Banking Act","color":"rgb(27,134,206)"}
-{"word":"Financial Services  Act 2013","color":"rgb(158,217,230)"}
-{"word":"Financial Services (Banking Reform) Act 2013","color":"rgb(213,105,107)"}
-{"word":"Companies Act","color":"rgb(138,116,49)"}
-{"word":"Corporate Insolvency and Governance Act","color":"rgb(180,252,186)"}
-{"word":"Counter Terrorism Act","color":"rgb(248,128,8)"}
-{"word":"Crime and Courts Act","color":"rgb(63,46,209)"}
-{"word":"Criminal Finances Act","color":"rgb(196,27,135)"}
-{"word":"Data Reporting Services Regulations","color":"rgb(162,60,160)"}
-{"word":"EEA Passport Rights","color":"rgb(219,13,148)"}
-{"word":"E-Money Regulations","color":"rgb(148,202,9)"}
-{"word":"Enterprise Act","color":"rgb(45,180,3)"}
-{"word":"Enterprise and Regulatory Reform Act","color":"rgb(246,68,15)"}
-{"word":"EU Withdrawal Act","color":"rgb(201,20,147)"}
-{"word":"European Union (Withdrawal) Act 2018","color":"rgb(162,85,3)"}
-{"word":"European Union Act","color":"rgb(188,183,52)"}
-{"word":"European Union Withdrawal Act","color":"rgb(165,101,191)"}
-{"word":"Withdrawal Act","color":"rgb(217,199,132)"}
-{"word":"FA 2006","color":"rgb(212,173,115)"}
-{"word":"Finance Act","color":"rgb(145,70,1)"}
-{"word":"FA 2008","color":"rgb(138,99,8)"}
-{"word":"Finance Act","color":"rgb(216,43,55)"}
-{"word":"FA 2011","color":"rgb(213,4,39)"}
-{"word":"Finance Act","color":"rgb(112,210,235)"}
-{"word":"FA 2018","color":"rgb(171,194,221)"}
-{"word":"Finance Act","color":"rgb(114,208,182)"}
-{"word":"Financial Guidance and Claims Act","color":"rgb(112,224,151)"}
-{"word":"FI SAR","color":"rgb(214,166,229)"}
-{"word":"Financial Regulators Powers","color":"rgb(242,164,163)"}
-{"word":"Financial Services Act","color":"rgb(181,72,43)"}
-{"word":"FSMA","color":"rgb(16,245,105)"}
-{"word":"Financial Services and Markets Act","color":"rgb(51,138,207)"}
-{"word":"FSCS","color":"rgb(27,165,132)"}
-{"word":"FOIA","color":"rgb(5,168,177)"}
-{"word":"Freedom of Information Act","color":"rgb(179,199,51)"}
-{"word":"Freedom of Information Act 2000","color":"rgb(32,44,115)"}
-{"word":"Funds Transfer Regulation","color":"rgb(35,26,32)"}
-{"word":"Human Trafficking and Exploitation Act","color":"rgb(129,98,33)"}
-{"word":"Immigration Act","color":"rgb(11,209,114)"}
-{"word":"Immigration Act","color":"rgb(150,177,116)"}
-{"word":"Insolvency Act","color":"rgb(104,6,21)"}
-{"word":"Insurance Distribution Directive","color":"rgb(162,118,213)"}
-{"word":"ISM","color":"rgb(80,110,211)"}
-{"word":"ISM Rulebook","color":"rgb(47,11,194)"}
-{"word":"International Securities Market Rulebook","color":"rgb(211,145,108)"}
-{"word":"International Tax Compliance Regulation","color":"rgb(179,105,65)"}
-{"word":"International Tax Compliance Regulation","color":"rgb(33,19,199)"}
-{"word":"International Tax Compliance Regulation","color":"rgb(174,236,122)"}
-{"word":"Money Laundering and Terrorist Financing Regulation","color":"rgb(110,26,173)"}
-{"word":"Money Laundering Regulation","color":"rgb(114,61,40)"}
-{"word":"NIS Regulation","color":"rgb(97,27,225)"}
-{"word":"NIS Regulation 2018","color":"rgb(55,138,141)"}
-{"word":"Network and Information Systems Regulation","color":"rgb(220,124,209)"}
-{"word":"OCIR","color":"rgb(200,211,16)"}
-{"word":"Operational Continuity in Resolution","color":"rgb(109,39,144)"}
-{"word":"PSR","color":"rgb(181,207,66)"}
-{"word":"Payment Services Regulations","color":"rgb(2,64,109)"}
-{"word":"Policing and Crime Act","color":"rgb(6,159,251)"}
-{"word":"POCA","color":"rgb(139,56,229)"}
-{"word":"Proceeds of Crime Act","color":"rgb(250,8,161)"}
-{"word":"PRA Rulebook","color":"rgb(30,190,44)"}
-{"word":"RAO","color":"rgb(158,200,231)"}
-{"word":"Regulated Activities Order","color":"rgb(101,252,73)"}
-{"word":"RAF","color":"rgb(191,241,201)"}
-{"word":"Resolvability Assessment Framework","color":"rgb(79,159,8)"}
-{"word":"Sanctions and Anti-Money Laundering Act","color":"rgb(76,194,231)"}
-{"word":"Scottish National Investment Bank Act","color":"rgb(206,93,105)"}
-{"word":"Securitisation Regulation","color":"rgb(183,232,166)"}
-{"word":"SM&CR","color":"rgb(28,59,124)"}
-{"word":"SMCR","color":"rgb(122,22,141)"}
-{"word":"Serious Crime Act","color":"rgb(75,203,252)"}
-{"word":"Small and Medium Sized Business Regulation","color":"rgb(182,198,196)"}
-{"word":"SONIA","color":"rgb(38,86,191)"}
-{"word":"Sterling Overnight Index Average","color":"rgb(140,44,247)"}
-{"word":"Terrorism Act","color":"rgb(186,174,146)"}
-{"word":"Terrorism Act","color":"rgb(36,70,233)"}
-{"word":"Temporary Provisions Act","color":"rgb(44,233,11)"}
-{"word":"Terrorist Asset-Freezing (Temporary Provisions) Act","color":"rgb(198,94,28)"}
-{"word":"Terrorist Asset-Freezing (Temporary Provisions) Act 2010","color":"rgb(197,58,6)"}
-{"word":"Terrorist Asset-Freezing Act 2010","color":"rgb(115,175,0)"}
-{"word":"Data Protection Regulation","color":"rgb(28,162,127)"}
-{"word":"Electronic Money Payment Services and Payment Systems Regulation","color":"rgb(91,92,90)"}
-{"word":"MLR","color":"rgb(194,5,7)"}
-{"word":"MLR 2017","color":"rgb(111,90,79)"}
-{"word":"MLRs","color":"rgb(68,175,176)"}
-{"word":"Money Laundering Terrorist Financing and Transfer of Funds Regulation","color":"rgb(90,64,125)"}
-{"word":"UMR","color":"rgb(103,4,169)"}
-{"word":"Uncleared Margin Rules","color":"rgb(42,233,128)"}
-{"word":"UK Financial Sanctions","color":"rgb(18,122,190)"}
-{"word":"UK Financial Sanctions List","color":"rgb(142,171,205)"}
-{"word":"BHCA","color":"rgb(125,108,63)"}
-{"word":"BSA","color":"rgb(86,127,41)"}
-{"word":"Bank Secrecy Act of 1970","color":"rgb(126,37,231)"}
-{"word":"CFR","color":"rgb(76,108,253)"}
-{"word":"CEA","color":"rgb(250,71,4)"}
-{"word":"CAT","color":"rgb(31,5,198)"}
-{"word":"Consolidated Audit Trail","color":"rgb(34,20,112)"}
-{"word":"Consolidated Audit Trail - CAT (SEC rule 613)","color":"rgb(32,30,62)"}
-{"word":"SEC Rule 613","color":"rgb(102,17,19)"}
-{"word":"CLA","color":"rgb(142,26,117)"}
-{"word":"H.R.4458","color":"rgb(57,197,140)"}
-{"word":"H.R.4458 \u2014 116th Congress (2019-2020)","color":"rgb(29,181,82)"}
-{"word":"EGRPRA","color":"rgb(156,220,116)"}
-{"word":"EGRRCPA","color":"rgb(224,166,96)"}
-{"word":"FDIA","color":"rgb(93,138,203)"}
-{"word":"FINRA Rule","color":"rgb(227,242,76)"}
-{"word":"FATCA","color":"rgb(103,186,75)"}
-{"word":"IAA","color":"rgb(183,51,51)"}
-{"word":"ICA","color":"rgb(55,119,53)"}
-{"word":"1933 Act","color":"rgb(49,241,108)"}
-{"word":"Federal Securities Act","color":"rgb(204,179,194)"}
-{"word":"Truth in Securities","color":"rgb(108,226,162)"}
-{"word":"1934 Act","color":"rgb(74,216,245)"}
-{"word":"34 Act","color":"rgb(193,96,116)"}
-{"word":"Exchange Act","color":"rgb(149,125,69)"}
-{"word":"SEA","color":"rgb(197,85,133)"}
-{"word":"SEA of 1934","color":"rgb(135,30,104)"}
-{"word":"Dodd\u2013Frank","color":"rgb(24,42,214)"}
-{"word":"Dodd\u2013Frank Act","color":"rgb(230,17,24)"}
-{"word":"TILA","color":"rgb(52,213,228)"}
-{"word":"US Financial Sanctions","color":"rgb(172,179,78)"}
-{"word":"Anti-Money Laundering and Counter-Terrorism Financing Act 2006","color":"rgb(97,210,151)"}
-{"word":"ASIC Derivative Transaction Rules (Reporting) 2013","color":"rgb(67,144,200)"}
-{"word":"Australian Securities and Investments Commission Act 2001","color":"rgb(136,201,226)"}
-{"word":"Banking Act 1959","color":"rgb(69,208,54)"}
-{"word":"Corporations Act 2001","color":"rgb(187,26,104)"}
-{"word":"National Consumer Credit Protection Act 2009","color":"rgb(162,112,125)"}
-{"word":"Privacy Act 1998","color":"rgb(41,60,64)"}
-{"word":"Reserve Bank Act of 1959","color":"rgb(150,72,251)"}
-{"word":"Financial Markets Money Laundering Act \u2013 Finanzmarkt-Geldw\u00e4schegesetz","color":"rgb(208,163,170)"}
-{"word":"Kapitalmarktgesetz 2019","color":"rgb(181,38,61)"}
-{"word":"2018 Action Plan on Financing Sustainable Growth","color":"rgb(120,4,147)"}
-{"word":"Accounting Directive","color":"rgb(80,181,13)"}
-{"word":"Administrative Cooperation in the Field of Taxation","color":"rgb(69,136,225)"}
-{"word":"Alternative Investment Fund Managers Directive (AIFMD)","color":"rgb(194,247,205)"}
-{"word":"Anti-Money Laundering Directive IV (AMLD IV)","color":"rgb(229,96,207)"}
-{"word":"Anti-Money Laundering Directive V (AMLD V)","color":"rgb(244,139,186)"}
-{"word":"As yet unproposed Anti-money laundering legislative package","color":"rgb(29,25,139)"}
-{"word":"As yet unproposed Digital Tax\/ Levy","color":"rgb(77,232,249)"}
-{"word":"As yet unproposed Sustainable Corporate Governance Legislation","color":"rgb(24,80,55)"}
-{"word":"Bank Recovery and Resolution Directive (BRRD)","color":"rgb(191,20,19)"}
-{"word":"Bank Recovery and Resolution Directive 2 (BRRD2)","color":"rgb(116,239,154)"}
-{"word":"Benchmark Regulation (BMR)","color":"rgb(83,47,164)"}
-{"word":"Capital Markets Union (CMU)","color":"rgb(78,254,118)"}
-{"word":"Capital Requirements Directive IV (CRD IV)","color":"rgb(249,161,40)"}
-{"word":"Capital Requirements Directive V (CRD V)","color":"rgb(57,23,212)"}
-{"word":"Capital Requirements Regulation (CRR)","color":"rgb(118,67,188)"}
-{"word":"Capital Requirements Regulation II (CRR II)","color":"rgb(150,183,171)"}
-{"word":"Central Counterparty Recovery and Resolution Regulation","color":"rgb(102,149,45)"}
-{"word":"Central Securities Depositories Regulation (CSDR)","color":"rgb(42,64,17)"}
-{"word":"Council Directive (2016\/2258)","color":"rgb(40,156,223)"}
-{"word":"Credit Rating Agency Regulation (CRAR)","color":"rgb(155,211,30)"}
-{"word":"Cross-border Distribution Directive (CBDD)","color":"rgb(68,215,120)"}
-{"word":"Cross-border Distribution Regulation (CBDR)","color":"rgb(150,8,49)"}
-{"word":"Cross-Border Payment Regulation (CBPR)","color":"rgb(230,161,101)"}
-{"word":"Cybersecurity Act 2018","color":"rgb(212,111,172)"}
-{"word":"Data Act 2021","color":"rgb(52,82,181)"}
-{"word":"Deposit Guarantee Schemes Directive (DGSD)","color":"rgb(102,53,236)"}
-{"word":"Digital Operational Resilience Act (DORA)","color":"rgb(174,50,81)"}
-{"word":"Distance Marketing Directive","color":"rgb(147,169,16)"}
-{"word":"E-money Directive","color":"rgb(152,42,24)"}
-{"word":"E-Money Directive 2","color":"rgb(89,8,143)"}
-{"word":"EBA Regulation","color":"rgb(25,146,56)"}
-{"word":"EBA\/ESMA Guidelines for complaints handling for the securities and banking sectors","color":"rgb(161,82,139)"}
-{"word":"EEA Agreement","color":"rgb(71,2,209)"}
-{"word":"EIOPA Regulation","color":"rgb(103,39,85)"}
-{"word":"Electronic Identification and Trust Services Regulation (eIDAS Regulation)","color":"rgb(7,226,238)"}
-{"word":"Energy Taxation Directive (ETD)","color":"rgb(149,122,172)"}
-{"word":"Environmental and Energy State Aid Guidelines (EEAG)","color":"rgb(21,164,78)"}
-{"word":"ePrivacy Directive","color":"rgb(20,223,249)"}
-{"word":"ePrivacy Regulation","color":"rgb(117,198,71)"}
-{"word":"ESA Regulation","color":"rgb(162,250,223)"}
-{"word":"EU Audit Regulations","color":"rgb(21,174,87)"}
-{"word":"EU Bank Creditor Hierarchy Directive","color":"rgb(224,208,38)"}
-{"word":"EU Benchmark Regulation","color":"rgb(173,132,206)"}
-{"word":"EU Cyber Sanctions","color":"rgb(243,1,84)"}
-{"word":"EU Emissions Trading System (EU ETS)","color":"rgb(209,244,135)"}
-{"word":"EU Financial Sanctions","color":"rgb(88,212,109)"}
-{"word":"EU Green Bond Standard (EU GBS)","color":"rgb(166,227,125)"}
-{"word":"EU Sanctions List","color":"rgb(85,28,174)"}
-{"word":"European Bank for Reconstruction and Development Act (EBRD)","color":"rgb(23,101,194)"}
-{"word":"European Climate Law","color":"rgb(75,160,236)"}
-{"word":"European Long-Term Investment Fund Regulation (ELTIF)","color":"rgb(166,120,207)"}
-{"word":"European Market Infrastructure Regulation (EMIR)","color":"rgb(96,131,8)"}
-{"word":"European Securities and Markets Authority Regulation (ESMA Regulation)","color":"rgb(102,47,110)"}
-{"word":"European Social Entrepreneurship Fund (EuSEF)","color":"rgb(188,123,101)"}
-{"word":"European Systemic Risk Board Regulation (ESRBR)","color":"rgb(186,96,108)"}
-{"word":"European Union Agency for Network and Information Security (ENISA)","color":"rgb(75,43,232)"}
-{"word":"European Union Financial Sanctions","color":"rgb(205,15,63)"}
-{"word":"European Venture Capital Fund Regulation (EuVECA)","color":"rgb(150,121,254)"}
-{"word":"Financial Collateral Directive","color":"rgb(166,135,192)"}
-{"word":"Financial Conglomerates Directive (FICOD)","color":"rgb(10,70,79)"}
-{"word":"Funds Transfer Directive","color":"rgb(184,206,111)"}
-{"word":"General Data Protection Regulation (GDPR)","color":"rgb(82,11,99)"}
-{"word":"Insurance Distribution Directive (IDD)","color":"rgb(112,50,152)"}
-{"word":"Interchange Fee Regulation","color":"rgb(2,132,131)"}
-{"word":"Law Enforcement Directive","color":"rgb(17,144,132)"}
-{"word":"Malta Financial Services Authority Act","color":"rgb(49,29,115)"}
-{"word":"Market Abuse","color":"rgb(9,234,50)"}
-{"word":"Markets in Crypto-assets (MICA)","color":"rgb(241,131,188)"}
-{"word":"Markets in Financial Instruments Directive (MiFID)","color":"rgb(241,196,88)"}
-{"word":"Money Laundering Directive 2005","color":"rgb(32,41,49)"}
-{"word":"Money Market Fund Regulation (MMFR)","color":"rgb(205,221,3)"}
-{"word":"Mortgage Credit Directive (MCD)","color":"rgb(68,188,228)"}
-{"word":"Network and Information Security Directive (NISD)","color":"rgb(30,138,79)"}
-{"word":"Non-Financial Reporting Directive (NFRD)","color":"rgb(178,131,211)"}
-{"word":"Occupational Pensions Fund Directive","color":"rgb(133,79,126)"}
-{"word":"Oversight Requirements for Systemically Important Payment Systems","color":"rgb(171,110,22)"}
-{"word":"Packaged Retail and Insurance-based Investment Products (PRIIPs)","color":"rgb(175,106,242)"}
-{"word":"Packaged Retail Investment and Insurance-Based Investment Products (PRIIPs)","color":"rgb(103,248,174)"}
-{"word":"Payment Services Directive (PSD)","color":"rgb(89,114,173)"}
-{"word":"Payment Services Directive 2 (PSD2)","color":"rgb(6,119,75)"}
-{"word":"Proposed  Pilot regime for market infrastructures based on distributed ledger technology","color":"rgb(220,177,72)"}
-{"word":"Proposed Directive on credit servicers credit purchasers and the recovery of collateral","color":"rgb(91,104,136)"}
-{"word":"Prospectus Regulation (PR)","color":"rgb(82,152,22)"}
-{"word":"Regulation (EU) No 833\/2014 of 31 July 2014 concerning restrictive measures in view of Russia's actions destabilising the situation in Ukraine","color":"rgb(122,235,248)"}
-{"word":"Regulation of the ECB on the Collection of Granular Credit and Credit Risk Data","color":"rgb(61,106,20)"}
-{"word":"Regulation on Privacy and Electronic Communications","color":"rgb(53,99,29)"}
-{"word":"Regulation on Wholesale Energy Market Integrity and Transparency (REMIT)","color":"rgb(144,253,142)"}
-{"word":"Reporting of Supervisory financial information","color":"rgb(184,243,56)"}
-{"word":"Risk Finance Guidelines","color":"rgb(33,250,147)"}
-{"word":"Securities Financing Transactions Regulation (SFTR)","color":"rgb(66,50,144)"}
-{"word":"Securitisation Regulation","color":"rgb(249,246,108)"}
-{"word":"Settlement Finality Directive (SFD)","color":"rgb(67,18,210)"}
-{"word":"Shareholder Rights Directive (SRD)","color":"rgb(131,124,218)"}
-{"word":"Shareholder Rights Directive II (SRD II)","color":"rgb(106,132,127)"}
-{"word":"Shareholder's Rights Directive","color":"rgb(208,49,15)"}
-{"word":"Short Selling Regulation (SSR)","color":"rgb(240,186,41)"}
-{"word":"Single Euro Payments Area (SEPA)","color":"rgb(175,218,210)"}
-{"word":"Single Resolution Mechanism Regulation (SRMR)","color":"rgb(49,151,188)"}
-{"word":"Single Resolution Mechanism Regulation 2 (SRMR2)","color":"rgb(227,242,189)"}
-{"word":"Single Supervisory Mechanism (SSM)","color":"rgb(180,213,250)"}
-{"word":"Solvency II Directive","color":"rgb(37,168,23)"}
-{"word":"Supervisory Fee Regulation","color":"rgb(152,46,22)"}
-{"word":"Supervisory Reporting of Institutions","color":"rgb(183,24,110)"}
-{"word":"Supervisory Review and Evaluation Process (SREP)","color":"rgb(6,182,89)"}
-{"word":"Sustainable Finance Disclosure Regulation (SFDR)","color":"rgb(235,111,206)"}
-{"word":"Target2","color":"rgb(142,133,186)"}
-{"word":"Targeted longer-term refinancing operation II (TLTRO II)","color":"rgb(159,112,65)"}
-{"word":"Targeted longer-term refinancing operation III (TLTRO III)","color":"rgb(226,109,36)"}
-{"word":"Taxonomy Regulation (ESG)","color":"rgb(183,185,46)"}
-{"word":"Transparency Directive (TD)","color":"rgb(25,253,241)"}
-{"word":"Treaty on European Union (TEU)","color":"rgb(150,62,61)"}
-{"word":"Treaty on the Functioning of the European Union (TFEU)","color":"rgb(44,19,157)"}
-{"word":"Undertakings for Collective Investment in Transferable Securities (UCITS)","color":"rgb(85,237,217)"}
-{"word":"Whistleblowers Directive","color":"rgb(98,182,185)"}
-{"word":"Winding-up Directive","color":"rgb(66,187,239)"}
-{"word":"Wire Transfer Regulation","color":"rgb(240,14,95)"}
-{"word":"Anti-Money Laundering and Counter-Terrorist Financing Ordinance","color":"rgb(45,53,214)"}
-{"word":"Banking Capital Rules","color":"rgb(50,92,15)"}
-{"word":"Banking Liquidity (Amendment) Rules 2019","color":"rgb(33,125,37)"}
-{"word":"Banking Ordinance","color":"rgb(73,131,65)"}
-{"word":"Insurance Ordinance","color":"rgb(144,219,235)"}
-{"word":"Securities and Futures Ordinance","color":"rgb(134,144,222)"}
-{"word":"2000 ISDA Definitions","color":"rgb(164,64,86)"}
-{"word":"2006 ISDA Definitions","color":"rgb(39,121,169)"}
-{"word":"2014 ISDA Credit Derivatives Definitions","color":"rgb(91,129,82)"}
-{"word":"Base erosion and profit shifting (OECD\/G20 BEPS)","color":"rgb(33,130,178)"}
-{"word":"Basel Committee on Banking Supervision Standard 239 (BCBS 239)","color":"rgb(172,57,97)"}
-{"word":"Basel Committee on Banking Supervision Standard 240 (BCBS 240)","color":"rgb(155,134,114)"}
-{"word":"Basel II","color":"rgb(141,185,30)"}
-{"word":"Basel III","color":"rgb(211,45,218)"}
-{"word":"BCBS \/ IOSCO Framework for Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(26,100,247)"}
-{"word":"BCBS Principles for effective risk data aggregation and risk reporting","color":"rgb(201,60,159)"}
-{"word":"Common Reporting Standards","color":"rgb(159,147,197)"}
-{"word":"Core Principles for Effective Banking Supervision (BCBS 230)","color":"rgb(49,103,158)"}
-{"word":"DGI-2 - G20 Data Gaps Initiative","color":"rgb(117,105,179)"}
-{"word":"FATF International Standards on Combating Money Laundering and the financing of Terrorism & Proliferation (2012)","color":"rgb(19,63,195)"}
-{"word":"FX Global Code","color":"rgb(40,138,105)"}
-{"word":"G20 Communique 2018 (Buenos Aires)","color":"rgb(191,134,83)"}
-{"word":"G20 Communique April 2009 (London)","color":"rgb(111,38,57)"}
-{"word":"G20 Communique June 2019 (Fukoka)","color":"rgb(3,235,38)"}
-{"word":"G20 Communique November 2010 (Seoul)","color":"rgb(80,34,5)"}
-{"word":"G20 Communique November 2014 (Brisbane)","color":"rgb(177,94,108)"}
-{"word":"G20 Communique September 2009 (Pittsburgh)","color":"rgb(169,171,199)"}
-{"word":"G20 Communique September 2016 (Hangzou Summit)","color":"rgb(10,132,213)"}
-{"word":"G20 Declaration July 2017 (Hamburg)","color":"rgb(107,166,113)"}
-{"word":"G20 Declaration November 2011 (Cannes)","color":"rgb(15,87,243)"}
-{"word":"G20 Finance Ministers and Central Bank Governors Meeting Communique March 2017","color":"rgb(69,130,80)"}
-{"word":"G7 fundamental elements of Cyber Security for the Financial Sector","color":"rgb(127,181,88)"}
-{"word":"Harmonisation of Key OTC derivatives data elements","color":"rgb(94,172,206)"}
-{"word":"Interbank Offered Rate Transition","color":"rgb(19,8,222)"}
-{"word":"Interest Rate Risk  in the Banking Book (IRRBB)","color":"rgb(151,215,108)"}
-{"word":"International Banking Act 1978","color":"rgb(15,226,42)"}
-{"word":"International Financial Reporting Standards","color":"rgb(123,59,221)"}
-{"word":"International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation (2012)","color":"rgb(130,45,96)"}
-{"word":"IOSCO Objectives and Principles of Securities Market Regulation","color":"rgb(35,129,151)"}
-{"word":"IOSCO Principles for Financial Benchmarks","color":"rgb(108,116,130)"}
-{"word":"IOSCO Principles of Auditor Indepedence and the Role of Coporate Governance in Monitering an Auditor's Independence","color":"rgb(229,191,198)"}
-{"word":"IOSCO Principles on Client Identification and Beneficial Ownership for the Securities Industry of 2004","color":"rgb(249,113,187)"}
-{"word":"ISSA Financial Crime Compliance Principles for Securities Custody and Settlement","color":"rgb(188,122,99)"}
-{"word":"Key Attributes of Effective Resolution Regimes for Financial Institutions","color":"rgb(162,28,142)"}
-{"word":"OECD DAC Blended Finance Principles","color":"rgb(121,151,39)"}
-{"word":"Principles and Standards on Sound Compensation Practices","color":"rgb(227,18,189)"}
-{"word":"Principles for Financial Market Infrastructures","color":"rgb(142,143,223)"}
-{"word":"Principles for Responsible Banking","color":"rgb(23,41,231)"}
-{"word":"Principles for Responsible Investment (PRI)","color":"rgb(244,192,85)"}
-{"word":"Principles for Sound Liquid Risk Management and Supervision","color":"rgb(238,231,201)"}
-{"word":"Principles for the Regulation and Supervision of Commodity Derivatives Market","color":"rgb(154,48,155)"}
-{"word":"Principles of Corporate Governance","color":"rgb(211,212,173)"}
-{"word":"Project Helvetia","color":"rgb(114,22,205)"}
-{"word":"Standard on Automatic Exchange of Information (OECD\/G20 AEOI)","color":"rgb(115,87,47)"}
-{"word":"Ten Principles of the UN Global Compact","color":"rgb(232,123,193)"}
-{"word":"UN Sustainable Development Goals (SDGs)","color":"rgb(25,240,158)"}
-{"word":"United Nations Sanctions","color":"rgb(247,26,16)"}
-{"word":"Voluntary Principles for Debt Transparency","color":"rgb(150,208,6)"}
-{"word":"Wolfsberg Group of International Financial Institutions Guidance on Politically Exposed Persons (PEPs) 2017","color":"rgb(3,72,47)"}
-{"word":"Wolfsberg Group of International Financial Institutions Guidance on the Risk Based Approach (RBA) to Managing Money Laundering Risks 2006","color":"rgb(155,59,110)"}
-{"word":"Electronic Money Regulations 2011","color":"rgb(229,214,56)"}
-{"word":"Banking Act","color":"rgb(37,12,122)"}
-{"word":"Credit Information Use and Protection Act","color":"rgb(69,54,163)"}
-{"word":"Electronic Financial Transactions Act","color":"rgb(114,251,5)"}
-{"word":"Special Act on Financial Innovation Support","color":"rgb(192,156,121)"}
-{"word":"Financial Markets Amendment Act 2019","color":"rgb(96,220,156)"}
-{"word":"Financial Supervision Act","color":"rgb(51,84,74)"}
-{"word":"Law for the Prevention of Money Laundering and Terrorist Financing","color":"rgb(73,245,4)"}
-{"word":"Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2017","color":"rgb(1,51,11)"}
-{"word":"Manual of Regulations for Banks","color":"rgb(96,180,103)"}
-{"word":"Manual of Regulations for Non-Bank Financial Institutions","color":"rgb(197,196,246)"}
-{"word":"Monetary Authority of Singapore Act (MAS Act)","color":"rgb(155,58,192)"}
-{"word":"Monetary Authority of Singapore Control and Resolution of Financial Institutions Regulations 2013","color":"rgb(238,210,177)"}
-{"word":"Securities and Futures Act (SFA)","color":"rgb(2,140,6)"}
-{"word":"Technology Risk Management Guidelines (TRM Guidelines)","color":"rgb(33,37,75)"}
-{"word":"Anti-Money Laundering Act","color":"rgb(150,109,185)"}
-{"word":"Capital Adequacy Ordinance","color":"rgb(215,125,238)"}
-{"word":"Financial Market Infrastructure Act","color":"rgb(3,149,117)"}
-{"word":"FINMA Anti-Money Laundering Ordinance","color":"rgb(178,123,154)"}
-{"word":"Swiss Financial Market Supervisory Authority Regulation","color":"rgb(250,170,217)"}
-{"word":"Anti-Terrorism Crime and Security Act 2001","color":"rgb(72,38,217)"}
-{"word":"Bank of England and Financial Services Act 2016","color":"rgb(70,2,134)"}
-{"word":"Banking Act 2009","color":"rgb(187,93,126)"}
-{"word":"Banking Act 2009 (Fees) Regulations 2018","color":"rgb(216,60,206)"}
-{"word":"Banking Reform Act","color":"rgb(39,192,161)"}
-{"word":"Breathing Space","color":"rgb(206,254,107)"}
-{"word":"Companies Act 2006","color":"rgb(159,180,252)"}
-{"word":"Corporate Insolvency and Governance Act 2020","color":"rgb(36,29,7)"}
-{"word":"Counter Terrorism Act 2008","color":"rgb(241,10,171)"}
-{"word":"Crime and Courts Act 2013","color":"rgb(191,10,198)"}
-{"word":"Criminal Finances Act 2017","color":"rgb(156,191,169)"}
-{"word":"Data Protection Act","color":"rgb(203,72,223)"}
-{"word":"Data Reporting Services Regulations 2017","color":"rgb(122,25,107)"}
-{"word":"EEA Passport Rights (Amendment et. and Transitional Provisions) (EU Exit) Regulations 2018","color":"rgb(125,179,31)"}
-{"word":"Electronic Money Regulations","color":"rgb(27,240,141)"}
-{"word":"Enterprise Act 2002","color":"rgb(220,155,103)"}
-{"word":"Enterprise and Regulatory Reform Act 2013","color":"rgb(236,84,123)"}
-{"word":"European Union Act 2018","color":"rgb(46,157,250)"}
-{"word":"FCA Handbook","color":"rgb(138,241,115)"}
-{"word":"Finance Act 2006","color":"rgb(165,30,123)"}
-{"word":"Finance Act 2008","color":"rgb(15,87,233)"}
-{"word":"Finance Act 2011","color":"rgb(61,246,153)"}
-{"word":"Finance Act 2018","color":"rgb(30,242,245)"}
-{"word":"Financial Guidance and Claims Act 2018","color":"rgb(171,208,127)"}
-{"word":"Financial Market Infrastructure Special Administration Regime","color":"rgb(156,222,1)"}
-{"word":"Financial Regulators Powers (Technical Standards) (Amendment etc.) (EU Exit) Regulations 2018","color":"rgb(105,48,140)"}
-{"word":"Financial Services Act 2012","color":"rgb(228,233,249)"}
-{"word":"Financial Services and Markets Act 2000","color":"rgb(168,72,235)"}
-{"word":"Financial Services Compensation Scheme","color":"rgb(85,74,64)"}
-{"word":"Freedom of Information Act UK","color":"rgb(199,133,207)"}
-{"word":"Funds Transfer Regulation (FTR)","color":"rgb(197,167,72)"}
-{"word":"Human Trafficking and Exploitation (Scotland) Act 2015","color":"rgb(112,226,25)"}
-{"word":"Immigration Act 2014","color":"rgb(50,125,78)"}
-{"word":"Immigration Act 2016","color":"rgb(89,217,204)"}
-{"word":"Insolvency Act 1986 (UK)","color":"rgb(15,228,243)"}
-{"word":"Insurance Distribution Directive (IDD)","color":"rgb(171,83,147)"}
-{"word":"International Securities Market Rulebook (ISM)","color":"rgb(165,121,193)"}
-{"word":"International Tax Compliance Regulations 2015","color":"rgb(240,142,29)"}
-{"word":"International Tax Compliance Regulations 2016","color":"rgb(254,78,83)"}
-{"word":"International Tax Compliance Regulations 2017","color":"rgb(162,165,138)"}
-{"word":"Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 - (United Kingdom)","color":"rgb(227,108,59)"}
-{"word":"Money Laundering and Terrorist Financing (Amendment) Regulations 2019","color":"rgb(153,116,249)"}
-{"word":"Money Laundering Regulation 2007","color":"rgb(253,74,244)"}
-{"word":"Network and Information Systems Regulations 2018","color":"rgb(219,150,169)"}
-{"word":"Operational Continuity in Resolution (OCIR)","color":"rgb(108,31,121)"}
-{"word":"Payment Accounts Directive","color":"rgb(164,145,37)"}
-{"word":"Payment Services Regulations 2017","color":"rgb(89,32,49)"}
-{"word":"Policing and Crime Act 2017","color":"rgb(106,184,96)"}
-{"word":"Proceeds of Crime Act 2002 (POCA)","color":"rgb(144,57,223)"}
-{"word":"Prudential Regulation Authority Rulebook","color":"rgb(50,83,198)"}
-{"word":"Regulated Activities Order (RAO)","color":"rgb(44,21,247)"}
-{"word":"Resolvability Assessment Framework (RAF)","color":"rgb(23,47,152)"}
-{"word":"Retirement Outcomes Review","color":"rgb(164,70,88)"}
-{"word":"Sanctions and Anti-Money Laundering Act 2018","color":"rgb(161,16,174)"}
-{"word":"Scottish National Investment Bank Act 2020","color":"rgb(26,193,117)"}
-{"word":"Securitisation (Amendment) (EU Exit) Regulations 2019","color":"rgb(232,73,64)"}
-{"word":"Senior Managers and Certification Regime","color":"rgb(10,225,86)"}
-{"word":"Serious Crime Act 2015","color":"rgb(207,165,254)"}
-{"word":"Small and Medium Sized Business (Credit Information) Regulations 2015","color":"rgb(218,71,48)"}
-{"word":"Sterling Overnight Index Average (SONIA)","color":"rgb(140,89,116)"}
-{"word":"Terrorism Act 2000","color":"rgb(249,217,184)"}
-{"word":"Terrorism Act 2006","color":"rgb(140,108,68)"}
-{"word":"Terrorist Asset-Freezing Act of 2010","color":"rgb(85,127,102)"}
-{"word":"The Data Protection (Charges and Information) Regulations 2018","color":"rgb(63,209,51)"}
-{"word":"The Electronic Money Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018","color":"rgb(19,44,252)"}
-{"word":"The Money Laundering Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017","color":"rgb(216,17,170)"}
-{"word":"Uncleared Margin Rules (UMR)","color":"rgb(55,210,125)"}
-{"word":"United Kingdom Financial Sanctions List","color":"rgb(14,27,247)"}
-{"word":"Anti-Money Laundering Act of 2020 (AMLA)","color":"rgb(146,238,98)"}
-{"word":"Asset Management Advisory Committee (AMAC)","color":"rgb(3,27,243)"}
-{"word":"Bank Holding Company Act","color":"rgb(34,150,103)"}
-{"word":"Bank Secrecy Act","color":"rgb(216,66,67)"}
-{"word":"Code of Federal Regulations","color":"rgb(196,20,224)"}
-{"word":"Commodity Exchange Act","color":"rgb(111,26,219)"}
-{"word":"Community Reinvestment Act","color":"rgb(118,246,155)"}
-{"word":"Consolidated Audit Trail Rule 613","color":"rgb(28,86,191)"}
-{"word":"Consumer Leasing Act","color":"rgb(176,124,69)"}
-{"word":"Cybersecurity and Financial System Resilience Act of 2019","color":"rgb(102,103,169)"}
-{"word":"Economic Growth and Regulatory Paperwork Reduction Act of 1996","color":"rgb(62,212,119)"}
-{"word":"Economic Growth Regulatory Relief and Consumer Protection Act","color":"rgb(153,138,191)"}
-{"word":"Federal Deposit Insurance Act","color":"rgb(103,174,144)"}
-{"word":"Federal Reserve Act","color":"rgb(141,146,48)"}
-{"word":"FINRA Rulebook","color":"rgb(218,247,188)"}
-{"word":"Foreign Account Tax Compliance Act","color":"rgb(10,252,59)"}
-{"word":"Investment Advisors Act","color":"rgb(47,177,72)"}
-{"word":"Investment Company Act","color":"rgb(109,84,92)"}
-{"word":"Securities Act of 1933","color":"rgb(234,217,143)"}
-{"word":"Securities Exchange Act","color":"rgb(26,75,195)"}
-{"word":"Securities Investor Protection Act of 1970 (SIPA)","color":"rgb(228,182,190)"}
-{"word":"The Dodd-Frank Wall Street Reform and Consumer Protection Act","color":"rgb(233,216,135)"}
-{"word":"Truth in Lending Act","color":"rgb(226,143,77)"}
-{"word":"United States Financial Sanctions","color":"rgb(234,20,255)"}
-{"word":"FOREIGN INVESTMENT LAW OF THE PEOPLE'S REPUBLIC OF CHINA","color":"rgb(179,244,203)"}
-{"word":"CAPITAL MARKETS LAW NO. 6362","color":"rgb(4,63,217)"}
-{"word":"INTERNATIONAL ACCOUNTING STANDARDS","color":"rgb(118,38,77)"}
-{"word":"SECURITIES INVESTOR PROTECTION ACT OF 1970","color":"rgb(118,19,142)"}
-{"word":"FINANCIAL INVESTMENT SERVICE AND CAPITAL MARKET ACT","color":"rgb(83,72,36)"}
-{"word":"FINRA RULE","color":"rgb(239,220,198)"}
-{"word":"CONSUMER FINANCIAL PROTECTION ACT OF 2010","color":"rgb(245,68,131)"}
-{"word":"ELECTRONIC FUNDS TRANSFER ACT","color":"rgb(244,147,7)"}
-{"word":"6.385\/76","color":"rgb(213,254,199)"}
-{"word":"INVESTMENT FIRM DIRECTIVE","color":"rgb(162,146,36)"}
-{"word":"INVESTMENT FIRM REGULATION","color":"rgb(38,7,105)"}
-{"word":"IFD","color":"rgb(173,248,43)"}
-{"word":"IFR","color":"rgb(84,41,54)"}
-{"word":"MORTGAGE","color":"rgb(63,75,70)"}
-{"word":"MORTGAGES","color":"rgb(21,103,154)"}
-{"word":"SARBANES-OXLEY ACT","color":"rgb(185,151,156)"}
-{"word":"DIGITAL OPERATIONAL RESILIENCE ACT","color":"rgb(144,14,131)"}
-{"word":"ENTERPRISE AND REGULATORY REFORM","color":"rgb(83,168,8)"}
-{"word":"COMPETITION AND CONSUMER ACT 2010","color":"rgb(73,185,87)"}
-{"word":"ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT","color":"rgb(172,158,118)"}
-{"word":"COMMUNITY REINVESTMENT ACT","color":"rgb(98,65,237)"}
-{"word":"MONETARY AUTHORITY OF SINGAPORE ACT","color":"rgb(199,161,248)"}
-{"word":"TRUST COMPANIES ACT","color":"rgb(113,38,16)"}
-{"word":"NATIONAL BANK ACT","color":"rgb(156,110,23)"}
-{"word":"CAPITAL MARKETS UNION","color":"rgb(130,31,92)"}
-{"word":"SECURITIES AND FUTURES ORDINANCE","color":"rgb(88,51,120)"}
-{"word":"IFRS","color":"rgb(4,134,113)"}
-{"word":"AUSTRALIAN SECURITIES AND INVESTMENTS COMMISSION ACT 2001","color":"rgb(194,37,240)"}
-{"word":"JUMPSTART OUR BUSINESS STARTUPS","color":"rgb(31,228,138)"}
-{"word":"SECURITIES ACT","color":"rgb(25,104,209)"}
-{"word":"EIDAS","color":"rgb(82,29,33)"}
-{"word":"DEPOSIT INSURANCE ACT","color":"rgb(107,210,126)"}
-{"word":"FEDERAL RESERVE ACT","color":"rgb(73,206,60)"}
-{"word":"FOREIGN ACCOUNT TAX COMPLIANCE ACT","color":"rgb(200,20,229)"}
-{"word":"CONSUMER LEASING ACT","color":"rgb(28,126,91)"}
-{"word":"CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013","color":"rgb(191,214,167)"}
-{"word":"ESMA REGULATION","color":"rgb(128,247,185)"}
-{"word":"PROSPECTUS DIRECTIVE","color":"rgb(177,67,90)"}
-{"word":"SRDII","color":"rgb(167,98,48)"}
-{"word":"FINANCIAL INSTRUMENTS AND EXCHANGE ACT","color":"rgb(16,142,85)"}
-{"word":"CONSUMER CREDIT ACT","color":"rgb(219,92,135)"}
-{"word":"MMF","color":"rgb(110,113,167)"}
-{"word":"MONEY MARKET FUND","color":"rgb(115,210,119)"}
-{"word":"ELTIF","color":"rgb(18,190,200)"}
-{"word":"EUVECA","color":"rgb(195,33,191)"}
-{"word":"EUSEF","color":"rgb(28,169,77)"}
-{"word":"CAPITAL REQUIREMENTS","color":"rgb(168,159,162)"}
-{"word":"CRD IV","color":"rgb(59,249,99)"}
-{"word":"CRAR","color":"rgb(218,44,246)"}
-{"word":"WWFT","color":"rgb(255,89,15)"}
-{"word":"PREVENTION OF MONEY LAUNDERING AND TERRORIST FINANCING ACT","color":"rgb(137,243,1)"}
-{"word":"ENTERPRISE ACT 2002","color":"rgb(8,19,118)"}
-{"word":"KWG","color":"rgb(63,182,121)"}
-{"word":"BANKING ACT","color":"rgb(31,96,94)"}
-{"word":"WPHG","color":"rgb(11,12,247)"}
-{"word":"SECURITIES TRADING ACT","color":"rgb(237,255,90)"}
-{"word":"PAYMENT SERVICES ACT 2019","color":"rgb(148,147,186)"}
-{"word":"FINANCIAL ADVISERS ACT","color":"rgb(128,194,67)"}
-{"word":"SECURITIES AND FUTURES ACT","color":"rgb(191,74,82)"}
-{"word":"FINANCE COMPANIES ACT","color":"rgb(8,50,32)"}
-{"word":"CONSUMER FINANCIAL PROTECTION ACT","color":"rgb(74,193,161)"}
-{"word":"FREEDOM OF INFORMATION","color":"rgb(110,9,142)"}
-{"word":"DATA PROTECTION ACT","color":"rgb(7,23,224)"}
-{"word":"TERRORISM ACT 2000","color":"rgb(191,136,243)"}
-{"word":"PROCEEDS OF CRIME ACT 2002","color":"rgb(251,247,230)"}
-{"word":"GWG","color":"rgb(35,237,73)"}
-{"word":"INTERNAL REVENUE CODE","color":"rgb(30,25,30)"}
-{"word":"NATIONAL CREDIT ACT","color":"rgb(244,139,185)"}
-{"word":"NATIONAL CONSUMER CREDIT PROTECTION ACT","color":"rgb(158,65,19)"}
-{"word":"COMPETITION AND CONSUMER ACT","color":"rgb(206,14,90)"}
-{"word":"TREASURY LAWS AMENDMENT","color":"rgb(84,174,73)"}
-{"word":"HOME MORTGAGE DISCLOSURE","color":"rgb(158,32,40)"}
-{"word":"CRR2","color":"rgb(139,190,175)"}
-{"word":"BRRD2","color":"rgb(147,238,139)"}
-{"word":"REGULATORY FLEXIBILITY ACT","color":"rgb(92,38,152)"}
-{"word":"SECURITIES ACT 1933","color":"rgb(128,193,167)"}
-{"word":"INVESTMENT COMPANY ACT","color":"rgb(243,61,197)"}
-{"word":"SECURITIES EXCHANGE ACT","color":"rgb(118,15,37)"}
-{"word":"SECURITIES INVESTOR PROTECTION","color":"rgb(194,142,164)"}
-{"word":"CORPORATIONS ACT 2001","color":"rgb(185,61,228)"}
-{"word":"TAX CUTS AND JOBS ACT","color":"rgb(85,120,215)"}
-{"word":"BANK SECRECY ACT","color":"rgb(193,206,60)"}
-{"word":"DEPOSIT GUARANTEE SCHEMES","color":"rgb(249,67,114)"}
-{"word":"SINGLE RESOLUTION MECHANISM","color":"rgb(8,186,65)"}
-{"word":"MORB","color":"rgb(94,82,245)"}
-{"word":"MORNBFI","color":"rgb(242,228,216)"}
-{"word":"ANTI-MONEY LAUNDERING ACT","color":"rgb(250,187,215)"}
-{"word":"NATIONAL PAYMENT SYSTEMS","color":"rgb(239,2,151)"}
-{"word":"NO. 7653","color":"rgb(157,245,122)"}
-{"word":"TARGET2","color":"rgb(69,128,155)"}
-{"word":"COMPANIES ACT","color":"rgb(56,219,211)"}
-{"word":"BANK HOLDING COMPANY ACT","color":"rgb(231,17,243)"}
-{"word":"BHCA","color":"rgb(183,177,250)"}
-{"word":"FEDERAL RESERVE ACT","color":"rgb(112,7,38)"}
-{"word":"FEDERAL DEPOSIT INSURANCE ACT","color":"rgb(148,93,44)"}
-{"word":"ECONOMIC GROWTH","color":"rgb(219,157,164)"}
-{"word":"PRIIPS","color":"rgb(43,61,159)"}
-{"word":"COMMODITY EXCHANGE ACT","color":"rgb(16,29,231)"}
-{"word":"TRUTH IN LENDING","color":"rgb(124,93,123)"}
-{"word":"CARES ACT","color":"rgb(117,48,130)"}
-{"word":"INVESTMENT ADVISERS ACT","color":"rgb(237,144,156)"}
-{"word":"SUSTAINABLE FINANCE DISCLOSURE","color":"rgb(2,224,125)"}
-{"word":"SFDR","color":"rgb(13,251,108)"}
-{"word":"LIBOR","color":"rgb(222,141,126)"}
-{"word":"DODD","color":"rgb(6,249,25)"}
-{"word":"NIS","color":"rgb(190,202,1)"}
-{"word":"MIFID2","color":"rgb(162,114,166)"}
-{"word":"ELECTRONIC IDENTIFICATION AND TRUST SERVICES","color":"rgb(77,215,8)"}
-{"word":"CORRUPTION","color":"rgb(95,187,53)"}
-{"word":"IFRS9","color":"rgb(111,200,15)"}
-{"word":"CORONA","color":"rgb(153,214,43)"}
-{"word":"SSM","color":"rgb(44,166,116)"}
-{"word":"SFTR","color":"rgb(32,198,25)"}
-{"word":"SOLVENCY II","color":"rgb(96,138,244)"}
-{"word":"INSURANCE DISTRIBUTION DIRECTIVE","color":"rgb(32,13,56)"}
-{"word":"IORP","color":"rgb(25,108,104)"}
-{"word":"(MICA)","color":"rgb(162,100,172)"}
-{"word":"IDD","color":"rgb(247,24,151)"}
-{"word":"SEPA","color":"rgb(94,37,84)"}
-{"word":"GDPR","color":"rgb(131,248,48)"}
-{"word":"FINANCIAL SERVICES AND MARKETS ACT","color":"rgb(222,172,13)"}
-{"word":"CMU","color":"rgb(193,169,253)"}
-{"word":"BANKING ORDINANCE","color":"rgb(185,176,46)"}
-{"word":"UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE","color":"rgb(154,52,116)"}
-{"word":"AMLO","color":"rgb(73,96,181)"}
-{"word":"PSSVFO","color":"rgb(13,138,198)"}
-{"word":"TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION","color":"rgb(177,122,41)"}
-{"word":"DIGITAL SERVICES ACT","color":"rgb(33,20,71)"}
-{"word":"SENIOR MANAGERS AND CERTIFICATION REGIME","color":"rgb(33,139,24)"}
-{"word":"SMCR.SOLVENCY II","color":"rgb(150,19,193)"}
-{"word":"CRR","color":"rgb(149,32,54)"}
-{"word":"SINGLE SUPERVISORY MECHANISM","color":"rgb(249,117,161)"}
-{"word":"MAD","color":"rgb(68,153,249)"}
-{"word":"MAR","color":"rgb(97,236,181)"}
-{"word":"MARKET","color":"rgb(12,145,167)"}
-{"word":"ABUSE","color":"rgb(174,219,8)"}
-{"word":"RFA","color":"rgb(126,207,76)"}
-{"word":"CARES","color":"rgb(93,81,103)"}
-{"word":"EU Cyber Resilience Act","color":"rgb(162,166,186)"}
-{"word":"Cyber Resilience Act","color":"rgb(113,7,231)"}
-{"word":"Finance Act 2022","color":"rgb(8,92,32)"}
-{"word":"Central Bank (Individual Accountability Framework) Act 2022","color":"rgb(158,183,145)"}
-{"word":"Stablecoin Transparency of Reserves and Uniform Safe Transactions Act of 2022","color":"rgb(88,128,179)"}
-{"word":"Stablecoin TRUST Act of 2022","color":"rgb(92,243,175)"}
-{"word":"Stablecoin Transparency of Reserves and Uniform Safe Transactions (Stablecoin TRUST) Act of 2022","color":"rgb(22,74,11)"}
-{"word":"DCCPA","color":"rgb(139,9,166)"}
-{"word":"Digital Commodities Consumer Protection Act of 2022 (DCCPA)","color":"rgb(208,171,152)"}
-{"word":"The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022","color":"rgb(160,239,168)"}
-{"word":"Privacy Act of 1974 (United States)","color":"rgb(212,51,23)"}
-{"word":"Privacy Act of 1974","color":"rgb(235,139,62)"}
-{"word":"Privacy Act","color":"rgb(189,38,171)"}
-{"word":"Monetary Authority of Singapore (Amendment) Act 2022","color":"rgb(124,19,89)"}
-{"word":"Corporate Sustainability Due Diligence Directive (CSDD)","color":"rgb(36,148,232)"}
-{"word":"Corporate Sustainability Due Diligence Directive","color":"rgb(53,122,61)"}
-{"word":"Corporate Sustainability Due Diligence","color":"rgb(250,14,207)"}
-{"word":"CSDD","color":"rgb(111,85,105)"}
-{"word":"EU Taxonomy Complementary Delegated Act","color":"rgb(0,196,24)"}
-{"word":"Responsible Financial Innovation Act (RFIA)","color":"rgb(173,88,207)"}
-{"word":"Payment Systems and Netting Act 1998 (PSNA) (Australia)","color":"rgb(57,216,201)"}
-{"word":"Payment Systems and Netting Act","color":"rgb(53,238,116)"}
-{"word":"PSNA","color":"rgb(53,212,120)"}
-{"word":"Financial Advisers (Complaints Handling and Resolution) Regulations 2021 (Singapore)","color":"rgb(39,202,205)"}
-{"word":"Corporate Transparency Act (United States)","color":"rgb(125,154,154)"}
-{"word":"Corporate Transparency Act","color":"rgb(45,165,245)"}
-{"word":"EU Cybersecurity Act","color":"rgb(71,77,179)"}
-{"word":"Central Bank of the Republic of China (Taiwan) Act","color":"rgb(210,6,93)"}
-{"word":"2017\/2402","color":"rgb(7,164,170)"}
-{"word":"Countering America\u2019s Adversaries Through Sanctions Act (CAATSA)","color":"rgb(253,188,10)"}
-{"word":"Countering America\u2019s Adversaries Through Sanctions Act","color":"rgb(247,217,99)"}
-{"word":"Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 (Ireland)","color":"rgb(221,179,146)"}
-{"word":"Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022","color":"rgb(104,152,221)"}
-{"word":"Regulation of Retail Credit and Credit Servicing Firms","color":"rgb(165,133,104)"}
-{"word":"Financial Services and Markets Act 2022 (Singapore)","color":"rgb(116,49,144)"}
-{"word":"Financial Services and Markets Act","color":"rgb(92,7,122)"}
-{"word":"Financial Holding Companies Act 2013 (Singapore)","color":"rgb(7,26,115)"}
-{"word":"Financial Holding Companies Act","color":"rgb(171,159,73)"}
-{"word":"Act Governing Electronic Payment Institutions","color":"rgb(145,131,36)"}
-{"word":"Insurance Act (Taiwan)","color":"rgb(67,81,141)"}
-{"word":"Act Governing Electronic Payment Institutions (Taiwan)","color":"rgb(153,98,117)"}
-{"word":"Banking Act (Netherlands)","color":"rgb(113,154,154)"}
-{"word":"Financial Services Reform Act 2001 (Australia)","color":"rgb(221,52,159)"}
-{"word":"Financial Services Reform Act 2001","color":"rgb(47,41,44)"}
-{"word":"Personal Data Protection Act (Taiwan)","color":"rgb(165,134,19)"}
-{"word":"Company Act (Taiwan)","color":"rgb(180,87,178)"}
-{"word":"Company Act","color":"rgb(40,131,34)"}
-{"word":"Financial Holding Company Act (Taiwan)","color":"rgb(219,204,223)"}
-{"word":"Financial Holding Company Act","color":"rgb(207,67,172)"}
-{"word":"Banking Act (Taiwan)","color":"rgb(206,133,178)"}
-{"word":"Interest Rate Risk in the Banking Book (IRRBB)","color":"rgb(104,167,176)"}
-{"word":"Interest Rate Risk in the Banking Book","color":"rgb(251,108,111)"}
-{"word":"IRRBB","color":"rgb(109,104,99)"}
-{"word":"Payment Services Regulations 2019","color":"rgb(53,235,80)"}
-{"word":"Payment Services Regulations 2019 (Singapore)","color":"rgb(224,233,32)"}
-{"word":"Economic Crime (Transparency and Enforcement) Act 2022","color":"rgb(207,219,52)"}
-{"word":"Credit Bureau Act 2016","color":"rgb(224,234,205)"}
-{"word":"Anti-Money Laundering Act of 2020","color":"rgb(226,242,37)"}
-{"word":"Treasury Laws Amendment (2021 Measures No. 1) Act 2021","color":"rgb(212,221,20)"}
-{"word":"Law Number 8 of 2010 concerning the Prevention and Eradication of Money Laundering Money (Undang-Undang Nomor 8 Tahun 2010 tentang Pencegahan dan Pemberantasan TPPU (UU TPPU))","color":"rgb(134,56,64)"}
-{"word":"UU TPPU","color":"rgb(8,38,64)"}
-{"word":"Law Number 8 of 2010","color":"rgb(231,234,76)"}
-{"word":"Thailand Cybersecurity Act B.E. 2564 (2021)","color":"rgb(202,166,243)"}
-{"word":"B.E. 2564","color":"rgb(193,202,52)"}
-{"word":"UK General Data Protection Regulation (UK GDPR)","color":"rgb(45,215,76)"}
-{"word":"UK GDPR","color":"rgb(100,158,61)"}
-{"word":"Data Protection Act 2018","color":"rgb(131,70,58)"}
-{"word":"National Security and Investment Act","color":"rgb(135,27,186)"}
-{"word":"National Security & Investment Act","color":"rgb(242,56,9)"}
-{"word":"UK Data Protection","color":"rgb(213,205,177)"}
-{"word":"Consolidated Law on Banking (TUB) - Legislative Decree 385\/1993 \u2013 [Italy]","color":"rgb(173,198,82)"}
-{"word":"Legislative Decree 385\/1993","color":"rgb(119,211,163)"}
-{"word":"385\/1993","color":"rgb(39,157,150)"}
-{"word":"Consolidated Law on Banking","color":"rgb(113,191,51)"}
-{"word":"TUB","color":"rgb(124,170,151)"}
-{"word":"Preventing Money Laundering and Terrorist Financing (Anti-Money Laundering Act) (Finland)","color":"rgb(97,120,191)"}
-{"word":"444\/2017","color":"rgb(209,111,124)"}
-{"word":"Preventing Money Laundering and Terrorist Financing","color":"rgb(180,227,165)"}
-{"word":"Clarifying Lawful Overseas Use of Data Act (CLOUD Act)","color":"rgb(202,71,71)"}
-{"word":"CLOUD ACT","color":"rgb(152,48,108)"}
-{"word":"Clarifying Lawful Overseas Use of Data Act","color":"rgb(106,107,196)"}
-{"word":"EU Low Carbon Benchmark Regulation","color":"rgb(184,30,0)"}
-{"word":"Low-Carbon Benchmark","color":"rgb(48,240,172)"}
-{"word":"Low-Carbon Benchmark Regulation","color":"rgb(2,45,194)"}
-{"word":"AMLD VI - Anti-Money Laundering Directive VI","color":"rgb(17,149,40)"}
-{"word":"AMLD VI","color":"rgb(197,43,151)"}
-{"word":"Investment firm regulation","color":"rgb(147,143,5)"}
-{"word":"investment firm directive","color":"rgb(230,2,163)"}
-{"word":"2019\/2033","color":"rgb(88,189,231)"}
-{"word":"2019\/2034","color":"rgb(142,100,139)"}
-{"word":"Dual-use","color":"rgb(131,170,228)"}
-{"word":"Dual use","color":"rgb(109,0,169)"}
-{"word":"Moneylenders Act","color":"rgb(145,91,140)"}
-{"word":"Data Governance Act (DGA)","color":"rgb(52,26,58)"}
-{"word":"DGA","color":"rgb(86,232,186)"}
-{"word":"Data Governance Act","color":"rgb(224,56,164)"}
-{"word":"Data Act (European Union)","color":"rgb(69,241,160)"}
-{"word":"Data Act","color":"rgb(161,133,161)"}
-{"word":"EU Data Act","color":"rgb(174,84,225)"}
-{"word":"German Electronic Securities Act (Gesetz zur Einf\u00fchrung elektronischer Wertpapiere \u2013 eWpG)","color":"rgb(24,217,53)"}
-{"word":"Electronic Securities Act","color":"rgb(206,135,200)"}
-{"word":"eWpG","color":"rgb(88,4,103)"}
-{"word":"German Stock Exchange Act (B\u00f6rsengesetz)","color":"rgb(44,255,176)"}
-{"word":"German Financial Market Integrity Strengthening Act (FISG - Finanzmarktintegrit\u00e4tsst\u00e4rkungsgesetz)","color":"rgb(179,14,75)"}
-{"word":"B\u00f6rsengesetz","color":"rgb(147,48,239)"}
-{"word":"FISG","color":"rgb(42,3,217)"}
-{"word":"Finanzmarktintegrit\u00e4tsst\u00e4rkungsgesetz","color":"rgb(56,89,141)"}
-{"word":"Financial Market Integrity Strengthening Act","color":"rgb(38,52,201)"}
-{"word":"Stock Exchange Act","color":"rgb(151,2,252)"}
-{"word":"Banking Executive Accountability Regime","color":"rgb(103,130,65)"}
-{"word":"Banking Executive Accountability Regime(BEAR)","color":"rgb(65,238,97)"}
-{"word":"BEAR","color":"rgb(77,63,88)"}
-{"word":"Financial Accountability Regime (FAR)","color":"rgb(189,242,17)"}
-{"word":"FAR","color":"rgb(85,156,161)"}
-{"word":"Financial Accountability Regime","color":"rgb(192,92,62)"}
-{"word":"Legislative and Regulatory Reform Act 2006","color":"rgb(111,192,215)"}
-{"word":"LRRA","color":"rgb(135,56,71)"}
-{"word":"Digital Markets Act (DMA)","color":"rgb(31,242,234)"}
-{"word":"Digital Markets Act","color":"rgb(71,61,140)"}
-{"word":"DMA","color":"rgb(169,108,31)"}
-{"word":"SANCTION","color":"rgb(67,55,210)"}
-{"word":"SANCTIONS","color":"rgb(155,194,26)"}
-{"word":"BASEL","color":"rgb(139,226,111)"}
-{"word":"CFR","color":"rgb(229,102,241)"}
-{"word":"IFRS","color":"rgb(147,110,207)"}
-{"word":"SUSTAINABLE DEVELOPMENT","color":"rgb(85,240,217)"}
-{"word":"GAAP","color":"rgb(58,191,12)"}
-{"word":"IOSCO","color":"rgb(184,234,59)"}
-{"word":"ELECTRONIC MONEY","color":"rgb(193,61,189)"}
-{"word":"E-MONEY","color":"rgb(218,13,84)"}
-{"word":"WITHDRAWAL","color":"rgb(172,216,61)"}
-{"word":"WITHDRAWAL AGREEMENT","color":"rgb(153,122,93)"}
-{"word":"BANK","color":"rgb(118,181,87)"}
-{"word":"BANKING","color":"rgb(191,198,53)"}
-{"word":"FINANCE","color":"rgb(43,8,220)"}
-{"word":"FINANCIAL","color":"rgb(102,157,96)"}
-{"word":"TFEU","color":"rgb(8,99,46)"}
-{"word":"COVID","color":"rgb(84,56,130)"}
-{"word":"COVID","color":"rgb(11,53,64)"}
-{"word":"COVID-19","color":"rgb(45,219,196)"}
-{"word":"CORONA","color":"rgb(32,197,12)"}
-{"word":"CORONAVIRUS","color":"rgb(27,107,55)"}
-{"word":"COVID19","color":"rgb(161,87,16)"}
-{"word":"REGULATION","color":"rgb(218,24,63)"}
-{"word":"ACT","color":"rgb(130,2,221)"}
-{"word":"ORDINANCE","color":"rgb(155,89,191)"}
-{"word":"IBOR","color":"rgb(78,239,244)"}
-{"word":"SOFR","color":"rgb(217,253,0)"}
-{"word":"SONIA","color":"rgb(250,85,18)"}
-{"word":"MIFID II","color":"rgb(186,74,203)"}
-{"word":"MIFIR","color":"rgb(128,197,20)"}
-{"word":"EMIR","color":"rgb(159,200,49)"}
-{"word":"CSDR","color":"rgb(45,81,98)"}
-{"word":"SRD2","color":"rgb(154,106,154)"}
-{"word":"PSD2","color":"rgb(190,70,129)"}
-{"word":"2011\/61\/EU","color":"rgb(201,103,96)"}
-{"word":"231\/2013","color":"rgb(214,250,153)"}
-{"word":"2015\/849","color":"rgb(9,242,25)"}
-{"word":"2018\/849","color":"rgb(111,105,147)"}
-{"word":"2014\/59\/EU","color":"rgb(116,16,224)"}
-{"word":"2016\/2011","color":"rgb(29,243,242)"}
-{"word":"2013\/36\/EU","color":"rgb(75,226,240)"}
-{"word":"575\/2013","color":"rgb(2,129,169)"}
-{"word":"909\/2014","color":"rgb(223,175,8)"}
-{"word":"2008\/48\/EU","color":"rgb(170,190,220)"}
-{"word":"1060\/2009","color":"rgb(104,144,220)"}
-{"word":"2014\/49\/EU","color":"rgb(74,180,153)"}
-{"word":"1093\/2010","color":"rgb(175,232,136)"}
-{"word":"1094\/2010","color":"rgb(180,201,225)"}
-{"word":"2009\/110\/EC","color":"rgb(23,177,45)"}
-{"word":"2015\/760","color":"rgb(142,142,103)"}
-{"word":"648\/2012","color":"rgb(239,159,88)"}
-{"word":"1095\/2010","color":"rgb(37,184,126)"}
-{"word":"346\/2015","color":"rgb(138,188,14)"}
-{"word":"1092\/2012","color":"rgb(161,119,18)"}
-{"word":"345\/2013","color":"rgb(250,106,138)"}
-{"word":"2002\/47\/EC","color":"rgb(220,178,168)"}
-{"word":"2002\/47\/EU","color":"rgb(174,35,58)"}
-{"word":"2015\/847","color":"rgb(219,21,60)"}
-{"word":"2016\/679","color":"rgb(210,213,100)"}
-{"word":"2016\/2341","color":"rgb(166,133,234)"}
-{"word":"2016\/97","color":"rgb(130,203,1)"}
-{"word":"2015\/751","color":"rgb(166,8,77)"}
-{"word":"2014\/57\/EU","color":"rgb(242,6,100)"}
-{"word":"596\/2014","color":"rgb(201,168,158)"}
-{"word":"2004\/39\/EC","color":"rgb(154,184,145)"}
-{"word":"2014\/65\/EU","color":"rgb(52,131,141)"}
-{"word":"600\/2014","color":"rgb(156,105,59)"}
-{"word":"2017\/1131","color":"rgb(40,33,35)"}
-{"word":"2014\/17\/EU","color":"rgb(4,149,65)"}
-{"word":"1286\/2014","color":"rgb(236,196,144)"}
-{"word":"2014\/92\/EU","color":"rgb(79,116,142)"}
-{"word":"2015\/2366","color":"rgb(39,49,163)"}
-{"word":"2007\/64\/EC","color":"rgb(71,254,183)"}
-{"word":"2003\/71\/EU","color":"rgb(67,158,158)"}
-{"word":"2017\/1129","color":"rgb(140,101,220)"}
-{"word":"1227\/2011","color":"rgb(42,6,9)"}
-{"word":"2015\/2365","color":"rgb(99,189,34)"}
-{"word":"98\/26\/EC","color":"rgb(207,227,183)"}
-{"word":"236\/2012","color":"rgb(133,37,26)"}
-{"word":"260\/2012","color":"rgb(29,121,167)"}
-{"word":"806\/2014","color":"rgb(117,231,7)"}
-{"word":"CBDC","color":"rgb(120,127,99)"}
-{"word":"crypto assets","color":"rgb(182,139,54)"}
-{"word":"crypto currency","color":"rgb(204,37,193)"}
-{"word":"DLT","color":"rgb(139,114,54)"}
-{"word":"stablecoin","color":"rgb(14,116,79)"}
-{"word":"reporting","color":"rgb(129,136,193)"}
-{"word":"Market rules","color":"rgb(50,41,172)"}
-{"word":"NCB innovation","color":"rgb(213,10,101)"}
-{"word":"AML","color":"rgb(137,1,38)"}
-{"word":"marketing","color":"rgb(237,66,243)"}
-{"word":"transparency","color":"rgb(74,223,234)"}
-{"word":"digital policies","color":"rgb(219,210,249)"}
-{"word":"central databases","color":"rgb(18,10,46)"}
-{"word":"reporting protocols","color":"rgb(235,215,29)"}
-{"word":"standards","color":"rgb(12,19,146)"}
-{"word":"AI Hub","color":"rgb(170,234,183)"}
-{"word":"consolidated tape","color":"rgb(239,189,73)"}
-{"word":"CRR 430C","color":"rgb(173,139,128)"}
-{"word":"ISO20022","color":"rgb(205,225,58)"}
-{"word":"market data","color":"rgb(135,124,115)"}
-{"word":"privacy","color":"rgb(94,127,40)"}
-{"word":"fines","color":"rgb(252,196,174)"}
-{"word":"scope 3","color":"rgb(85,180,1)"}
-{"word":"technology attack","color":"rgb(65,103,153)"}
-{"word":"technology hazard","color":"rgb(205,16,236)"}
-{"word":"outages","color":"rgb(35,53,226)"}
-{"word":"data corruption","color":"rgb(195,186,60)"}
-{"word":"cyber","color":"rgb(97,51,15)"}
-{"word":"EU-SCICF","color":"rgb(41,220,211)"}
-{"word":"Reg S-P","color":"rgb(57,12,102)"}
-{"word":"cyber strategy","color":"rgb(217,247,44)"}
-{"word":"Business continuity","color":"rgb(200,9,127)"}
-{"word":"concentration risk","color":"rgb(119,84,82)"}
-{"word":"outsourcing","color":"rgb(168,16,88)"}
-{"word":"OpRisk","color":"rgb(39,127,3)"}
-{"word":"third party risk","color":"rgb(216,37,180)"}
-{"word":"Cyber resilience","color":"rgb(177,141,12)"}
-{"word":"DLT standards","color":"rgb(233,75,223)"}
-{"word":"OpRes","color":"rgb(40,229,89)"}
-{"word":"FinTech","color":"rgb(16,7,162)"}
-{"word":"RegTech","color":"rgb(15,10,204)"}
-{"word":"SupTech","color":"rgb(58,255,16)"}
-{"word":"Digital Regulatory Reporting","color":"rgb(187,114,139)"}
-{"word":"governance","color":"rgb(238,185,113)"}
-{"word":"innovation","color":"rgb(32,120,187)"}
-{"word":"market abuse","color":"rgb(162,179,33)"}
-{"word":"tax crime","color":"rgb(186,48,251)"}
-{"word":"travel rule","color":"rgb(60,134,5)"}
-{"word":"ALMA","color":"rgb(6,105,72)"}
-{"word":"Ben Ownership","color":"rgb(165,240,187)"}
-{"word":"company registries","color":"rgb(133,111,179)"}
-{"word":"Economic Crime Plan","color":"rgb(135,10,47)"}
-{"word":"MLR","color":"rgb(9,115,81)"}
-{"word":"SARs","color":"rgb(70,121,95)"}
-{"word":"technology policy","color":"rgb(171,68,75)"}
-{"word":"third party risk management","color":"rgb(96,178,129)"}
-{"word":"AI","color":"rgb(224,116,200)"}
-{"word":"API","color":"rgb(29,216,174)"}
-{"word":"Cloud data","color":"rgb(31,20,34)"}
-{"word":"DLT","color":"rgb(99,248,233)"}
-{"word":"Financial Services (Banking Reform) Act 2013","color":"rgb(239,149,129)"}
-{"word":"ESG data","color":"rgb(215,4,161)"}
-{"word":"quantum","color":"rgb(181,78,142)"}
-{"word":"regulatory reporting","color":"rgb(136,152,126)"}
-{"word":"EU Anti-Money Laundering Authority (AMLA) Regulation","color":"rgb(177,17,162)"}
-{"word":"AMLA regulation","color":"rgb(29,197,103)"}
-{"word":"AMLA","color":"rgb(243,189,31)"}
+{"word":"Terrorism Act 2000","color":"rgb(71,114,31)"}
+{"word":"Terrorism Act 2006","color":"rgb(249,174,186)"}
+{"word":"ASIC Act","color":"rgb(162,183,155)"}
+{"word":"CA 2001","color":"rgb(143,228,214)"}
+{"word":"Corporations Act","color":"rgb(2,238,222)"}
+{"word":"NCCP Act","color":"rgb(47,170,248)"}
+{"word":"Electronic Transactions Act","color":"rgb(179,247,165)"}
+{"word":"Artificial Intelligence Act","color":"rgb(224,81,231)"}
+{"word":"UK ETS","color":"rgb(32,11,47)"}
+{"word":"Data Privacy Act of 2012","color":"rgb(114,161,125)"}
+{"word":"Bank of England Act 1998","color":"rgb(203,26,99)"}
+{"word":"UK Emission Trading Scheme","color":"rgb(233,216,212)"}
+{"word":"Global Anti-Corruption Sanctions Regulations 2021","color":"rgb(89,212,188)"}
+{"word":"IAC - Individual Accountability and Conduct","color":"rgb(168,112,133)"}
+{"word":"IAC","color":"rgb(238,216,250)"}
+{"word":"Individual Accountability and Conduct","color":"rgb(93,31,215)"}
+{"word":"Corporate Sustainability Reporting Directive - CSRD","color":"rgb(39,109,110)"}
+{"word":"CSRD","color":"rgb(67,223,227)"}
+{"word":"Corporate Sustainability Reporting Directive","color":"rgb(16,221,193)"}
+{"word":"Capital Requirements Directive VI (CRD VI)","color":"rgb(31,141,1)"}
+{"word":"CRD VI","color":"rgb(29,61,53)"}
+{"word":"CRD 6","color":"rgb(45,215,94)"}
+{"word":"Energy Taxation Directive (ETD)","color":"rgb(102,13,45)"}
+{"word":"Fundamentally Understanding the Usability and Realistic Evolution of Artificial Intelligence Act of 2020","color":"rgb(57,92,108)"}
+{"word":"FUTURE of Artificial Intelligence Act of 2020","color":"rgb(77,134,33)"}
+{"word":"Electronic Transactions Act (ETA)","color":"rgb(124,124,255)"}
+{"word":"Capital Requirements Regulation III (CRR III)","color":"rgb(137,32,239)"}
+{"word":"CRR III","color":"rgb(95,19,123)"}
+{"word":"CRR3","color":"rgb(33,103,213)"}
+{"word":"SI 2021\/392","color":"rgb(64,141,173)"}
+{"word":"The Money Laundering and Terrorist Financing (Amendment) (High-Risk Countries) Regulations 2021","color":"rgb(170,82,159)"}
+{"word":"Union Law No 10","color":"rgb(66,191,113)"}
+{"word":"Union Law No. (10)","color":"rgb(21,52,108)"}
+{"word":"UK Emission Trading Scheme (UK ETS)","color":"rgb(214,127,162)"}
+{"word":"Union Law No. (10) Of 1980 Concerning The Central Bank The Monetary System And Organisation Of Banking","color":"rgb(26,32,234)"}
+{"word":"Bank of England Act","color":"rgb(238,210,125)"}
+{"word":"Senior Executive Accountability Regime","color":"rgb(192,233,138)"}
+{"word":"Senior Executive Accountability Regime (SEAR)","color":"rgb(74,187,188)"}
+{"word":"SEAR","color":"rgb(33,90,105)"}
+{"word":"Payment Systems Act B.E. 2560 (2017)","color":"rgb(178,62,170)"}
+{"word":"MFF","color":"rgb(220,232,122)"}
+{"word":"Multiannual Financial Framework (MFF)","color":"rgb(14,15,146)"}
+{"word":"Treasury Laws Amendment (Banking Executive Accountability and Related Measures) Act 2018","color":"rgb(138,166,26)"}
+{"word":"TLTRO-III","color":"rgb(242,140,75)"}
+{"word":"Manager in charge","color":"rgb(201,137,200)"}
+{"word":"(MIC)","color":"rgb(216,97,99)"}
+{"word":"Manager-In-Charge","color":"rgb(151,211,37)"}
+{"word":"(\"MIC\")","color":"rgb(84,11,163)"}
+{"word":"MIC regime","color":"rgb(53,180,79)"}
+{"word":"AML\/CFT Act","color":"rgb(32,144,49)"}
+{"word":"ASIC Corporations Derivative Transaction Reporting","color":"rgb(79,131,15)"}
+{"word":"ASIC Derivative Transaction Rules","color":"rgb(242,5,192)"}
+{"word":"Derivative Transaction Rules 2013","color":"rgb(189,153,45)"}
+{"word":"ETD","color":"rgb(28,117,14)"}
+{"word":"Energy Taxation","color":"rgb(100,174,199)"}
+{"word":"Energy Taxation Directive","color":"rgb(225,191,182)"}
+{"word":"National Credit Act","color":"rgb(152,1,52)"}
+{"word":"No. 134 2009","color":"rgb(139,217,42)"}
+{"word":"Reserve Bank Act","color":"rgb(78,74,134)"}
+{"word":"Reserve Bank Act 1959","color":"rgb(168,105,145)"}
+{"word":"FM-GwG","color":"rgb(152,84,40)"}
+{"word":"Finanzmarkt-Geldw\u00e4schegesetz","color":"rgb(109,236,2)"}
+{"word":"Capital Market Act 2019","color":"rgb(103,249,121)"}
+{"word":"KMG 2019","color":"rgb(76,91,102)"}
+{"word":"Action Plan for Financing Sustainable Growth","color":"rgb(79,104,152)"}
+{"word":"Action Plan \u2018Financing Sustainable Growth","color":"rgb(200,114,255)"}
+{"word":"Action Plan \u2018Financing Sustainable Growth\u2019","color":"rgb(73,81,227)"}
+{"word":"Action Plan: Financing Sustainable Growth","color":"rgb(216,2,191)"}
+{"word":"COM\/2018\/097","color":"rgb(207,49,94)"}
+{"word":"2013\/34","color":"rgb(199,214,28)"}
+{"word":"2013\/34\/EU","color":"rgb(151,245,245)"}
+{"word":"Directive 2013\/34","color":"rgb(102,168,249)"}
+{"word":"Directive 2013\/34\/EU","color":"rgb(140,107,169)"}
+{"word":"2011\/16","color":"rgb(218,55,183)"}
+{"word":"2011\/16\/EU","color":"rgb(35,110,64)"}
+{"word":"Council Directive 2011\/16","color":"rgb(200,253,36)"}
+{"word":"Council Directive 2011\/16\/EU","color":"rgb(142,148,237)"}
+{"word":"2011\/61\/EU","color":"rgb(227,84,150)"}
+{"word":"AIFM Directive","color":"rgb(2,59,71)"}
+{"word":"AIFMD","color":"rgb(215,52,52)"}
+{"word":"Alternative Investment Fund Managers Directive","color":"rgb(52,2,6)"}
+{"word":"Alternative Investment Fund Managers Directive 2011","color":"rgb(4,102,99)"}
+{"word":"Directive 2011\/61\/EU","color":"rgb(140,225,60)"}
+{"word":"2015\/849","color":"rgb(208,112,106)"}
+{"word":"AMLD 4","color":"rgb(151,83,200)"}
+{"word":"AMLD IV","color":"rgb(214,241,166)"}
+{"word":"AMLD4","color":"rgb(19,225,225)"}
+{"word":"AMLDIV","color":"rgb(188,201,91)"}
+{"word":"Anti-Money Laundering Directive","color":"rgb(228,180,173)"}
+{"word":"Anti-Money Laundering Directive 4","color":"rgb(162,77,251)"}
+{"word":"Anti-Money Laundering Directive IV","color":"rgb(115,73,47)"}
+{"word":"Anti-Money Laundering Directive4","color":"rgb(27,190,149)"}
+{"word":"Anti-Money Laundering DirectiveIV","color":"rgb(199,101,116)"}
+{"word":"Directive (EU) 2015\/849","color":"rgb(236,193,20)"}
+{"word":"Fourth Money Laundering Directive","color":"rgb(106,221,192)"}
+{"word":"MLD4","color":"rgb(13,58,38)"}
+{"word":"MLDIV","color":"rgb(106,121,75)"}
+{"word":"AMLD V","color":"rgb(90,230,252)"}
+{"word":"AMLD5","color":"rgb(154,104,147)"}
+{"word":"AMLDV","color":"rgb(219,184,186)"}
+{"word":"Anti-Money Laundering Directive 5","color":"rgb(159,81,134)"}
+{"word":"Anti-Money Laundering Directive V","color":"rgb(182,186,226)"}
+{"word":"Anti-Money Laundering Directive5","color":"rgb(148,105,196)"}
+{"word":"Anti-Money Laundering DirectiveV","color":"rgb(186,179,158)"}
+{"word":"Directive (EU) 2018\/843","color":"rgb(44,217,140)"}
+{"word":"Fifth Money Laundering Directive","color":"rgb(61,116,224)"}
+{"word":"MLD 5","color":"rgb(148,74,89)"}
+{"word":"MLD V","color":"rgb(165,100,112)"}
+{"word":"MLD5","color":"rgb(221,20,237)"}
+{"word":"MLDV","color":"rgb(212,189,67)"}
+{"word":"2014\/59\/EU","color":"rgb(55,86,127)"}
+{"word":"BRRD","color":"rgb(21,74,143)"}
+{"word":"Bank Recovery and Resolution Directive","color":"rgb(6,101,130)"}
+{"word":"Directive 2014\/59\/EU","color":"rgb(97,255,36)"}
+{"word":"2019\/879","color":"rgb(254,85,200)"}
+{"word":"BRRD 2","color":"rgb(45,189,135)"}
+{"word":"BRRD II","color":"rgb(49,186,55)"}
+{"word":"BRRD2","color":"rgb(220,85,183)"}
+{"word":"BRRDII","color":"rgb(106,119,218)"}
+{"word":"Bank Recovery and Resolution Directive 2","color":"rgb(155,63,111)"}
+{"word":"Bank Recovery and Resolution Directive II","color":"rgb(145,215,9)"}
+{"word":"Bank Recovery and Resolution Directive2","color":"rgb(168,92,90)"}
+{"word":"Bank Recovery and Resolution DirectiveII","color":"rgb(28,4,181)"}
+{"word":"Directive (EU) 2019\/879","color":"rgb(49,159,186)"}
+{"word":"2016\/1011\/EU","color":"rgb(113,82,162)"}
+{"word":"BMR","color":"rgb(86,141,248)"}
+{"word":"Benchmark Regulation","color":"rgb(132,88,62)"}
+{"word":"Benchmarks Regulation","color":"rgb(219,218,21)"}
+{"word":"Regulation (EU) 2016\/1011","color":"rgb(138,221,187)"}
+{"word":"Regulation 2016\/1011\/EU","color":"rgb(8,227,0)"}
+{"word":"CMU","color":"rgb(146,14,85)"}
+{"word":"Capital Markets Union","color":"rgb(228,235,177)"}
+{"word":"2013\/36\/EU","color":"rgb(156,85,12)"}
+{"word":"CRD 4","color":"rgb(229,93,23)"}
+{"word":"CRD IV","color":"rgb(204,107,35)"}
+{"word":"CRD4","color":"rgb(115,127,74)"}
+{"word":"CRDIV","color":"rgb(137,171,99)"}
+{"word":"Capital Requirements Directive 2013\/36\/EU","color":"rgb(146,78,213)"}
+{"word":"Capital Requirements Directive 4","color":"rgb(28,141,154)"}
+{"word":"Capital Requirements Directive IV","color":"rgb(236,192,84)"}
+{"word":"Capital Requirements Directive4","color":"rgb(67,191,126)"}
+{"word":"Capital Requirements DirectiveIV","color":"rgb(130,85,4)"}
+{"word":"Directive 2013\/36\/EU","color":"rgb(141,14,81)"}
+{"word":"2019\/878","color":"rgb(43,229,131)"}
+{"word":"CRD 5","color":"rgb(37,8,142)"}
+{"word":"CRD V","color":"rgb(116,66,228)"}
+{"word":"CRD5","color":"rgb(162,242,248)"}
+{"word":"CRDV","color":"rgb(215,207,245)"}
+{"word":"Capital Requirements Directive 5","color":"rgb(98,178,91)"}
+{"word":"Capital Requirements Directive V","color":"rgb(7,191,153)"}
+{"word":"Capital Requirements Directive5","color":"rgb(79,106,37)"}
+{"word":"Capital Requirements DirectiveV","color":"rgb(118,37,152)"}
+{"word":"Directive (EU) 2019\/878","color":"rgb(253,35,163)"}
+{"word":"575\/2013","color":"rgb(157,5,116)"}
+{"word":"CRR","color":"rgb(10,78,134)"}
+{"word":"Capital Requirements Regulation","color":"rgb(68,173,246)"}
+{"word":"Capital Requirements Regulation 2013","color":"rgb(65,176,14)"}
+{"word":"Regulation (EU) No 575\/2013","color":"rgb(161,50,72)"}
+{"word":"2019\/876","color":"rgb(118,102,119)"}
+{"word":"CRR 2","color":"rgb(212,245,121)"}
+{"word":"CRR II","color":"rgb(84,125,99)"}
+{"word":"CRR2","color":"rgb(56,202,51)"}
+{"word":"CRRII","color":"rgb(67,160,103)"}
+{"word":"Capital Requirements Regulation 2","color":"rgb(185,40,214)"}
+{"word":"Capital Requirements Regulation II","color":"rgb(109,254,66)"}
+{"word":"Capital Requirements Regulation2","color":"rgb(120,145,72)"}
+{"word":"Capital Requirements RegulationII","color":"rgb(56,41,180)"}
+{"word":"EU Regulation 2019\/876","color":"rgb(91,228,196)"}
+{"word":"Revised Capital Requirements Regulation","color":"rgb(237,9,88)"}
+{"word":"2016\/0365 (COD)","color":"rgb(163,113,173)"}
+{"word":"COM\/2016\/0856","color":"rgb(20,248,149)"}
+{"word":"Central Counterparty Recovery and Resolution","color":"rgb(70,204,67)"}
+{"word":"909\/2014","color":"rgb(135,191,88)"}
+{"word":"CSDR","color":"rgb(190,150,93)"}
+{"word":"Central Securities Depositories Regulation","color":"rgb(91,244,106)"}
+{"word":"Regulation (EU) No 909\/2014","color":"rgb(238,174,160)"}
+{"word":"(EU) 2016\/2258","color":"rgb(241,102,69)"}
+{"word":"2016\/2258","color":"rgb(72,80,87)"}
+{"word":"DIRECTIVE 2016\/2258","color":"rgb(23,174,147)"}
+{"word":"CRA Regulation","color":"rgb(129,65,22)"}
+{"word":"CRAR","color":"rgb(149,206,87)"}
+{"word":"Credit Rating Agencies Regulation","color":"rgb(25,110,161)"}
+{"word":"Regulation (EU) No 462\/2013","color":"rgb(247,130,43)"}
+{"word":"Directive (EU) 2019\/1160","color":"rgb(153,221,8)"}
+{"word":"Regulation (EU) 2019\/1156","color":"rgb(236,30,80)"}
+{"word":"(2019\/518)","color":"rgb(4,203,38)"}
+{"word":"(924\/2009)","color":"rgb(61,129,94)"}
+{"word":"CBPR","color":"rgb(100,144,218)"}
+{"word":"Cross Border Payment Regulation","color":"rgb(51,78,119)"}
+{"word":"Cross-Border Payment Regulation","color":"rgb(128,249,18)"}
+{"word":"2017\/0225(COD)","color":"rgb(75,27,142)"}
+{"word":"Cybersecurity Act","color":"rgb(55,139,94)"}
+{"word":"Data Act","color":"rgb(169,86,15)"}
+{"word":"2014\/49\/EU","color":"rgb(10,112,179)"}
+{"word":"DGSD","color":"rgb(211,243,119)"}
+{"word":"Deposit Guarantee Schemes Directive","color":"rgb(232,240,0)"}
+{"word":"2020\/0266(COD)","color":"rgb(250,239,226)"}
+{"word":"COM(2020) 595 final","color":"rgb(154,152,85)"}
+{"word":"DORA","color":"rgb(26,61,68)"}
+{"word":"Digital Operational Resilience","color":"rgb(172,92,100)"}
+{"word":"Digital Operational Resilience Act","color":"rgb(30,231,31)"}
+{"word":"2002\/65\/EC","color":"rgb(60,55,144)"}
+{"word":"Directive 2002\/65\/EC","color":"rgb(223,160,167)"}
+{"word":"Directive 2009\/110\/EC","color":"rgb(100,104,218)"}
+{"word":"EMD","color":"rgb(10,248,23)"}
+{"word":"Electronic Money Directive","color":"rgb(246,234,173)"}
+{"word":"E-Money Directive II","color":"rgb(68,89,214)"}
+{"word":"E-Money Directive2","color":"rgb(74,104,40)"}
+{"word":"E-Money DirectiveII","color":"rgb(205,134,107)"}
+{"word":"EMD 2","color":"rgb(194,227,174)"}
+{"word":"EMD II","color":"rgb(239,97,172)"}
+{"word":"EMD2","color":"rgb(5,56,54)"}
+{"word":"EMDII","color":"rgb(196,125,25)"}
+{"word":"Electronic Money Directive 2","color":"rgb(236,125,186)"}
+{"word":"Regulation (EU) No 1093\/2010","color":"rgb(141,29,96)"}
+{"word":"Guidelines for complaints handling for the securities and banking sectors","color":"rgb(15,145,242)"}
+{"word":"Agreement on the European Economic Area","color":"rgb(57,244,181)"}
+{"word":"Regulation (EU) No 1094\/2010","color":"rgb(252,14,127)"}
+{"word":"910\/2014","color":"rgb(87,145,209)"}
+{"word":"Electronic Identification and Trust Services","color":"rgb(160,241,225)"}
+{"word":"Electronic Identification and Trust Services Regulation","color":"rgb(143,76,94)"}
+{"word":"Regulation (EU) No 910\/2014","color":"rgb(224,243,112)"}
+{"word":"eIDAS","color":"rgb(7,60,118)"}
+{"word":"(2003\/96\/EC)","color":"rgb(76,228,187)"}
+{"word":"EEAG","color":"rgb(205,243,179)"}
+{"word":"Environmental and Energy State Aid Guidelines","color":"rgb(66,61,120)"}
+{"word":"Directive 2002\/58\/EC","color":"rgb(20,150,183)"}
+{"word":"Regulation of the European Parliament and of the Council concerning the respect for private life and the protection of personal data in electronic communications and repealing Directive 2002\/58\/EC (Regulation on Privacy and Electronic Communications)","color":"rgb(13,238,117)"}
+{"word":"Regulation (EU) No 1095\/2010","color":"rgb(142,38,90)"}
+{"word":"Regulation (EU) No 1095\/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Securities and Markets Authority) amending Decision No 716\/2009\/EC and repealing Commission Decision 2009\/77\/EC","color":"rgb(187,236,239)"}
+{"word":"(Directive (EU) 2017\/2399)","color":"rgb(223,101,140)"}
+{"word":"2016\/1011","color":"rgb(24,222,73)"}
+{"word":"2019\/796","color":"rgb(2,126,79)"}
+{"word":"Council Regulation (EU) 2019\/796","color":"rgb(82,203,23)"}
+{"word":"Directive 2003\/87\/EC","color":"rgb(11,108,125)"}
+{"word":"ETS","color":"rgb(105,244,188)"}
+{"word":"EU ETS","color":"rgb(126,110,50)"}
+{"word":"EU Emissions Trading System","color":"rgb(10,237,119)"}
+{"word":"Emissions Trading System","color":"rgb(156,73,87)"}
+{"word":"European Emissions Trading System","color":"rgb(109,46,196)"}
+{"word":"European Union  Emissions Trading System","color":"rgb(75,89,110)"}
+{"word":"EU GBS","color":"rgb(245,175,33)"}
+{"word":"EU Green Bond Standard","color":"rgb(97,247,110)"}
+{"word":"European Green Bond Standard","color":"rgb(5,249,149)"}
+{"word":"European Union Green Bond Standard","color":"rgb(137,23,44)"}
+{"word":"GBS","color":"rgb(234,140,0)"}
+{"word":"Green Bond Standard","color":"rgb(160,26,20)"}
+{"word":"ECL","color":"rgb(198,174,236)"}
+{"word":"Regulation (EU) 2018\/1999","color":"rgb(161,8,196)"}
+{"word":"Regulation (EU) 2015\/760","color":"rgb(52,176,65)"}
+{"word":"Regulation (EU) 2015\/760 of the European Parliament and of the Council of 29 April 2015 on European long-term investment funds","color":"rgb(139,192,39)"}
+{"word":"648\/2012","color":"rgb(202,143,235)"}
+{"word":"EMIR","color":"rgb(45,194,78)"}
+{"word":"European Market Infrastructure Regulation","color":"rgb(4,138,18)"}
+{"word":"Regulation (EU) No 648\/2012","color":"rgb(116,53,237)"}
+{"word":"1095\/2010","color":"rgb(218,119,247)"}
+{"word":"ESMA","color":"rgb(64,114,69)"}
+{"word":"ESMA Regulation","color":"rgb(209,140,199)"}
+{"word":"European Securities and Markets Authority Regulation","color":"rgb(193,206,117)"}
+{"word":"Regulation (EU) No 346\/2013","color":"rgb(168,75,61)"}
+{"word":"Regulation (EU) No 346\/2013 of the European Parliament and of the Council of 17 April 2013 on European social entrepreneurship funds Text with EEA relevance","color":"rgb(195,141,60)"}
+{"word":"ESRB","color":"rgb(249,188,2)"}
+{"word":"ESRB Regulation","color":"rgb(255,249,243)"}
+{"word":"ESRBR","color":"rgb(97,6,42)"}
+{"word":"European Systemic Risk Board Regulation","color":"rgb(149,18,48)"}
+{"word":"Regulation (EU) No 1092\/2010","color":"rgb(38,6,173)"}
+{"word":"Regulation (EU) No 1092\/2010 of the European Parliament and of the Council of 24 November 2010 on European Union macro-prudential oversight of the financial system and establishing a European Systemic Risk Board","color":"rgb(243,23,31)"}
+{"word":"ENISA","color":"rgb(167,22,181)"}
+{"word":"European Union Agency for Network and Information Security","color":"rgb(252,222,80)"}
+{"word":"EU Financial Sanctions","color":"rgb(244,223,95)"}
+{"word":"Regulation (EU) No 345\/2013","color":"rgb(36,173,203)"}
+{"word":"Regulation (EU) No 345\/2013 of the European Parliament and of the Council of 17 April 2013 on European venture capital funds Text with EEA relevance","color":"rgb(197,41,70)"}
+{"word":"Directive 2002\/47\/EC","color":"rgb(5,179,106)"}
+{"word":"Directive 2002\/47\/EC of the European Parliament and of the Council of 6 June 2002 on financial collateral arrangements","color":"rgb(8,127,68)"}
+{"word":"FICOD","color":"rgb(64,237,34)"}
+{"word":"Financial Conglomerates Directive","color":"rgb(97,117,34)"}
+{"word":"Directive (EU) 2015\/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing amending Regulation (EU) No 648\/2012 of the European Parliament and of the Council and repealing Directive 2005\/60\/EC of the European Parliament and of the Council and Commission Directive 2006\/70\/EC","color":"rgb(113,223,166)"}
+{"word":"2016\/679","color":"rgb(28,119,148)"}
+{"word":"GDPR","color":"rgb(188,139,247)"}
+{"word":"General Data Protection Regulation","color":"rgb(142,108,233)"}
+{"word":"Regulation (EU) 2016\/679","color":"rgb(151,72,135)"}
+{"word":"Directive (EU) 2016\/97","color":"rgb(61,34,238)"}
+{"word":"Directive (EU) 2016\/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (recast)","color":"rgb(187,253,221)"}
+{"word":"IDD","color":"rgb(36,34,232)"}
+{"word":"Insurance Distribution Directive","color":"rgb(149,207,99)"}
+{"word":"2015\/751","color":"rgb(57,108,56)"}
+{"word":"Regulation (EU) 2015\/751","color":"rgb(208,203,222)"}
+{"word":"Directive (EU) 2016\/680","color":"rgb(94,131,96)"}
+{"word":"MICA","color":"rgb(66,251,40)"}
+{"word":"Markets in Crypto Assets","color":"rgb(18,155,50)"}
+{"word":"Markets in Crypto-Assets","color":"rgb(198,202,188)"}
+{"word":"Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL on Markets in Crypto-assets and amending Directive (EU) 2019\/1937","color":"rgb(22,38,131)"}
+{"word":"Regulation on Markets in Crypto Assets (MiCA)","color":"rgb(91,105,7)"}
+{"word":"2004\/39\/EC","color":"rgb(247,36,115)"}
+{"word":"Directive 2004\/39\/EC","color":"rgb(91,20,167)"}
+{"word":"MIFID","color":"rgb(225,206,218)"}
+{"word":"Markets in Financial Instruments Directive","color":"rgb(25,64,78)"}
+{"word":"Directive 2005\/60\/EC","color":"rgb(183,133,185)"}
+{"word":"Directive 2005\/60\/EC of the European Parliament and of the Council of 26 October 2005 on the prevention of the use of the financial system for the purpose of money laundering and terrorist financing","color":"rgb(251,169,190)"}
+{"word":"2017\/1131","color":"rgb(147,62,196)"}
+{"word":"MMF","color":"rgb(60,105,122)"}
+{"word":"MMFR","color":"rgb(12,237,113)"}
+{"word":"Money Market Funds (MMFs) Regulation","color":"rgb(229,209,234)"}
+{"word":"Money Market Funds Regulation","color":"rgb(145,154,43)"}
+{"word":"Regulation (EU) 2017\/1131","color":"rgb(28,133,27)"}
+{"word":"Directive 2014\/17\/EU","color":"rgb(193,113,97)"}
+{"word":"MCD","color":"rgb(89,255,101)"}
+{"word":"Mortgage Credit Directive","color":"rgb(219,81,31)"}
+{"word":"Directive (EU) 2016\/1148","color":"rgb(73,138,235)"}
+{"word":"EU 2016\/1148","color":"rgb(139,129,115)"}
+{"word":"NIS","color":"rgb(105,251,3)"}
+{"word":"NIS Directive","color":"rgb(34,207,96)"}
+{"word":"NISD","color":"rgb(185,230,194)"}
+{"word":"Network and Information Security Directive","color":"rgb(20,173,201)"}
+{"word":"Security of Networks and Information Systems Directive","color":"rgb(29,58,235)"}
+{"word":"Directive 2014\/95\/EU","color":"rgb(62,86,149)"}
+{"word":"Directive 2014\/95\/EU of the European Parliament and of the Council of 22 October 2014 amending Directive 2013\/34\/EU as regards disclosure of non-financial and diversity information by certain large undertakings and groups Text with EEA relevance","color":"rgb(73,185,162)"}
+{"word":"NFRD","color":"rgb(177,177,22)"}
+{"word":"Non Financial Reporting Directive","color":"rgb(41,71,169)"}
+{"word":"Non-Financial Reporting Directive","color":"rgb(77,36,92)"}
+{"word":"(EU) No 795\/2014","color":"rgb(30,38,15)"}
+{"word":"Oversight Requirements for SIPs","color":"rgb(185,142,232)"}
+{"word":"Regulation of the European Central Bank (EU) No 795\/2014","color":"rgb(153,148,249)"}
+{"word":"Regulation of the European Central Bank (EU) No 795\/2014 of 3 July 2014 on oversight requirements for systemically important payment systems (ECB\/2014\/28)","color":"rgb(143,215,68)"}
+{"word":"1286\/2014","color":"rgb(8,146,209)"}
+{"word":"PRIIPs","color":"rgb(132,189,187)"}
+{"word":"Packaged Retail and Insurance based Investment Products","color":"rgb(5,60,243)"}
+{"word":"Packaged Retail and Insurance-based Investment Products","color":"rgb(62,34,28)"}
+{"word":"Regulation (EU) No 1286\/2014","color":"rgb(188,254,203)"}
+{"word":"2007\/64\/EC","color":"rgb(3,41,59)"}
+{"word":"Directive 2007\/64\/EC","color":"rgb(201,2,142)"}
+{"word":"PSD","color":"rgb(59,59,24)"}
+{"word":"PSD1","color":"rgb(59,128,246)"}
+{"word":"Payment Services Directive","color":"rgb(130,216,193)"}
+{"word":"2015\/2366","color":"rgb(160,13,41)"}
+{"word":"Directive (EU) 2015\/2366","color":"rgb(56,32,67)"}
+{"word":"PSD II","color":"rgb(125,73,163)"}
+{"word":"PSD2","color":"rgb(16,184,90)"}
+{"word":"PSDII","color":"rgb(61,3,131)"}
+{"word":"Payment Services Directive 2","color":"rgb(152,100,40)"}
+{"word":"Payment Services Directive II","color":"rgb(122,219,170)"}
+{"word":"Payment Services Directive2","color":"rgb(25,173,146)"}
+{"word":"Payment Services DirectiveII","color":"rgb(188,12,245)"}
+{"word":"COM(2020)594 final 2020\/0267 (COD) 24.09.2020","color":"rgb(135,36,239)"}
+{"word":"COM(2018)135 final 2018\/0063A (COD) 2018\/0063B (COD) 14.03.2018","color":"rgb(211,148,208)"}
+{"word":"PR","color":"rgb(175,253,231)"}
+{"word":"Prospectus Regulation","color":"rgb(159,16,170)"}
+{"word":"Regulation (EU) 2017\/1129","color":"rgb(139,97,79)"}
+{"word":"Regulation (EU) No 833\/2014","color":"rgb(173,219,84)"}
+{"word":"ECB\/2016\/13","color":"rgb(103,246,34)"}
+{"word":"Regulation (EU) 2016\/867","color":"rgb(115,6,28)"}
+{"word":"Regulation (EU) 2016\/867 of the European Central Bank of 18 May 2016 on the collection of granular credit and credit risk data (ECB\/2016\/13)","color":"rgb(229,127,87)"}
+{"word":"1227\/2011","color":"rgb(31,133,220)"}
+{"word":"REMIT","color":"rgb(70,99,43)"}
+{"word":"Regulation (EU) No 1227\/2011","color":"rgb(218,165,165)"}
+{"word":"Regulation on Wholesale Energy Market Integrity and Transparency","color":"rgb(187,9,138)"}
+{"word":"ECB\/2015\/13","color":"rgb(253,206,189)"}
+{"word":"Regulation (EU) 2015\/534","color":"rgb(98,232,196)"}
+{"word":"Regulation (EU) 2015\/534 of the European Central Bank of 17 March 2015 on reporting of supervisory financial information (ECB\/2015\/13)","color":"rgb(213,155,167)"}
+{"word":"2015\/2365","color":"rgb(228,101,149)"}
+{"word":"Regulation (EU) 2015\/2365","color":"rgb(176,24,171)"}
+{"word":"SFTR","color":"rgb(234,206,28)"}
+{"word":"Securities Financing Transactions Regulation","color":"rgb(238,52,192)"}
+{"word":"2017\/2024","color":"rgb(118,23,12)"}
+{"word":"Regulation 2017\/2024","color":"rgb(51,40,138)"}
+{"word":"Directive 98\/26\/EC","color":"rgb(48,38,174)"}
+{"word":"SFD","color":"rgb(5,164,61)"}
+{"word":"Settlement Finality Directive","color":"rgb(219,98,179)"}
+{"word":"Directive 2007\/36\/EC","color":"rgb(195,74,95)"}
+{"word":"Directive 2007\/36\/EC of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies","color":"rgb(206,106,254)"}
+{"word":"Directive (EU) 2017\/828","color":"rgb(40,193,208)"}
+{"word":"Directive (EU) 2017\/828 of the European Parliament and of the Council of 17 May 2017 amending Directive 2007\/36\/EC as regards the encouragement of long-term shareholder engagement","color":"rgb(158,137,239)"}
+{"word":"SRD","color":"rgb(30,84,120)"}
+{"word":"236\/2012","color":"rgb(174,106,40)"}
+{"word":"Regulation (EU) No 236\/2012","color":"rgb(228,75,65)"}
+{"word":"SSR","color":"rgb(178,32,42)"}
+{"word":"Short Selling Regulation","color":"rgb(241,162,250)"}
+{"word":"SEPA","color":"rgb(225,184,22)"}
+{"word":"Single Euro Payments Area","color":"rgb(26,10,120)"}
+{"word":"806\/2014","color":"rgb(236,62,224)"}
+{"word":"Regulation No 806\/2014","color":"rgb(206,51,95)"}
+{"word":"SRM","color":"rgb(227,106,235)"}
+{"word":"SRMR","color":"rgb(191,211,220)"}
+{"word":"Single Resolution Mechanism","color":"rgb(250,2,169)"}
+{"word":"Single Resolution Mechanism Regulation","color":"rgb(96,112,41)"}
+{"word":"2019\/877","color":"rgb(69,101,67)"}
+{"word":"Regulation (EU) 2019\/877","color":"rgb(158,106,184)"}
+{"word":"SRM 2","color":"rgb(207,175,135)"}
+{"word":"SRM II","color":"rgb(106,106,179)"}
+{"word":"SRM2","color":"rgb(177,79,221)"}
+{"word":"SRMR 2","color":"rgb(152,90,189)"}
+{"word":"SRMR II","color":"rgb(15,144,222)"}
+{"word":"SRMR2","color":"rgb(95,73,47)"}
+{"word":"Single Resolution Mechanism 2","color":"rgb(253,55,152)"}
+{"word":"Single Resolution Mechanism II","color":"rgb(147,197,151)"}
+{"word":"Single Resolution Mechanism2","color":"rgb(70,114,211)"}
+{"word":"Single Resolution MechanismII","color":"rgb(128,115,74)"}
+{"word":"1024\/2013","color":"rgb(169,33,18)"}
+{"word":"Regulation (EU) No 1024\/2013","color":"rgb(48,185,199)"}
+{"word":"SSM","color":"rgb(0,135,30)"}
+{"word":"Single Supervisory Mechanism","color":"rgb(157,236,98)"}
+{"word":"2009\/138\/EC","color":"rgb(124,95,235)"}
+{"word":"Directive 2009\/138\/EC","color":"rgb(124,114,100)"}
+{"word":"Omnibus II Directive","color":"rgb(128,226,185)"}
+{"word":"Solvency II","color":"rgb(143,56,151)"}
+{"word":"ECB\/2014\/41","color":"rgb(192,7,137)"}
+{"word":"Regulation (EU) No 1163\/2014","color":"rgb(202,27,94)"}
+{"word":"Regulation (EU) No 1163\/2014 of the European Central Bank of 22 October 2014 on supervisory fees (ECB\/2014\/41)","color":"rgb(72,15,1)"}
+{"word":"EBA\/GL\/2020\/11","color":"rgb(111,235,226)"}
+{"word":"SREP","color":"rgb(90,43,70)"}
+{"word":"Supervisory Review and Evaluation Process","color":"rgb(214,170,88)"}
+{"word":"Regulation (EU) 2019\/2088","color":"rgb(73,89,42)"}
+{"word":"Regulation (EU) 2019\/2088 of the European Parliament and of the Council of 27 November 2019 on sustainability\u2010related disclosures in the financial services sector","color":"rgb(17,233,112)"}
+{"word":"SFDR","color":"rgb(209,252,10)"}
+{"word":"Sustainable Finance Disclosure Regulation","color":"rgb(84,40,252)"}
+{"word":"2014\/533\/EU","color":"rgb(102,213,89)"}
+{"word":"2014\/533\/EU: Decision of the European Central Bank of 13 August 2014 on the identification of TARGET2 as a systemically important payment system pursuant to Regulation (EU) No 795\/2014 on oversight requirements for systemically important payment systems (ECB\/2014\/35)","color":"rgb(44,27,223)"}
+{"word":"ECB\/2014\/35","color":"rgb(209,21,37)"}
+{"word":"TLTRO II","color":"rgb(105,53,162)"}
+{"word":"TLTRO III","color":"rgb(239,36,246)"}
+{"word":"ESG","color":"rgb(181,16,113)"}
+{"word":"Taxonomy Regulation","color":"rgb(210,219,200)"}
+{"word":"Directive 2004\/109\/EC","color":"rgb(229,112,203)"}
+{"word":"TD","color":"rgb(238,175,180)"}
+{"word":"Transparency Directive","color":"rgb(155,215,183)"}
+{"word":"Transparency Regulation","color":"rgb(250,39,246)"}
+{"word":"TEU","color":"rgb(230,147,26)"}
+{"word":"TFEU","color":"rgb(180,119,139)"}
+{"word":"Treaty of Rome","color":"rgb(15,82,210)"}
+{"word":"UCITS","color":"rgb(7,117,164)"}
+{"word":"Undertakings for Collective Investment In Transferable Securities","color":"rgb(207,182,101)"}
+{"word":"Directive 2001\/24\/EC","color":"rgb(233,28,217)"}
+{"word":"Directive 2001\/24\/EC of the European Parliament and of the Council of 4 April 2001 on the reorganisation and winding up of credit institutions","color":"rgb(206,37,87)"}
+{"word":"Winding Up Directive","color":"rgb(1,203,39)"}
+{"word":"Regulation (EU) 2015\/847","color":"rgb(210,183,208)"}
+{"word":"Regulation (EU) 2015\/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781\/2006","color":"rgb(194,205,176)"}
+{"word":"WTR","color":"rgb(215,211,65)"}
+{"word":"AMLO","color":"rgb(190,70,188)"}
+{"word":"Anti-Money Laundering and Counter-Terrorist Financing (Financial Institutions) Ordinance","color":"rgb(102,165,160)"}
+{"word":"Cap. 628B","color":"rgb(183,137,197)"}
+{"word":"LAC Rules","color":"rgb(78,111,208)"}
+{"word":"BLAR","color":"rgb(90,42,17)"}
+{"word":"Banking Liquidity Amendment Rules","color":"rgb(173,239,36)"}
+{"word":"Banking Liquidity Amendment Rules 2019","color":"rgb(139,208,136)"}
+{"word":"BO","color":"rgb(167,127,129)"}
+{"word":"SFO","color":"rgb(233,238,243)"}
+{"word":"2000 Definitions","color":"rgb(189,230,40)"}
+{"word":"2006 Definitions","color":"rgb(197,143,183)"}
+{"word":"BCBS \/ IOSCO Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(245,127,70)"}
+{"word":"BCBS\/IOSCO Framework for Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(93,208,51)"}
+{"word":"Framework for Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(160,94,88)"}
+{"word":"The Basel Committee on Banking Supervision Board of the International Organization of Securities Commissions Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(173,208,90)"}
+{"word":"BCBS 239","color":"rgb(122,129,201)"}
+{"word":"Principles for effective risk data aggregation and risk reporting","color":"rgb(102,246,36)"}
+{"word":"CRS","color":"rgb(168,63,78)"}
+{"word":"FATF International Standards on Combating Money Laundering and the financing of Terrorism & Proliferation","color":"rgb(71,197,81)"}
+{"word":"G20 2019 Fukoka","color":"rgb(0,183,88)"}
+{"word":"G20 Communique June 2019","color":"rgb(42,139,98)"}
+{"word":"G20 Communique September 2009","color":"rgb(184,159,150)"}
+{"word":"IBOR Transition","color":"rgb(6,64,66)"}
+{"word":"Transition from IBOR","color":"rgb(41,189,180)"}
+{"word":"Transition from LIBOR","color":"rgb(53,100,169)"}
+{"word":"IFRS","color":"rgb(108,210,137)"}
+{"word":"Objectives and Principles of Securities","color":"rgb(155,174,155)"}
+{"word":"Principles   for   Financial Benchmarks","color":"rgb(155,27,77)"}
+{"word":"IOSCO Principles on Client Identification and Beneficial Ownership for the Securities Industry","color":"rgb(158,41,129)"}
+{"word":"Principles on Client Identification and Beneficial Ownership for the Securities","color":"rgb(6,244,81)"}
+{"word":"Financial Crime Compliance Principles for Securities Custody and Settlement","color":"rgb(186,171,240)"}
+{"word":"Financial Crime Compliance Principles forSecurities Custody and Settlement","color":"rgb(189,148,77)"}
+{"word":"PFMI","color":"rgb(71,126,215)"}
+{"word":"EMR","color":"rgb(19,81,27)"}
+{"word":"EMR 2011","color":"rgb(29,255,103)"}
+{"word":"EMRs","color":"rgb(25,80,167)"}
+{"word":"Use and Protection of Credit Information Act","color":"rgb(170,189,178)"}
+{"word":"Wijzigingswet financi\u00eble markten 2019","color":"rgb(109,122,196)"}
+{"word":"WFT","color":"rgb(199,6,104)"}
+{"word":"Wet op het financieel toezicht","color":"rgb(9,147,209)"}
+{"word":"WWFT","color":"rgb(227,77,51)"}
+{"word":"The AML\/CFT Amendment Act 2017","color":"rgb(92,176,148)"}
+{"word":"MORB","color":"rgb(102,193,225)"}
+{"word":"MORNBFI","color":"rgb(217,232,165)"}
+{"word":"MAS Act","color":"rgb(8,33,37)"}
+{"word":"G.N. No. S 235\/2013","color":"rgb(120,87,31)"}
+{"word":"Monetary Authority of Singapore (Control and Resolution of Financial Institutions) Regulations 2013","color":"rgb(106,212,28)"}
+{"word":"SFA","color":"rgb(28,240,163)"}
+{"word":"AMLA","color":"rgb(117,145,218)"}
+{"word":"CAO","color":"rgb(253,73,140)"}
+{"word":"FMIA","color":"rgb(223,91,235)"}
+{"word":"Finanzmarktinfrastrukturgesetz","color":"rgb(230,3,186)"}
+{"word":"FinfraG","color":"rgb(26,27,28)"}
+{"word":"AMLO-FINMA","color":"rgb(17,13,171)"}
+{"word":"FINMA Regulation","color":"rgb(151,213,14)"}
+{"word":"Anti-Terrorism Crime and Security Act","color":"rgb(196,123,196)"}
+{"word":"Bank of England and Financial Services Act","color":"rgb(43,43,55)"}
+{"word":"Banking Act","color":"rgb(141,24,110)"}
+{"word":"Financial Services  Act 2013","color":"rgb(20,175,208)"}
+{"word":"Financial Services (Banking Reform) Act 2013","color":"rgb(126,247,50)"}
+{"word":"Companies Act","color":"rgb(254,211,192)"}
+{"word":"Corporate Insolvency and Governance Act","color":"rgb(170,71,249)"}
+{"word":"Counter Terrorism Act","color":"rgb(38,42,205)"}
+{"word":"Crime and Courts Act","color":"rgb(42,233,51)"}
+{"word":"Criminal Finances Act","color":"rgb(195,167,105)"}
+{"word":"Data Reporting Services Regulations","color":"rgb(88,90,99)"}
+{"word":"EEA Passport Rights","color":"rgb(220,193,255)"}
+{"word":"E-Money Regulations","color":"rgb(21,89,180)"}
+{"word":"Enterprise Act","color":"rgb(3,120,185)"}
+{"word":"Enterprise and Regulatory Reform Act","color":"rgb(215,99,196)"}
+{"word":"EU Withdrawal Act","color":"rgb(130,213,199)"}
+{"word":"European Union (Withdrawal) Act 2018","color":"rgb(162,20,232)"}
+{"word":"European Union Act","color":"rgb(233,156,198)"}
+{"word":"European Union Withdrawal Act","color":"rgb(191,25,237)"}
+{"word":"Withdrawal Act","color":"rgb(190,179,86)"}
+{"word":"FA 2006","color":"rgb(89,54,99)"}
+{"word":"Finance Act","color":"rgb(34,133,215)"}
+{"word":"FA 2008","color":"rgb(238,68,94)"}
+{"word":"FA 2011","color":"rgb(0,84,139)"}
+{"word":"FA 2018","color":"rgb(9,54,94)"}
+{"word":"Financial Guidance and Claims Act","color":"rgb(244,139,118)"}
+{"word":"FI SAR","color":"rgb(68,130,3)"}
+{"word":"Financial Regulators Powers","color":"rgb(237,152,156)"}
+{"word":"Financial Services Act","color":"rgb(129,12,187)"}
+{"word":"FSMA","color":"rgb(251,197,74)"}
+{"word":"Financial Services and Markets Act","color":"rgb(178,90,165)"}
+{"word":"FSCS","color":"rgb(19,141,224)"}
+{"word":"FOIA","color":"rgb(223,133,3)"}
+{"word":"Freedom of Information Act","color":"rgb(48,68,93)"}
+{"word":"Freedom of Information Act 2000","color":"rgb(96,22,48)"}
+{"word":"Funds Transfer Regulation","color":"rgb(83,181,242)"}
+{"word":"Human Trafficking and Exploitation Act","color":"rgb(154,105,112)"}
+{"word":"Immigration Act","color":"rgb(157,113,65)"}
+{"word":"Insolvency Act","color":"rgb(151,186,159)"}
+{"word":"ISM","color":"rgb(122,21,35)"}
+{"word":"ISM Rulebook","color":"rgb(21,234,226)"}
+{"word":"International Securities Market Rulebook","color":"rgb(13,86,15)"}
+{"word":"International Tax Compliance Regulation","color":"rgb(173,34,250)"}
+{"word":"Money Laundering and Terrorist Financing Regulation","color":"rgb(239,158,112)"}
+{"word":"Money Laundering Regulation","color":"rgb(224,209,72)"}
+{"word":"NIS Regulation","color":"rgb(66,69,243)"}
+{"word":"NIS Regulation 2018","color":"rgb(34,177,24)"}
+{"word":"Network and Information Systems Regulation","color":"rgb(114,206,15)"}
+{"word":"OCIR","color":"rgb(33,218,142)"}
+{"word":"Operational Continuity in Resolution","color":"rgb(121,202,80)"}
+{"word":"PSR","color":"rgb(56,146,82)"}
+{"word":"Payment Services Regulations","color":"rgb(220,225,29)"}
+{"word":"Policing and Crime Act","color":"rgb(195,194,57)"}
+{"word":"POCA","color":"rgb(230,226,0)"}
+{"word":"Proceeds of Crime Act","color":"rgb(124,217,69)"}
+{"word":"PRA Rulebook","color":"rgb(199,185,114)"}
+{"word":"RAO","color":"rgb(229,217,199)"}
+{"word":"Regulated Activities Order","color":"rgb(127,98,39)"}
+{"word":"RAF","color":"rgb(19,113,69)"}
+{"word":"Resolvability Assessment Framework","color":"rgb(211,228,88)"}
+{"word":"Sanctions and Anti-Money Laundering Act","color":"rgb(180,145,222)"}
+{"word":"Scottish National Investment Bank Act","color":"rgb(187,81,76)"}
+{"word":"Securitisation Regulation","color":"rgb(65,164,46)"}
+{"word":"SM&CR","color":"rgb(158,221,185)"}
+{"word":"SMCR","color":"rgb(53,251,217)"}
+{"word":"Serious Crime Act","color":"rgb(48,179,163)"}
+{"word":"Small and Medium Sized Business Regulation","color":"rgb(6,45,15)"}
+{"word":"SONIA","color":"rgb(179,249,117)"}
+{"word":"Sterling Overnight Index Average","color":"rgb(216,17,208)"}
+{"word":"Terrorism Act","color":"rgb(61,149,106)"}
+{"word":"Temporary Provisions Act","color":"rgb(173,247,105)"}
+{"word":"Terrorist Asset-Freezing (Temporary Provisions) Act","color":"rgb(76,113,159)"}
+{"word":"Terrorist Asset-Freezing (Temporary Provisions) Act 2010","color":"rgb(187,68,57)"}
+{"word":"Terrorist Asset-Freezing Act 2010","color":"rgb(229,216,29)"}
+{"word":"Data Protection Regulation","color":"rgb(94,152,140)"}
+{"word":"Electronic Money Payment Services and Payment Systems Regulation","color":"rgb(43,83,93)"}
+{"word":"MLR","color":"rgb(236,209,54)"}
+{"word":"MLR 2017","color":"rgb(28,114,26)"}
+{"word":"MLRs","color":"rgb(131,204,197)"}
+{"word":"Money Laundering Terrorist Financing and Transfer of Funds Regulation","color":"rgb(6,133,62)"}
+{"word":"UMR","color":"rgb(44,255,124)"}
+{"word":"Uncleared Margin Rules","color":"rgb(74,36,157)"}
+{"word":"UK Financial Sanctions","color":"rgb(73,35,170)"}
+{"word":"UK Financial Sanctions List","color":"rgb(235,30,152)"}
+{"word":"BHCA","color":"rgb(163,7,101)"}
+{"word":"BSA","color":"rgb(222,51,122)"}
+{"word":"Bank Secrecy Act of 1970","color":"rgb(188,56,239)"}
+{"word":"CFR","color":"rgb(124,234,72)"}
+{"word":"CEA","color":"rgb(11,71,245)"}
+{"word":"CAT","color":"rgb(138,21,113)"}
+{"word":"Consolidated Audit Trail","color":"rgb(252,3,216)"}
+{"word":"Consolidated Audit Trail - CAT (SEC rule 613)","color":"rgb(39,106,133)"}
+{"word":"SEC Rule 613","color":"rgb(193,69,55)"}
+{"word":"CLA","color":"rgb(10,200,177)"}
+{"word":"H.R.4458","color":"rgb(115,140,255)"}
+{"word":"H.R.4458 \u2014 116th Congress (2019-2020)","color":"rgb(145,254,196)"}
+{"word":"EGRPRA","color":"rgb(212,206,174)"}
+{"word":"EGRRCPA","color":"rgb(151,207,182)"}
+{"word":"FDIA","color":"rgb(237,20,20)"}
+{"word":"FINRA Rule","color":"rgb(19,127,96)"}
+{"word":"FATCA","color":"rgb(223,51,209)"}
+{"word":"IAA","color":"rgb(237,41,70)"}
+{"word":"ICA","color":"rgb(200,102,226)"}
+{"word":"1933 Act","color":"rgb(245,17,155)"}
+{"word":"Federal Securities Act","color":"rgb(239,126,11)"}
+{"word":"Truth in Securities","color":"rgb(84,214,167)"}
+{"word":"1934 Act","color":"rgb(201,43,149)"}
+{"word":"34 Act","color":"rgb(98,47,83)"}
+{"word":"Exchange Act","color":"rgb(30,84,186)"}
+{"word":"SEA","color":"rgb(254,176,226)"}
+{"word":"SEA of 1934","color":"rgb(70,215,37)"}
+{"word":"Dodd\u2013Frank","color":"rgb(138,57,87)"}
+{"word":"Dodd\u2013Frank Act","color":"rgb(209,176,98)"}
+{"word":"TILA","color":"rgb(207,38,128)"}
+{"word":"US Financial Sanctions","color":"rgb(196,203,74)"}
+{"word":"Anti-Money Laundering and Counter-Terrorism Financing Act 2006","color":"rgb(208,69,175)"}
+{"word":"ASIC Derivative Transaction Rules (Reporting) 2013","color":"rgb(7,160,131)"}
+{"word":"Australian Securities and Investments Commission Act 2001","color":"rgb(14,123,236)"}
+{"word":"Banking Act 1959","color":"rgb(39,217,225)"}
+{"word":"Corporations Act 2001","color":"rgb(149,158,35)"}
+{"word":"National Consumer Credit Protection Act 2009","color":"rgb(118,0,164)"}
+{"word":"Privacy Act 1998","color":"rgb(209,223,114)"}
+{"word":"Reserve Bank Act of 1959","color":"rgb(186,105,103)"}
+{"word":"Financial Markets Money Laundering Act \u2013 Finanzmarkt-Geldw\u00e4schegesetz","color":"rgb(242,73,244)"}
+{"word":"Kapitalmarktgesetz 2019","color":"rgb(14,242,139)"}
+{"word":"2018 Action Plan on Financing Sustainable Growth","color":"rgb(191,30,2)"}
+{"word":"Accounting Directive","color":"rgb(0,180,45)"}
+{"word":"Administrative Cooperation in the Field of Taxation","color":"rgb(101,183,237)"}
+{"word":"Alternative Investment Fund Managers Directive (AIFMD)","color":"rgb(8,211,247)"}
+{"word":"Anti-Money Laundering Directive IV (AMLD IV)","color":"rgb(87,72,128)"}
+{"word":"Anti-Money Laundering Directive V (AMLD V)","color":"rgb(104,45,6)"}
+{"word":"As yet unproposed Anti-money laundering legislative package","color":"rgb(11,50,135)"}
+{"word":"As yet unproposed Digital Tax\/ Levy","color":"rgb(52,193,138)"}
+{"word":"As yet unproposed Sustainable Corporate Governance Legislation","color":"rgb(39,153,73)"}
+{"word":"Bank Recovery and Resolution Directive (BRRD)","color":"rgb(86,152,83)"}
+{"word":"Bank Recovery and Resolution Directive 2 (BRRD2)","color":"rgb(127,149,20)"}
+{"word":"Benchmark Regulation (BMR)","color":"rgb(177,203,103)"}
+{"word":"Capital Markets Union (CMU)","color":"rgb(134,9,151)"}
+{"word":"Capital Requirements Directive IV (CRD IV)","color":"rgb(155,41,36)"}
+{"word":"Capital Requirements Directive V (CRD V)","color":"rgb(21,247,145)"}
+{"word":"Capital Requirements Regulation (CRR)","color":"rgb(248,177,171)"}
+{"word":"Capital Requirements Regulation II (CRR II)","color":"rgb(56,213,109)"}
+{"word":"Central Counterparty Recovery and Resolution Regulation","color":"rgb(236,68,144)"}
+{"word":"Central Securities Depositories Regulation (CSDR)","color":"rgb(252,42,83)"}
+{"word":"Council Directive (2016\/2258)","color":"rgb(171,54,152)"}
+{"word":"Credit Rating Agency Regulation (CRAR)","color":"rgb(5,0,164)"}
+{"word":"Cross-border Distribution Directive (CBDD)","color":"rgb(38,110,91)"}
+{"word":"Cross-border Distribution Regulation (CBDR)","color":"rgb(18,63,57)"}
+{"word":"Cross-Border Payment Regulation (CBPR)","color":"rgb(120,27,148)"}
+{"word":"Cybersecurity Act 2018","color":"rgb(159,30,192)"}
+{"word":"Data Act 2021","color":"rgb(31,33,228)"}
+{"word":"Deposit Guarantee Schemes Directive (DGSD)","color":"rgb(241,90,3)"}
+{"word":"Digital Operational Resilience Act (DORA)","color":"rgb(147,179,218)"}
+{"word":"Distance Marketing Directive","color":"rgb(169,230,200)"}
+{"word":"E-money Directive","color":"rgb(209,90,132)"}
+{"word":"E-Money Directive 2","color":"rgb(94,196,50)"}
+{"word":"EBA Regulation","color":"rgb(163,50,186)"}
+{"word":"EBA\/ESMA Guidelines for complaints handling for the securities and banking sectors","color":"rgb(161,82,90)"}
+{"word":"EEA Agreement","color":"rgb(119,46,105)"}
+{"word":"EIOPA Regulation","color":"rgb(206,48,65)"}
+{"word":"Electronic Identification and Trust Services Regulation (eIDAS Regulation)","color":"rgb(34,211,107)"}
+{"word":"Environmental and Energy State Aid Guidelines (EEAG)","color":"rgb(99,2,224)"}
+{"word":"ePrivacy Directive","color":"rgb(161,99,208)"}
+{"word":"ePrivacy Regulation","color":"rgb(198,3,2)"}
+{"word":"ESA Regulation","color":"rgb(126,35,201)"}
+{"word":"EU Audit Regulations","color":"rgb(109,149,40)"}
+{"word":"EU Bank Creditor Hierarchy Directive","color":"rgb(74,237,94)"}
+{"word":"EU Benchmark Regulation","color":"rgb(102,82,143)"}
+{"word":"EU Cyber Sanctions","color":"rgb(209,176,153)"}
+{"word":"EU Emissions Trading System (EU ETS)","color":"rgb(218,243,16)"}
+{"word":"EU Green Bond Standard (EU GBS)","color":"rgb(126,250,21)"}
+{"word":"EU Sanctions List","color":"rgb(251,26,56)"}
+{"word":"European Bank for Reconstruction and Development Act (EBRD)","color":"rgb(230,226,139)"}
+{"word":"European Climate Law","color":"rgb(190,30,215)"}
+{"word":"European Long-Term Investment Fund Regulation (ELTIF)","color":"rgb(215,207,177)"}
+{"word":"European Market Infrastructure Regulation (EMIR)","color":"rgb(48,121,191)"}
+{"word":"European Securities and Markets Authority Regulation (ESMA Regulation)","color":"rgb(162,119,53)"}
+{"word":"European Social Entrepreneurship Fund (EuSEF)","color":"rgb(38,49,93)"}
+{"word":"European Systemic Risk Board Regulation (ESRBR)","color":"rgb(173,191,160)"}
+{"word":"European Union Agency for Network and Information Security (ENISA)","color":"rgb(247,248,94)"}
+{"word":"European Union Financial Sanctions","color":"rgb(145,151,178)"}
+{"word":"European Venture Capital Fund Regulation (EuVECA)","color":"rgb(130,124,59)"}
+{"word":"Financial Collateral Directive","color":"rgb(51,65,164)"}
+{"word":"Financial Conglomerates Directive (FICOD)","color":"rgb(153,79,40)"}
+{"word":"Funds Transfer Directive","color":"rgb(152,97,196)"}
+{"word":"General Data Protection Regulation (GDPR)","color":"rgb(198,126,92)"}
+{"word":"Insurance Distribution Directive (IDD)","color":"rgb(93,37,159)"}
+{"word":"Interchange Fee Regulation","color":"rgb(217,78,177)"}
+{"word":"Law Enforcement Directive","color":"rgb(9,255,149)"}
+{"word":"Malta Financial Services Authority Act","color":"rgb(230,7,218)"}
+{"word":"Market Abuse","color":"rgb(172,171,127)"}
+{"word":"Markets in Crypto-assets (MICA)","color":"rgb(72,143,45)"}
+{"word":"Markets in Financial Instruments Directive (MiFID)","color":"rgb(119,111,16)"}
+{"word":"Money Laundering Directive 2005","color":"rgb(243,52,225)"}
+{"word":"Money Market Fund Regulation (MMFR)","color":"rgb(243,121,76)"}
+{"word":"Mortgage Credit Directive (MCD)","color":"rgb(46,159,61)"}
+{"word":"Network and Information Security Directive (NISD)","color":"rgb(223,144,150)"}
+{"word":"Non-Financial Reporting Directive (NFRD)","color":"rgb(20,191,232)"}
+{"word":"Occupational Pensions Fund Directive","color":"rgb(126,166,215)"}
+{"word":"Oversight Requirements for Systemically Important Payment Systems","color":"rgb(216,148,23)"}
+{"word":"Packaged Retail and Insurance-based Investment Products (PRIIPs)","color":"rgb(112,24,20)"}
+{"word":"Packaged Retail Investment and Insurance-Based Investment Products (PRIIPs)","color":"rgb(32,212,69)"}
+{"word":"Payment Services Directive (PSD)","color":"rgb(12,27,43)"}
+{"word":"Payment Services Directive 2 (PSD2)","color":"rgb(47,51,88)"}
+{"word":"Proposed  Pilot regime for market infrastructures based on distributed ledger technology","color":"rgb(131,35,238)"}
+{"word":"Proposed Directive on credit servicers credit purchasers and the recovery of collateral","color":"rgb(200,155,49)"}
+{"word":"Prospectus Regulation (PR)","color":"rgb(181,151,4)"}
+{"word":"Regulation (EU) No 833\/2014 of 31 July 2014 concerning restrictive measures in view of Russia's actions destabilising the situation in Ukraine","color":"rgb(237,79,255)"}
+{"word":"Regulation of the ECB on the Collection of Granular Credit and Credit Risk Data","color":"rgb(191,91,29)"}
+{"word":"Regulation on Privacy and Electronic Communications","color":"rgb(100,103,9)"}
+{"word":"Regulation on Wholesale Energy Market Integrity and Transparency (REMIT)","color":"rgb(237,56,187)"}
+{"word":"Reporting of Supervisory financial information","color":"rgb(146,20,134)"}
+{"word":"Risk Finance Guidelines","color":"rgb(116,89,73)"}
+{"word":"Securities Financing Transactions Regulation (SFTR)","color":"rgb(146,139,191)"}
+{"word":"Settlement Finality Directive (SFD)","color":"rgb(241,245,98)"}
+{"word":"Shareholder Rights Directive (SRD)","color":"rgb(148,151,225)"}
+{"word":"Shareholder Rights Directive II (SRD II)","color":"rgb(83,150,167)"}
+{"word":"Shareholder's Rights Directive","color":"rgb(102,115,114)"}
+{"word":"Short Selling Regulation (SSR)","color":"rgb(89,31,116)"}
+{"word":"Single Euro Payments Area (SEPA)","color":"rgb(128,66,152)"}
+{"word":"Single Resolution Mechanism Regulation (SRMR)","color":"rgb(199,223,196)"}
+{"word":"Single Resolution Mechanism Regulation 2 (SRMR2)","color":"rgb(153,112,100)"}
+{"word":"Single Supervisory Mechanism (SSM)","color":"rgb(237,169,232)"}
+{"word":"Solvency II Directive","color":"rgb(100,71,29)"}
+{"word":"Supervisory Fee Regulation","color":"rgb(199,208,99)"}
+{"word":"Supervisory Reporting of Institutions","color":"rgb(248,151,202)"}
+{"word":"Supervisory Review and Evaluation Process (SREP)","color":"rgb(12,125,139)"}
+{"word":"Sustainable Finance Disclosure Regulation (SFDR)","color":"rgb(76,105,77)"}
+{"word":"Target2","color":"rgb(0,57,137)"}
+{"word":"Targeted longer-term refinancing operation II (TLTRO II)","color":"rgb(224,255,227)"}
+{"word":"Targeted longer-term refinancing operation III (TLTRO III)","color":"rgb(73,178,168)"}
+{"word":"Taxonomy Regulation (ESG)","color":"rgb(53,4,188)"}
+{"word":"Transparency Directive (TD)","color":"rgb(111,55,248)"}
+{"word":"Treaty on European Union (TEU)","color":"rgb(107,254,199)"}
+{"word":"Treaty on the Functioning of the European Union (TFEU)","color":"rgb(208,208,60)"}
+{"word":"Undertakings for Collective Investment in Transferable Securities (UCITS)","color":"rgb(33,34,90)"}
+{"word":"Whistleblowers Directive","color":"rgb(34,209,229)"}
+{"word":"Winding-up Directive","color":"rgb(27,182,109)"}
+{"word":"Wire Transfer Regulation","color":"rgb(110,96,196)"}
+{"word":"Anti-Money Laundering and Counter-Terrorist Financing Ordinance","color":"rgb(75,231,188)"}
+{"word":"Banking Capital Rules","color":"rgb(252,212,79)"}
+{"word":"Banking Liquidity (Amendment) Rules 2019","color":"rgb(188,71,183)"}
+{"word":"Banking Ordinance","color":"rgb(134,163,121)"}
+{"word":"Insurance Ordinance","color":"rgb(105,47,114)"}
+{"word":"Securities and Futures Ordinance","color":"rgb(41,86,179)"}
+{"word":"2000 ISDA Definitions","color":"rgb(151,201,129)"}
+{"word":"2006 ISDA Definitions","color":"rgb(138,139,49)"}
+{"word":"2014 ISDA Credit Derivatives Definitions","color":"rgb(141,44,111)"}
+{"word":"Base erosion and profit shifting (OECD\/G20 BEPS)","color":"rgb(22,55,61)"}
+{"word":"Basel Committee on Banking Supervision Standard 239 (BCBS 239)","color":"rgb(116,245,111)"}
+{"word":"Basel Committee on Banking Supervision Standard 240 (BCBS 240)","color":"rgb(130,54,142)"}
+{"word":"Basel II","color":"rgb(192,176,172)"}
+{"word":"Basel III","color":"rgb(162,191,106)"}
+{"word":"BCBS \/ IOSCO Framework for Margin Requirements for Non-Centrally Cleared Derivatives","color":"rgb(94,129,38)"}
+{"word":"BCBS Principles for effective risk data aggregation and risk reporting","color":"rgb(221,48,223)"}
+{"word":"Common Reporting Standards","color":"rgb(129,249,201)"}
+{"word":"Core Principles for Effective Banking Supervision (BCBS 230)","color":"rgb(6,90,144)"}
+{"word":"DGI-2 - G20 Data Gaps Initiative","color":"rgb(47,50,229)"}
+{"word":"FATF International Standards on Combating Money Laundering and the financing of Terrorism & Proliferation (2012)","color":"rgb(84,102,227)"}
+{"word":"FX Global Code","color":"rgb(88,70,44)"}
+{"word":"G20 Communique 2018 (Buenos Aires)","color":"rgb(67,98,126)"}
+{"word":"G20 Communique April 2009 (London)","color":"rgb(190,206,226)"}
+{"word":"G20 Communique June 2019 (Fukoka)","color":"rgb(194,38,138)"}
+{"word":"G20 Communique November 2010 (Seoul)","color":"rgb(210,150,198)"}
+{"word":"G20 Communique November 2014 (Brisbane)","color":"rgb(11,42,146)"}
+{"word":"G20 Communique September 2009 (Pittsburgh)","color":"rgb(5,156,199)"}
+{"word":"G20 Communique September 2016 (Hangzou Summit)","color":"rgb(0,141,26)"}
+{"word":"G20 Declaration July 2017 (Hamburg)","color":"rgb(66,158,29)"}
+{"word":"G20 Declaration November 2011 (Cannes)","color":"rgb(124,243,83)"}
+{"word":"G20 Finance Ministers and Central Bank Governors Meeting Communique March 2017","color":"rgb(98,29,126)"}
+{"word":"G7 fundamental elements of Cyber Security for the Financial Sector","color":"rgb(135,57,208)"}
+{"word":"Harmonisation of Key OTC derivatives data elements","color":"rgb(85,25,2)"}
+{"word":"Interbank Offered Rate Transition","color":"rgb(32,180,142)"}
+{"word":"Interest Rate Risk  in the Banking Book (IRRBB)","color":"rgb(159,77,209)"}
+{"word":"International Banking Act 1978","color":"rgb(192,150,97)"}
+{"word":"International Financial Reporting Standards","color":"rgb(106,131,64)"}
+{"word":"International Standards on Combating Money Laundering and the Financing of Terrorism and Proliferation (2012)","color":"rgb(133,109,31)"}
+{"word":"IOSCO Objectives and Principles of Securities Market Regulation","color":"rgb(244,203,237)"}
+{"word":"IOSCO Principles for Financial Benchmarks","color":"rgb(152,108,21)"}
+{"word":"IOSCO Principles of Auditor Indepedence and the Role of Coporate Governance in Monitering an Auditor's Independence","color":"rgb(48,47,98)"}
+{"word":"IOSCO Principles on Client Identification and Beneficial Ownership for the Securities Industry of 2004","color":"rgb(253,18,32)"}
+{"word":"ISSA Financial Crime Compliance Principles for Securities Custody and Settlement","color":"rgb(68,76,105)"}
+{"word":"Key Attributes of Effective Resolution Regimes for Financial Institutions","color":"rgb(148,56,83)"}
+{"word":"OECD DAC Blended Finance Principles","color":"rgb(104,183,68)"}
+{"word":"Principles and Standards on Sound Compensation Practices","color":"rgb(120,129,122)"}
+{"word":"Principles for Financial Market Infrastructures","color":"rgb(213,231,171)"}
+{"word":"Principles for Responsible Banking","color":"rgb(50,85,52)"}
+{"word":"Principles for Responsible Investment (PRI)","color":"rgb(130,139,233)"}
+{"word":"Principles for Sound Liquid Risk Management and Supervision","color":"rgb(207,82,91)"}
+{"word":"Principles for the Regulation and Supervision of Commodity Derivatives Market","color":"rgb(132,19,77)"}
+{"word":"Principles of Corporate Governance","color":"rgb(123,40,114)"}
+{"word":"Project Helvetia","color":"rgb(176,46,245)"}
+{"word":"Standard on Automatic Exchange of Information (OECD\/G20 AEOI)","color":"rgb(82,232,157)"}
+{"word":"Ten Principles of the UN Global Compact","color":"rgb(225,117,12)"}
+{"word":"UN Sustainable Development Goals (SDGs)","color":"rgb(0,147,1)"}
+{"word":"United Nations Sanctions","color":"rgb(42,8,254)"}
+{"word":"Voluntary Principles for Debt Transparency","color":"rgb(185,156,106)"}
+{"word":"Wolfsberg Group of International Financial Institutions Guidance on Politically Exposed Persons (PEPs) 2017","color":"rgb(4,224,155)"}
+{"word":"Wolfsberg Group of International Financial Institutions Guidance on the Risk Based Approach (RBA) to Managing Money Laundering Risks 2006","color":"rgb(249,107,196)"}
+{"word":"Electronic Money Regulations 2011","color":"rgb(10,218,237)"}
+{"word":"Credit Information Use and Protection Act","color":"rgb(168,170,44)"}
+{"word":"Electronic Financial Transactions Act","color":"rgb(99,48,244)"}
+{"word":"Special Act on Financial Innovation Support","color":"rgb(60,151,4)"}
+{"word":"Financial Markets Amendment Act 2019","color":"rgb(95,58,5)"}
+{"word":"Financial Supervision Act","color":"rgb(215,244,251)"}
+{"word":"Law for the Prevention of Money Laundering and Terrorist Financing","color":"rgb(34,33,198)"}
+{"word":"Anti-Money Laundering and Counter-Terrorism Financing Amendment Act 2017","color":"rgb(250,187,194)"}
+{"word":"Manual of Regulations for Banks","color":"rgb(65,237,225)"}
+{"word":"Manual of Regulations for Non-Bank Financial Institutions","color":"rgb(77,106,62)"}
+{"word":"Monetary Authority of Singapore Act (MAS Act)","color":"rgb(182,244,43)"}
+{"word":"Monetary Authority of Singapore Control and Resolution of Financial Institutions Regulations 2013","color":"rgb(65,107,21)"}
+{"word":"Securities and Futures Act (SFA)","color":"rgb(49,252,29)"}
+{"word":"Technology Risk Management Guidelines (TRM Guidelines)","color":"rgb(194,61,159)"}
+{"word":"Anti-Money Laundering Act","color":"rgb(134,157,254)"}
+{"word":"Capital Adequacy Ordinance","color":"rgb(217,194,201)"}
+{"word":"Financial Market Infrastructure Act","color":"rgb(149,121,42)"}
+{"word":"FINMA Anti-Money Laundering Ordinance","color":"rgb(98,48,68)"}
+{"word":"Swiss Financial Market Supervisory Authority Regulation","color":"rgb(26,48,75)"}
+{"word":"Anti-Terrorism Crime and Security Act 2001","color":"rgb(171,98,141)"}
+{"word":"Bank of England and Financial Services Act 2016","color":"rgb(169,201,204)"}
+{"word":"Banking Act 2009","color":"rgb(159,186,194)"}
+{"word":"Banking Act 2009 (Fees) Regulations 2018","color":"rgb(237,53,250)"}
+{"word":"Banking Reform Act","color":"rgb(97,236,168)"}
+{"word":"Breathing Space","color":"rgb(173,210,39)"}
+{"word":"Companies Act 2006","color":"rgb(92,39,16)"}
+{"word":"Corporate Insolvency and Governance Act 2020","color":"rgb(9,228,89)"}
+{"word":"Counter Terrorism Act 2008","color":"rgb(142,7,216)"}
+{"word":"Crime and Courts Act 2013","color":"rgb(10,181,23)"}
+{"word":"Criminal Finances Act 2017","color":"rgb(164,85,113)"}
+{"word":"Data Protection Act","color":"rgb(159,17,177)"}
+{"word":"Data Reporting Services Regulations 2017","color":"rgb(198,151,230)"}
+{"word":"EEA Passport Rights (Amendment et. and Transitional Provisions) (EU Exit) Regulations 2018","color":"rgb(241,50,2)"}
+{"word":"Electronic Money Regulations","color":"rgb(179,64,186)"}
+{"word":"Enterprise Act 2002","color":"rgb(161,14,213)"}
+{"word":"Enterprise and Regulatory Reform Act 2013","color":"rgb(83,185,180)"}
+{"word":"European Union Act 2018","color":"rgb(59,23,250)"}
+{"word":"FCA Handbook","color":"rgb(220,76,169)"}
+{"word":"Finance Act 2006","color":"rgb(155,38,243)"}
+{"word":"Finance Act 2008","color":"rgb(53,136,97)"}
+{"word":"Finance Act 2011","color":"rgb(113,174,39)"}
+{"word":"Finance Act 2018","color":"rgb(26,149,131)"}
+{"word":"Financial Guidance and Claims Act 2018","color":"rgb(143,47,146)"}
+{"word":"Financial Market Infrastructure Special Administration Regime","color":"rgb(60,60,142)"}
+{"word":"Financial Regulators Powers (Technical Standards) (Amendment etc.) (EU Exit) Regulations 2018","color":"rgb(95,183,21)"}
+{"word":"Financial Services Act 2012","color":"rgb(223,168,154)"}
+{"word":"Financial Services and Markets Act 2000","color":"rgb(95,150,129)"}
+{"word":"Financial Services Compensation Scheme","color":"rgb(210,33,68)"}
+{"word":"Freedom of Information Act UK","color":"rgb(62,130,182)"}
+{"word":"Funds Transfer Regulation (FTR)","color":"rgb(200,223,3)"}
+{"word":"Human Trafficking and Exploitation (Scotland) Act 2015","color":"rgb(127,233,114)"}
+{"word":"Immigration Act 2014","color":"rgb(218,132,109)"}
+{"word":"Immigration Act 2016","color":"rgb(85,167,144)"}
+{"word":"Insolvency Act 1986 (UK)","color":"rgb(222,196,134)"}
+{"word":"International Securities Market Rulebook (ISM)","color":"rgb(183,198,196)"}
+{"word":"International Tax Compliance Regulations 2015","color":"rgb(107,76,11)"}
+{"word":"International Tax Compliance Regulations 2016","color":"rgb(152,250,35)"}
+{"word":"International Tax Compliance Regulations 2017","color":"rgb(164,104,121)"}
+{"word":"Money Laundering and Terrorist Financing (Amendment) (EU Exit) Regulations 2020 - (United Kingdom)","color":"rgb(231,225,234)"}
+{"word":"Money Laundering and Terrorist Financing (Amendment) Regulations 2019","color":"rgb(202,12,96)"}
+{"word":"Money Laundering Regulation 2007","color":"rgb(41,94,64)"}
+{"word":"Network and Information Systems Regulations 2018","color":"rgb(66,236,47)"}
+{"word":"Operational Continuity in Resolution (OCIR)","color":"rgb(129,207,64)"}
+{"word":"Payment Accounts Directive","color":"rgb(245,42,149)"}
+{"word":"Payment Services Regulations 2017","color":"rgb(125,249,198)"}
+{"word":"Policing and Crime Act 2017","color":"rgb(1,210,220)"}
+{"word":"Proceeds of Crime Act 2002 (POCA)","color":"rgb(237,52,173)"}
+{"word":"Prudential Regulation Authority Rulebook","color":"rgb(224,239,13)"}
+{"word":"Regulated Activities Order (RAO)","color":"rgb(165,68,128)"}
+{"word":"Resolvability Assessment Framework (RAF)","color":"rgb(190,22,22)"}
+{"word":"Retirement Outcomes Review","color":"rgb(191,198,60)"}
+{"word":"Sanctions and Anti-Money Laundering Act 2018","color":"rgb(253,64,47)"}
+{"word":"Scottish National Investment Bank Act 2020","color":"rgb(101,94,129)"}
+{"word":"Securitisation (Amendment) (EU Exit) Regulations 2019","color":"rgb(120,67,19)"}
+{"word":"Senior Managers and Certification Regime","color":"rgb(97,85,46)"}
+{"word":"Serious Crime Act 2015","color":"rgb(142,17,8)"}
+{"word":"Small and Medium Sized Business (Credit Information) Regulations 2015","color":"rgb(233,75,31)"}
+{"word":"Sterling Overnight Index Average (SONIA)","color":"rgb(200,238,189)"}
+{"word":"Terrorist Asset-Freezing Act of 2010","color":"rgb(241,140,57)"}
+{"word":"The Data Protection (Charges and Information) Regulations 2018","color":"rgb(155,93,207)"}
+{"word":"The Electronic Money Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018","color":"rgb(57,68,203)"}
+{"word":"The Money Laundering Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017","color":"rgb(63,229,3)"}
+{"word":"Uncleared Margin Rules (UMR)","color":"rgb(43,107,186)"}
+{"word":"United Kingdom Financial Sanctions List","color":"rgb(242,135,22)"}
+{"word":"Anti-Money Laundering Act of 2020 (AMLA)","color":"rgb(172,102,219)"}
+{"word":"Asset Management Advisory Committee (AMAC)","color":"rgb(209,172,167)"}
+{"word":"Bank Holding Company Act","color":"rgb(131,1,122)"}
+{"word":"Bank Secrecy Act","color":"rgb(180,18,232)"}
+{"word":"Code of Federal Regulations","color":"rgb(15,123,143)"}
+{"word":"Commodity Exchange Act","color":"rgb(217,54,253)"}
+{"word":"Community Reinvestment Act","color":"rgb(208,151,92)"}
+{"word":"Consolidated Audit Trail Rule 613","color":"rgb(107,95,38)"}
+{"word":"Consumer Leasing Act","color":"rgb(37,43,174)"}
+{"word":"Cybersecurity and Financial System Resilience Act of 2019","color":"rgb(31,7,161)"}
+{"word":"Economic Growth and Regulatory Paperwork Reduction Act of 1996","color":"rgb(34,145,252)"}
+{"word":"Economic Growth Regulatory Relief and Consumer Protection Act","color":"rgb(202,152,220)"}
+{"word":"Federal Deposit Insurance Act","color":"rgb(138,180,239)"}
+{"word":"Federal Reserve Act","color":"rgb(10,155,80)"}
+{"word":"FINRA Rulebook","color":"rgb(176,55,194)"}
+{"word":"Foreign Account Tax Compliance Act","color":"rgb(240,147,7)"}
+{"word":"Investment Advisors Act","color":"rgb(50,236,96)"}
+{"word":"Investment Company Act","color":"rgb(253,26,146)"}
+{"word":"Securities Act of 1933","color":"rgb(100,154,113)"}
+{"word":"Securities Exchange Act","color":"rgb(113,179,17)"}
+{"word":"Securities Investor Protection Act of 1970 (SIPA)","color":"rgb(125,173,149)"}
+{"word":"The Dodd-Frank Wall Street Reform and Consumer Protection Act","color":"rgb(55,204,95)"}
+{"word":"Truth in Lending Act","color":"rgb(116,163,177)"}
+{"word":"United States Financial Sanctions","color":"rgb(135,111,7)"}
+{"word":"FOREIGN INVESTMENT LAW OF THE PEOPLE'S REPUBLIC OF CHINA","color":"rgb(132,17,89)"}
+{"word":"CAPITAL MARKETS LAW NO. 6362","color":"rgb(127,20,149)"}
+{"word":"INTERNATIONAL ACCOUNTING STANDARDS","color":"rgb(110,132,17)"}
+{"word":"SECURITIES INVESTOR PROTECTION ACT OF 1970","color":"rgb(245,20,55)"}
+{"word":"FINANCIAL INVESTMENT SERVICE AND CAPITAL MARKET ACT","color":"rgb(142,197,84)"}
+{"word":"FINRA RULE","color":"rgb(60,253,32)"}
+{"word":"CONSUMER FINANCIAL PROTECTION ACT OF 2010","color":"rgb(150,103,160)"}
+{"word":"ELECTRONIC FUNDS TRANSFER ACT","color":"rgb(137,243,31)"}
+{"word":"6.385\/76","color":"rgb(143,11,249)"}
+{"word":"INVESTMENT FIRM DIRECTIVE","color":"rgb(44,120,173)"}
+{"word":"INVESTMENT FIRM REGULATION","color":"rgb(228,8,255)"}
+{"word":"IFD","color":"rgb(150,64,124)"}
+{"word":"IFR","color":"rgb(106,79,111)"}
+{"word":"MORTGAGE","color":"rgb(154,174,54)"}
+{"word":"MORTGAGES","color":"rgb(194,121,34)"}
+{"word":"SARBANES-OXLEY ACT","color":"rgb(20,57,110)"}
+{"word":"DIGITAL OPERATIONAL RESILIENCE ACT","color":"rgb(206,231,68)"}
+{"word":"ENTERPRISE AND REGULATORY REFORM","color":"rgb(93,251,71)"}
+{"word":"COMPETITION AND CONSUMER ACT 2010","color":"rgb(71,144,64)"}
+{"word":"ANTI-MONEY LAUNDERING AND COUNTER-TERRORISM FINANCING ACT","color":"rgb(152,31,134)"}
+{"word":"COMMUNITY REINVESTMENT ACT","color":"rgb(214,74,251)"}
+{"word":"MONETARY AUTHORITY OF SINGAPORE ACT","color":"rgb(164,1,220)"}
+{"word":"TRUST COMPANIES ACT","color":"rgb(222,119,97)"}
+{"word":"NATIONAL BANK ACT","color":"rgb(107,249,235)"}
+{"word":"CAPITAL MARKETS UNION","color":"rgb(186,12,82)"}
+{"word":"SECURITIES AND FUTURES ORDINANCE","color":"rgb(126,50,31)"}
+{"word":"AUSTRALIAN SECURITIES AND INVESTMENTS COMMISSION ACT 2001","color":"rgb(82,93,132)"}
+{"word":"JUMPSTART OUR BUSINESS STARTUPS","color":"rgb(220,212,233)"}
+{"word":"SECURITIES ACT","color":"rgb(94,19,204)"}
+{"word":"EIDAS","color":"rgb(85,190,181)"}
+{"word":"DEPOSIT INSURANCE ACT","color":"rgb(178,216,221)"}
+{"word":"FEDERAL RESERVE ACT","color":"rgb(192,37,55)"}
+{"word":"FOREIGN ACCOUNT TAX COMPLIANCE ACT","color":"rgb(34,228,27)"}
+{"word":"CONSUMER LEASING ACT","color":"rgb(112,200,15)"}
+{"word":"CENTRAL BANK (SUPERVISION AND ENFORCEMENT) ACT 2013","color":"rgb(86,5,25)"}
+{"word":"ESMA REGULATION","color":"rgb(45,68,225)"}
+{"word":"PROSPECTUS DIRECTIVE","color":"rgb(1,207,14)"}
+{"word":"SRDII","color":"rgb(3,153,64)"}
+{"word":"FINANCIAL INSTRUMENTS AND EXCHANGE ACT","color":"rgb(134,109,241)"}
+{"word":"CONSUMER CREDIT ACT","color":"rgb(181,57,112)"}
+{"word":"MONEY MARKET FUND","color":"rgb(255,162,59)"}
+{"word":"ELTIF","color":"rgb(26,76,150)"}
+{"word":"EUVECA","color":"rgb(242,46,82)"}
+{"word":"EUSEF","color":"rgb(79,187,226)"}
+{"word":"CAPITAL REQUIREMENTS","color":"rgb(76,160,171)"}
+{"word":"PREVENTION OF MONEY LAUNDERING AND TERRORIST FINANCING ACT","color":"rgb(139,175,185)"}
+{"word":"ENTERPRISE ACT 2002","color":"rgb(141,43,38)"}
+{"word":"KWG","color":"rgb(202,229,243)"}
+{"word":"BANKING ACT","color":"rgb(97,204,193)"}
+{"word":"WPHG","color":"rgb(205,132,249)"}
+{"word":"SECURITIES TRADING ACT","color":"rgb(99,243,182)"}
+{"word":"PAYMENT SERVICES ACT 2019","color":"rgb(232,185,210)"}
+{"word":"FINANCIAL ADVISERS ACT","color":"rgb(156,22,156)"}
+{"word":"SECURITIES AND FUTURES ACT","color":"rgb(98,44,127)"}
+{"word":"FINANCE COMPANIES ACT","color":"rgb(201,243,236)"}
+{"word":"CONSUMER FINANCIAL PROTECTION ACT","color":"rgb(200,102,43)"}
+{"word":"FREEDOM OF INFORMATION","color":"rgb(124,157,75)"}
+{"word":"DATA PROTECTION ACT","color":"rgb(37,34,126)"}
+{"word":"TERRORISM ACT 2000","color":"rgb(231,121,236)"}
+{"word":"PROCEEDS OF CRIME ACT 2002","color":"rgb(22,108,31)"}
+{"word":"GWG","color":"rgb(3,128,161)"}
+{"word":"INTERNAL REVENUE CODE","color":"rgb(39,63,164)"}
+{"word":"NATIONAL CREDIT ACT","color":"rgb(159,107,30)"}
+{"word":"NATIONAL CONSUMER CREDIT PROTECTION ACT","color":"rgb(7,98,224)"}
+{"word":"COMPETITION AND CONSUMER ACT","color":"rgb(142,42,128)"}
+{"word":"TREASURY LAWS AMENDMENT","color":"rgb(153,50,155)"}
+{"word":"HOME MORTGAGE DISCLOSURE","color":"rgb(156,224,56)"}
+{"word":"REGULATORY FLEXIBILITY ACT","color":"rgb(244,12,7)"}
+{"word":"SECURITIES ACT 1933","color":"rgb(8,113,23)"}
+{"word":"INVESTMENT COMPANY ACT","color":"rgb(125,86,128)"}
+{"word":"SECURITIES EXCHANGE ACT","color":"rgb(160,235,135)"}
+{"word":"SECURITIES INVESTOR PROTECTION","color":"rgb(131,51,105)"}
+{"word":"CORPORATIONS ACT 2001","color":"rgb(126,19,38)"}
+{"word":"TAX CUTS AND JOBS ACT","color":"rgb(86,247,229)"}
+{"word":"BANK SECRECY ACT","color":"rgb(60,235,232)"}
+{"word":"DEPOSIT GUARANTEE SCHEMES","color":"rgb(204,103,24)"}
+{"word":"SINGLE RESOLUTION MECHANISM","color":"rgb(146,60,150)"}
+{"word":"ANTI-MONEY LAUNDERING ACT","color":"rgb(93,64,52)"}
+{"word":"NATIONAL PAYMENT SYSTEMS","color":"rgb(51,130,102)"}
+{"word":"NO. 7653","color":"rgb(71,147,153)"}
+{"word":"TARGET2","color":"rgb(36,218,62)"}
+{"word":"COMPANIES ACT","color":"rgb(237,53,176)"}
+{"word":"BANK HOLDING COMPANY ACT","color":"rgb(112,83,156)"}
+{"word":"FEDERAL DEPOSIT INSURANCE ACT","color":"rgb(138,7,102)"}
+{"word":"ECONOMIC GROWTH","color":"rgb(206,54,181)"}
+{"word":"PRIIPS","color":"rgb(71,178,113)"}
+{"word":"COMMODITY EXCHANGE ACT","color":"rgb(170,165,110)"}
+{"word":"TRUTH IN LENDING","color":"rgb(94,169,109)"}
+{"word":"CARES ACT","color":"rgb(106,197,40)"}
+{"word":"INVESTMENT ADVISERS ACT","color":"rgb(231,191,218)"}
+{"word":"SUSTAINABLE FINANCE DISCLOSURE","color":"rgb(156,162,144)"}
+{"word":"LIBOR","color":"rgb(46,75,226)"}
+{"word":"DODD","color":"rgb(252,82,102)"}
+{"word":"MIFID2","color":"rgb(179,32,74)"}
+{"word":"ELECTRONIC IDENTIFICATION AND TRUST SERVICES","color":"rgb(179,18,88)"}
+{"word":"CORRUPTION","color":"rgb(98,153,160)"}
+{"word":"IFRS9","color":"rgb(165,232,211)"}
+{"word":"CORONA","color":"rgb(113,192,116)"}
+{"word":"SOLVENCY II","color":"rgb(247,232,248)"}
+{"word":"INSURANCE DISTRIBUTION DIRECTIVE","color":"rgb(132,213,153)"}
+{"word":"IORP","color":"rgb(139,245,165)"}
+{"word":"(MICA)","color":"rgb(180,146,47)"}
+{"word":"FINANCIAL SERVICES AND MARKETS ACT","color":"rgb(29,129,4)"}
+{"word":"BANKING ORDINANCE","color":"rgb(174,183,202)"}
+{"word":"UNITED NATIONS (ANTI-TERRORISM MEASURES) ORDINANCE","color":"rgb(166,195,130)"}
+{"word":"PSSVFO","color":"rgb(76,146,170)"}
+{"word":"TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION","color":"rgb(254,0,231)"}
+{"word":"DIGITAL SERVICES ACT","color":"rgb(74,131,153)"}
+{"word":"SENIOR MANAGERS AND CERTIFICATION REGIME","color":"rgb(41,53,68)"}
+{"word":"SMCR.SOLVENCY II","color":"rgb(114,114,185)"}
+{"word":"SINGLE SUPERVISORY MECHANISM","color":"rgb(127,181,243)"}
+{"word":"MAD","color":"rgb(92,149,185)"}
+{"word":"MAR","color":"rgb(170,219,116)"}
+{"word":"MARKET","color":"rgb(253,239,58)"}
+{"word":"ABUSE","color":"rgb(122,93,46)"}
+{"word":"RFA","color":"rgb(108,188,50)"}
+{"word":"CARES","color":"rgb(10,251,151)"}
+{"word":"EU Cyber Resilience Act","color":"rgb(186,129,102)"}
+{"word":"Cyber Resilience Act","color":"rgb(56,219,124)"}
+{"word":"Finance Act 2022","color":"rgb(188,73,4)"}
+{"word":"Central Bank (Individual Accountability Framework) Act 2022","color":"rgb(68,41,199)"}
+{"word":"Stablecoin Transparency of Reserves and Uniform Safe Transactions Act of 2022","color":"rgb(88,64,152)"}
+{"word":"Stablecoin TRUST Act of 2022","color":"rgb(153,83,14)"}
+{"word":"Stablecoin Transparency of Reserves and Uniform Safe Transactions (Stablecoin TRUST) Act of 2022","color":"rgb(255,40,198)"}
+{"word":"DCCPA","color":"rgb(230,9,19)"}
+{"word":"Digital Commodities Consumer Protection Act of 2022 (DCCPA)","color":"rgb(93,221,102)"}
+{"word":"The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022","color":"rgb(35,37,105)"}
+{"word":"Privacy Act of 1974 (United States)","color":"rgb(93,143,146)"}
+{"word":"Privacy Act of 1974","color":"rgb(18,251,189)"}
+{"word":"Privacy Act","color":"rgb(234,130,60)"}
+{"word":"Monetary Authority of Singapore (Amendment) Act 2022","color":"rgb(152,21,238)"}
+{"word":"Corporate Sustainability Due Diligence Directive (CSDD)","color":"rgb(89,249,94)"}
+{"word":"Corporate Sustainability Due Diligence Directive","color":"rgb(142,18,56)"}
+{"word":"Corporate Sustainability Due Diligence","color":"rgb(122,186,9)"}
+{"word":"CSDD","color":"rgb(132,160,189)"}
+{"word":"EU Taxonomy Complementary Delegated Act","color":"rgb(152,169,13)"}
+{"word":"Responsible Financial Innovation Act (RFIA)","color":"rgb(163,60,72)"}
+{"word":"Payment Systems and Netting Act 1998 (PSNA) (Australia)","color":"rgb(2,244,77)"}
+{"word":"Payment Systems and Netting Act","color":"rgb(221,146,105)"}
+{"word":"PSNA","color":"rgb(78,147,254)"}
+{"word":"Financial Advisers (Complaints Handling and Resolution) Regulations 2021 (Singapore)","color":"rgb(56,148,44)"}
+{"word":"Corporate Transparency Act (United States)","color":"rgb(219,91,95)"}
+{"word":"Corporate Transparency Act","color":"rgb(142,166,193)"}
+{"word":"EU Cybersecurity Act","color":"rgb(238,212,178)"}
+{"word":"Central Bank of the Republic of China (Taiwan) Act","color":"rgb(63,111,73)"}
+{"word":"2017\/2402","color":"rgb(201,233,104)"}
+{"word":"Countering America\u2019s Adversaries Through Sanctions Act (CAATSA)","color":"rgb(189,18,76)"}
+{"word":"Countering America\u2019s Adversaries Through Sanctions Act","color":"rgb(67,111,29)"}
+{"word":"Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022 (Ireland)","color":"rgb(187,131,1)"}
+{"word":"Consumer Protection (Regulation of Retail Credit and Credit Servicing Firms) Act 2022","color":"rgb(155,245,179)"}
+{"word":"Regulation of Retail Credit and Credit Servicing Firms","color":"rgb(180,54,35)"}
+{"word":"Financial Services and Markets Act 2022 (Singapore)","color":"rgb(98,185,64)"}
+{"word":"Financial Holding Companies Act 2013 (Singapore)","color":"rgb(50,231,94)"}
+{"word":"Financial Holding Companies Act","color":"rgb(251,54,231)"}
+{"word":"Act Governing Electronic Payment Institutions","color":"rgb(6,199,31)"}
+{"word":"Insurance Act (Taiwan)","color":"rgb(158,88,126)"}
+{"word":"Act Governing Electronic Payment Institutions (Taiwan)","color":"rgb(98,174,214)"}
+{"word":"Banking Act (Netherlands)","color":"rgb(195,0,144)"}
+{"word":"Financial Services Reform Act 2001 (Australia)","color":"rgb(122,160,192)"}
+{"word":"Financial Services Reform Act 2001","color":"rgb(70,154,193)"}
+{"word":"Personal Data Protection Act (Taiwan)","color":"rgb(74,101,158)"}
+{"word":"Company Act (Taiwan)","color":"rgb(75,86,246)"}
+{"word":"Company Act","color":"rgb(236,193,13)"}
+{"word":"Financial Holding Company Act (Taiwan)","color":"rgb(110,247,193)"}
+{"word":"Financial Holding Company Act","color":"rgb(182,41,13)"}
+{"word":"Banking Act (Taiwan)","color":"rgb(51,46,29)"}
+{"word":"Interest Rate Risk in the Banking Book (IRRBB)","color":"rgb(244,214,105)"}
+{"word":"Interest Rate Risk in the Banking Book","color":"rgb(214,114,159)"}
+{"word":"IRRBB","color":"rgb(14,102,2)"}
+{"word":"Payment Services Regulations 2019","color":"rgb(138,132,44)"}
+{"word":"Payment Services Regulations 2019 (Singapore)","color":"rgb(153,9,88)"}
+{"word":"Economic Crime (Transparency and Enforcement) Act 2022","color":"rgb(117,59,123)"}
+{"word":"Credit Bureau Act 2016","color":"rgb(174,82,113)"}
+{"word":"Anti-Money Laundering Act of 2020","color":"rgb(214,229,22)"}
+{"word":"Treasury Laws Amendment (2021 Measures No. 1) Act 2021","color":"rgb(69,154,139)"}
+{"word":"Law Number 8 of 2010 concerning the Prevention and Eradication of Money Laundering Money (Undang-Undang Nomor 8 Tahun 2010 tentang Pencegahan dan Pemberantasan TPPU (UU TPPU))","color":"rgb(148,140,61)"}
+{"word":"UU TPPU","color":"rgb(172,144,185)"}
+{"word":"Law Number 8 of 2010","color":"rgb(54,169,72)"}
+{"word":"Thailand Cybersecurity Act B.E. 2564 (2021)","color":"rgb(130,116,179)"}
+{"word":"B.E. 2564","color":"rgb(220,57,254)"}
+{"word":"UK General Data Protection Regulation (UK GDPR)","color":"rgb(99,93,150)"}
+{"word":"UK GDPR","color":"rgb(215,141,192)"}
+{"word":"Data Protection Act 2018","color":"rgb(203,234,24)"}
+{"word":"National Security and Investment Act","color":"rgb(79,204,235)"}
+{"word":"National Security & Investment Act","color":"rgb(154,41,44)"}
+{"word":"UK Data Protection","color":"rgb(83,174,249)"}
+{"word":"Consolidated Law on Banking (TUB) - Legislative Decree 385\/1993 \u2013 [Italy]","color":"rgb(195,214,101)"}
+{"word":"Legislative Decree 385\/1993","color":"rgb(4,148,138)"}
+{"word":"385\/1993","color":"rgb(214,132,56)"}
+{"word":"Consolidated Law on Banking","color":"rgb(154,69,31)"}
+{"word":"TUB","color":"rgb(239,50,3)"}
+{"word":"Preventing Money Laundering and Terrorist Financing (Anti-Money Laundering Act) (Finland)","color":"rgb(136,167,210)"}
+{"word":"444\/2017","color":"rgb(66,148,90)"}
+{"word":"Preventing Money Laundering and Terrorist Financing","color":"rgb(97,69,63)"}
+{"word":"Clarifying Lawful Overseas Use of Data Act (CLOUD Act)","color":"rgb(113,237,56)"}
+{"word":"CLOUD ACT","color":"rgb(225,156,128)"}
+{"word":"Clarifying Lawful Overseas Use of Data Act","color":"rgb(20,232,10)"}
+{"word":"EU Low Carbon Benchmark Regulation","color":"rgb(65,55,58)"}
+{"word":"Low-Carbon Benchmark","color":"rgb(107,230,247)"}
+{"word":"Low-Carbon Benchmark Regulation","color":"rgb(82,236,83)"}
+{"word":"AMLD VI - Anti-Money Laundering Directive VI","color":"rgb(145,221,161)"}
+{"word":"AMLD VI","color":"rgb(47,196,134)"}
+{"word":"Investment firm regulation","color":"rgb(136,55,18)"}
+{"word":"investment firm directive","color":"rgb(85,134,61)"}
+{"word":"2019\/2033","color":"rgb(210,179,130)"}
+{"word":"2019\/2034","color":"rgb(177,56,0)"}
+{"word":"Dual-use","color":"rgb(17,70,98)"}
+{"word":"Dual use","color":"rgb(96,5,55)"}
+{"word":"Moneylenders Act","color":"rgb(185,0,76)"}
+{"word":"Data Governance Act (DGA)","color":"rgb(195,145,216)"}
+{"word":"DGA","color":"rgb(253,136,202)"}
+{"word":"Data Governance Act","color":"rgb(134,112,36)"}
+{"word":"Data Act (European Union)","color":"rgb(101,122,14)"}
+{"word":"EU Data Act","color":"rgb(214,6,199)"}
+{"word":"German Electronic Securities Act (Gesetz zur Einf\u00fchrung elektronischer Wertpapiere \u2013 eWpG)","color":"rgb(33,10,7)"}
+{"word":"Electronic Securities Act","color":"rgb(202,185,27)"}
+{"word":"eWpG","color":"rgb(117,10,19)"}
+{"word":"German Stock Exchange Act (B\u00f6rsengesetz)","color":"rgb(238,255,207)"}
+{"word":"German Financial Market Integrity Strengthening Act (FISG - Finanzmarktintegrit\u00e4tsst\u00e4rkungsgesetz)","color":"rgb(61,15,68)"}
+{"word":"B\u00f6rsengesetz","color":"rgb(126,43,120)"}
+{"word":"FISG","color":"rgb(107,79,177)"}
+{"word":"Finanzmarktintegrit\u00e4tsst\u00e4rkungsgesetz","color":"rgb(168,55,52)"}
+{"word":"Financial Market Integrity Strengthening Act","color":"rgb(199,85,211)"}
+{"word":"Stock Exchange Act","color":"rgb(208,176,212)"}
+{"word":"Banking Executive Accountability Regime","color":"rgb(231,84,107)"}
+{"word":"Banking Executive Accountability Regime(BEAR)","color":"rgb(178,182,179)"}
+{"word":"BEAR","color":"rgb(223,56,88)"}
+{"word":"Financial Accountability Regime (FAR)","color":"rgb(122,81,93)"}
+{"word":"FAR","color":"rgb(80,1,106)"}
+{"word":"Financial Accountability Regime","color":"rgb(84,121,220)"}
+{"word":"Legislative and Regulatory Reform Act 2006","color":"rgb(159,68,211)"}
+{"word":"LRRA","color":"rgb(235,248,65)"}
+{"word":"Digital Markets Act (DMA)","color":"rgb(136,138,26)"}
+{"word":"Digital Markets Act","color":"rgb(3,67,218)"}
+{"word":"DMA","color":"rgb(133,171,60)"}
+{"word":"SANCTION","color":"rgb(84,155,204)"}
+{"word":"SANCTIONS","color":"rgb(184,31,27)"}
+{"word":"BASEL","color":"rgb(114,4,101)"}
+{"word":"SUSTAINABLE DEVELOPMENT","color":"rgb(145,220,79)"}
+{"word":"GAAP","color":"rgb(50,35,12)"}
+{"word":"IOSCO","color":"rgb(215,255,255)"}
+{"word":"ELECTRONIC MONEY","color":"rgb(210,60,7)"}
+{"word":"E-MONEY","color":"rgb(153,199,181)"}
+{"word":"WITHDRAWAL","color":"rgb(131,84,219)"}
+{"word":"WITHDRAWAL AGREEMENT","color":"rgb(242,9,24)"}
+{"word":"BANK","color":"rgb(77,151,181)"}
+{"word":"BANKING","color":"rgb(225,216,172)"}
+{"word":"FINANCE","color":"rgb(224,195,62)"}
+{"word":"FINANCIAL","color":"rgb(216,133,204)"}
+{"word":"COVID","color":"rgb(94,238,172)"}
+{"word":"COVID-19","color":"rgb(69,62,85)"}
+{"word":"CORONAVIRUS","color":"rgb(176,20,183)"}
+{"word":"COVID19","color":"rgb(171,36,60)"}
+{"word":"REGULATION","color":"rgb(160,196,214)"}
+{"word":"ACT","color":"rgb(235,79,224)"}
+{"word":"ORDINANCE","color":"rgb(57,154,16)"}
+{"word":"IBOR","color":"rgb(248,104,71)"}
+{"word":"SOFR","color":"rgb(4,46,179)"}
+{"word":"MIFID II","color":"rgb(67,39,57)"}
+{"word":"MIFIR","color":"rgb(117,234,217)"}
+{"word":"SRD2","color":"rgb(124,161,29)"}
+{"word":"231\/2013","color":"rgb(89,55,138)"}
+{"word":"2018\/849","color":"rgb(144,35,203)"}
+{"word":"2016\/2011","color":"rgb(91,182,176)"}
+{"word":"2008\/48\/EU","color":"rgb(174,66,42)"}
+{"word":"1060\/2009","color":"rgb(1,2,62)"}
+{"word":"1093\/2010","color":"rgb(51,105,24)"}
+{"word":"1094\/2010","color":"rgb(130,171,105)"}
+{"word":"2009\/110\/EC","color":"rgb(245,26,156)"}
+{"word":"2015\/760","color":"rgb(152,163,245)"}
+{"word":"346\/2015","color":"rgb(183,83,0)"}
+{"word":"1092\/2012","color":"rgb(248,62,68)"}
+{"word":"345\/2013","color":"rgb(214,164,2)"}
+{"word":"2002\/47\/EC","color":"rgb(60,133,191)"}
+{"word":"2002\/47\/EU","color":"rgb(148,210,198)"}
+{"word":"2015\/847","color":"rgb(234,1,235)"}
+{"word":"2016\/2341","color":"rgb(107,30,113)"}
+{"word":"2016\/97","color":"rgb(132,94,179)"}
+{"word":"2014\/57\/EU","color":"rgb(33,254,43)"}
+{"word":"596\/2014","color":"rgb(245,171,79)"}
+{"word":"2014\/65\/EU","color":"rgb(179,142,220)"}
+{"word":"600\/2014","color":"rgb(172,21,38)"}
+{"word":"2014\/17\/EU","color":"rgb(71,129,217)"}
+{"word":"2014\/92\/EU","color":"rgb(155,210,90)"}
+{"word":"2003\/71\/EU","color":"rgb(208,73,242)"}
+{"word":"2017\/1129","color":"rgb(41,244,47)"}
+{"word":"98\/26\/EC","color":"rgb(92,88,220)"}
+{"word":"260\/2012","color":"rgb(51,14,193)"}
+{"word":"CBDC","color":"rgb(223,182,130)"}
+{"word":"crypto assets","color":"rgb(125,214,54)"}
+{"word":"crypto currency","color":"rgb(103,19,210)"}
+{"word":"DLT","color":"rgb(10,39,125)"}
+{"word":"stablecoin","color":"rgb(124,91,167)"}
+{"word":"reporting","color":"rgb(50,221,200)"}
+{"word":"Market rules","color":"rgb(171,163,93)"}
+{"word":"NCB innovation","color":"rgb(206,106,154)"}
+{"word":"AML","color":"rgb(220,99,208)"}
+{"word":"marketing","color":"rgb(10,234,47)"}
+{"word":"transparency","color":"rgb(175,95,249)"}
+{"word":"digital policies","color":"rgb(215,63,195)"}
+{"word":"central databases","color":"rgb(207,129,50)"}
+{"word":"reporting protocols","color":"rgb(219,39,84)"}
+{"word":"standards","color":"rgb(172,234,122)"}
+{"word":"AI Hub","color":"rgb(74,46,95)"}
+{"word":"consolidated tape","color":"rgb(110,184,139)"}
+{"word":"CRR 430C","color":"rgb(81,177,191)"}
+{"word":"ISO20022","color":"rgb(56,180,66)"}
+{"word":"market data","color":"rgb(190,18,175)"}
+{"word":"privacy","color":"rgb(17,49,131)"}
+{"word":"fines","color":"rgb(181,131,161)"}
+{"word":"scope 3","color":"rgb(252,118,143)"}
+{"word":"technology attack","color":"rgb(43,71,149)"}
+{"word":"technology hazard","color":"rgb(172,178,121)"}
+{"word":"outages","color":"rgb(12,142,10)"}
+{"word":"data corruption","color":"rgb(114,34,102)"}
+{"word":"cyber","color":"rgb(169,103,208)"}
+{"word":"EU-SCICF","color":"rgb(184,46,81)"}
+{"word":"Reg S-P","color":"rgb(69,171,217)"}
+{"word":"cyber strategy","color":"rgb(138,223,44)"}
+{"word":"Business continuity","color":"rgb(152,3,241)"}
+{"word":"concentration risk","color":"rgb(17,199,144)"}
+{"word":"outsourcing","color":"rgb(201,40,203)"}
+{"word":"OpRisk","color":"rgb(47,38,158)"}
+{"word":"third party risk","color":"rgb(151,58,254)"}
+{"word":"Cyber resilience","color":"rgb(119,16,104)"}
+{"word":"DLT standards","color":"rgb(87,90,132)"}
+{"word":"OpRes","color":"rgb(16,157,160)"}
+{"word":"FinTech","color":"rgb(237,111,28)"}
+{"word":"RegTech","color":"rgb(4,4,97)"}
+{"word":"SupTech","color":"rgb(154,33,130)"}
+{"word":"Digital Regulatory Reporting","color":"rgb(212,215,207)"}
+{"word":"governance","color":"rgb(162,14,16)"}
+{"word":"innovation","color":"rgb(206,69,88)"}
+{"word":"market abuse","color":"rgb(116,157,133)"}
+{"word":"tax crime","color":"rgb(189,168,227)"}
+{"word":"travel rule","color":"rgb(126,197,170)"}
+{"word":"ALMA","color":"rgb(7,234,67)"}
+{"word":"Ben Ownership","color":"rgb(67,134,223)"}
+{"word":"company registries","color":"rgb(195,107,117)"}
+{"word":"Economic Crime Plan","color":"rgb(48,197,4)"}
+{"word":"SARs","color":"rgb(168,205,135)"}
+{"word":"technology policy","color":"rgb(254,153,124)"}
+{"word":"third party risk management","color":"rgb(246,146,131)"}
+{"word":"AI","color":"rgb(106,9,232)"}
+{"word":"API","color":"rgb(39,202,83)"}
+{"word":"Cloud data","color":"rgb(67,156,183)"}
+{"word":"ESG data","color":"rgb(39,56,221)"}
+{"word":"quantum","color":"rgb(86,60,202)"}
+{"word":"regulatory reporting","color":"rgb(48,47,82)"}
+{"word":"EU Anti-Money Laundering Authority (AMLA) Regulation","color":"rgb(148,160,139)"}
+{"word":"AMLA regulation","color":"rgb(84,161,195)"}
