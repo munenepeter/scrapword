@@ -4,18 +4,20 @@
 {"word":"CA 2001","color":"rgb(143,228,214)"}
 {"word":"Corporations Act","color":"rgb(2,238,222)"}
 {"word":"NCCP Act","color":"rgb(47,170,248)"}
-{"word":"Electronic Transactions Act","color":"rgb(179,247,165)"}
-{"word":"Artificial Intelligence Act","color":"rgb(224,81,231)"}
+{"word":"CSRD","color":"rgb(67,223,227)"}
+{"word":"CRA Regulation","color":"rgb(129,65,22)"}
 {"word":"UK ETS","color":"rgb(32,11,47)"}
+{"word":"575\/2013","color":"rgb(157,5,116)"}
 {"word":"Data Privacy Act of 2012","color":"rgb(114,161,125)"}
 {"word":"Bank of England Act 1998","color":"rgb(203,26,99)"}
+{"word":"Electronic Transactions Act","color":"rgb(179,247,165)"}
+{"word":"Artificial Intelligence Act","color":"rgb(224,81,231)"}
 {"word":"UK Emission Trading Scheme","color":"rgb(233,216,212)"}
 {"word":"Global Anti-Corruption Sanctions Regulations 2021","color":"rgb(89,212,188)"}
 {"word":"IAC - Individual Accountability and Conduct","color":"rgb(168,112,133)"}
 {"word":"IAC","color":"rgb(238,216,250)"}
 {"word":"Individual Accountability and Conduct","color":"rgb(93,31,215)"}
 {"word":"Corporate Sustainability Reporting Directive - CSRD","color":"rgb(39,109,110)"}
-{"word":"CSRD","color":"rgb(67,223,227)"}
 {"word":"Corporate Sustainability Reporting Directive","color":"rgb(16,221,193)"}
 {"word":"Capital Requirements Directive VI (CRD VI)","color":"rgb(31,141,1)"}
 {"word":"CRD VI","color":"rgb(29,61,53)"}
@@ -129,7 +131,6 @@
 {"word":"Regulation (EU) 2016\/1011","color":"rgb(138,221,187)"}
 {"word":"Regulation 2016\/1011\/EU","color":"rgb(8,227,0)"}
 {"word":"CMU","color":"rgb(146,14,85)"}
-{"word":"Capital Markets Union","color":"rgb(228,235,177)"}
 {"word":"2013\/36\/EU","color":"rgb(156,85,12)"}
 {"word":"CRD 4","color":"rgb(229,93,23)"}
 {"word":"CRD IV","color":"rgb(204,107,35)"}
@@ -151,7 +152,6 @@
 {"word":"Capital Requirements Directive5","color":"rgb(79,106,37)"}
 {"word":"Capital Requirements DirectiveV","color":"rgb(118,37,152)"}
 {"word":"Directive (EU) 2019\/878","color":"rgb(253,35,163)"}
-{"word":"575\/2013","color":"rgb(157,5,116)"}
 {"word":"CRR","color":"rgb(10,78,134)"}
 {"word":"Capital Requirements Regulation","color":"rgb(68,173,246)"}
 {"word":"Capital Requirements Regulation 2013","color":"rgb(65,176,14)"}
@@ -177,8 +177,8 @@
 {"word":"(EU) 2016\/2258","color":"rgb(241,102,69)"}
 {"word":"2016\/2258","color":"rgb(72,80,87)"}
 {"word":"DIRECTIVE 2016\/2258","color":"rgb(23,174,147)"}
-{"word":"CRA Regulation","color":"rgb(129,65,22)"}
 {"word":"CRAR","color":"rgb(149,206,87)"}
+{"word":"Capital Markets Union","color":"rgb(228,235,177)"}
 {"word":"Credit Rating Agencies Regulation","color":"rgb(25,110,161)"}
 {"word":"Regulation (EU) No 462\/2013","color":"rgb(247,130,43)"}
 {"word":"Directive (EU) 2019\/1160","color":"rgb(153,221,8)"}

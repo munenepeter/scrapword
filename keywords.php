@@ -1,4 +1,9 @@
 <?php include "base.php"; ?>
+<?php $st_keywords = []; ?>
+<?php foreach ($s_keyWords as $keyWord) : ?>
+    <?php $keyWord = json_decode($keyWord); ?>
+    <?php array_push($st_keywords, strtolower($keyWord->word)); ?>
+<?php endforeach; ?>
 <div class="space-y-4 p-4 mt-8">
     <div class="p-6 mx-auto max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
         <h1 class="mb-2 text-2xl font-bold tracking-tight text-gray-900">
@@ -17,14 +22,13 @@
     </div>
 
     <div class="p-6  bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
-        <h1 class="mb-2 text-2xl font-bold tracking-tight">
-            <?php $st_keywords = []; ?>
+        <h1 class="text-2xl font-bold tracking-tight text-gray-900">Currently we have<?=number_format(count($st_keywords))?> pearls to search for</h1>
+        <div class="text-left  mt-4">
             <?php foreach ($s_keyWords as $keyWord) : ?>
                 <?php $keyWord = json_decode($keyWord); ?>
-                <?php array_push($st_keywords, strtolower($keyWord->word)); ?>
-                <button style="background-color:<?= $keyWord->color; ?>;" type="button" class="text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"><?= $keyWord->word; ?></button>
+                <button style="background-color:<?= $keyWord->color; ?>;" type="button" class="text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"><?= ucfirst($keyWord->word); ?></button>
             <?php endforeach; ?>
-        </h1>
+        </div>
     </div>
 </div>
 

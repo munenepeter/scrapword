@@ -15,7 +15,8 @@
             <button style="background-color:<?= $keyWord->color; ?>;" type="button" class="text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"><?= ucfirst($keyWord->word); ?></button>
         <?php endforeach; ?>
         <div x-data="{ keywords: false }">
-            <button @click.prevent="keywords = true" type="button" class="bg-green-700 text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-semibold italic rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">+<?= count($st_keywords) - 11; ?> more</button>
+            <button @click.prevent="keywords = true" type="button" class="bg-green-700 text-white focus:outline-none focus:ring-4 focus:ring-blue-300 font-semibold italic rounded-full text-sm px-2 py-1 text-center mr-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">+<?= number_format(count($st_keywords) - 11); ?> more</button>
+
             <template x-if="keywords">
                 <div class="absolute top-0 left-0 w-full h-full flex items-center justify-center z-10" style="background-color: rgba(0,0,0,.5);">
                     <div class="bg-green-50 h-auto p-2 md:max-w-screen-lg md:p-2 lg:p-4 shadow-xl rounded mx-2 md:mx-0" @click.away="open = false">
@@ -31,12 +32,6 @@
             </template>
         </div>
     </div>
-
-
-
-
-
-
     <div class="p-6 mx-auto max-w-sm bg-white rounded-lg border border-gray-200 shadow-md dark:bg-gray-800 dark:border-gray-700">
         <h1 class="mb-2 text-2xl font-bold tracking-tight">
             <?php if (isset($_GET['error'])) : ?>
@@ -72,7 +67,7 @@
             return trim($string);
         }
         function highlightWords($text, $word) {
-            $text = preg_replace(' # ' . preg_quote($word->word) . ' #i ', '<span name="keywords_found" class="underline rounded font-semibold text-white" style="background-color:' . $word->color . ';">\\0</span>', $text);
+            $text = preg_replace(' # ' . preg_quote($word->word) . ' #i ', '<span name="keywords_found_in_doc" class="underline rounded font-semibold text-white" style="background-color:' . $word->color . ';">\\0</span>', $text);
             return "<p class='font-normal text-gray-700'>$text</p>";
         }
 
@@ -93,7 +88,10 @@
     ?>
 
         <div>
-            <p class="mb-2"><span id="keywords_found" class="text-red-500 hover:underline font-semibold italic"></span></p>
+            <p class="mb-2">
+                <span id="keywords_found_txt" class="text-gray-500 font-semibold"></span>
+                <span id="keywords_found" class="text-red-500 font-semibold italic"></span>
+            </p>
             <div class="border m-4 p-2 rounded-md">
                 <?php echo $text ?>
             </div>
@@ -102,19 +100,24 @@
     }
     ?>
 </div>
-</body>
-
-</html>
 <script>
     let keywords_found = [];
-    document.getElementsByName('keywords_found').forEach(data => {
+    document.getElementsByName('keywords_found_in_doc').forEach(data => {
         keywords_found.push(data.innerText.toLowerCase());
     });
-    let unique = [...new Set(keywords_found)];
+    let trimed_keywords_found = keywords_found.map(str => str.trim());
+    let unique_keywords = [...new Set(trimed_keywords_found)];
 
-    if (unique.length > 0) {
-        document.getElementById('keywords_found').innerText = "Found the following keywords:  " + unique.toString();
+    if (unique_keywords.length > 0) {
+        document.getElementById('keywords_found_txt').innerText = "Found " + unique_keywords.length + " of <?= count($st_keywords) ?>  keywords:  ";
+        document.getElementById('keywords_found').innerText = unique_keywords.toString()
     } else {
-        document.getElementById('keywords_found').innerText = "Oops, no Keywords were found!"
+        document.getElementById('keywords_found_txt').innerText = "Oops, no Keywords were found!"
     }
 </script>
+
+<div class="border-t bg-gray-50 left-50 w-full  bottom-0" style="position: fixed;  left: 50%; transform: translate(-50%, 0);">
+    <div class="text-gray-900 text-sm text-center">
+        <div class="my-5 text-center">&copy; 2020 - <?= date('Y') ?> All rights reserved | Chungu Developers</div>
+    </div>
+</div>
