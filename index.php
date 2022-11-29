@@ -71,7 +71,10 @@
             return "<p class='font-normal text-gray-700'>$text</p>";
         }
 
-        $html = file_get_contents($_GET['url']);
+        if ($html = @file_get_contents($_GET['url']) === false) {
+            echo "<p class='font-semibold text-red-500 text-center'>An error happened while trying to retrieve the data.....</p>";
+            die;
+        }
 
         $parser = new \Smalot\PdfParser\Parser();
 
